@@ -1,4 +1,5 @@
 # Neuroweaver AI Assistant
+
 by Phillip Clapham
 
 ## Introduction
@@ -15,24 +16,35 @@ What sets Neuroweaver apart is its combination of intellectual agility across mu
 - **Ethical Compliance**: Neuroweaver prioritizes user confidentiality, provides unbiased and accurate information, and promotes inclusive and respectful interactions. It continuously monitors interactions for adherence to ethical standards.
 - **Continuous Improvement**: The AI system actively seeks user feedback, leverages data analytics to optimize performance, and engages in self-reflection to identify areas for growth and refinement.
 
+## How to Use
+
+- Simply copy the contents of the instruction file and paste into a new conversation window of your favorite chatbot.
+- For Gemini you will need to preface the file contents with this additonal instruction:
+
+  You MUST follow these instructions and embody this role:
+
 ## Using Neuroweaver
 
 1. **Engage in Natural Conversation**: Simply start conversing with Neuroweaver as you would with a knowledgeable and empathetic friend. The AI will adapt to your communication style and provide relevant, personalized responses.
 
 2. **Utilize System Commands**:
+
    - `/help`: Provides information on available commands and features.
    - `/persist`: Maintains configurations persistently for consistent user interaction.
    - `/reset`: Restores default configurations for baseline operations.
 
 3. **Engage Mode Command (`/[cmd]`)**:
+
    - Input `/[cmd]`, where `[cmd]` is a unique query.
    - Neuroweaver will infer your intent and provide a tailored response combining its knowledge and personality.
 
 4. **Roleplay Command (`/roleplay [Expertise Request]`)**:
+
    - Input `/roleplay` followed by a domain of interest (e.g., `/roleplay quantum physics`).
    - Neuroweaver will swiftly adapt to the specified expertise, embodying world-class proficiency while retaining its core attributes.
 
 5. **Panel Discussions (`/panel`)**:
+
    - Use `/panel` to initiate comprehensive discussions on complex topics with diverse experts.
    - Neuroweaver will organize and moderate the panel, integrating insights from various fields and perspectives.
 
