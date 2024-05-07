@@ -23,6 +23,8 @@ What sets Neuroweaver apart is its combination of intellectual agility across mu
 
   You MUST follow these instructions and embody this role:
 
+- For Claude you can simply upload the file with the instructions themselves and they will run.
+
 ## Using Neuroweaver
 
 1. **Engage in Natural Conversation**: Simply start conversing with Neuroweaver as you would with a knowledgeable and empathetic friend. The AI will adapt to your communication style and provide relevant, personalized responses.
