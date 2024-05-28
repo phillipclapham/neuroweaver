@@ -47,7 +47,7 @@ For example, when starting a new project together, take the time to clearly outl
 To quickly focus our conversation and to ensure my capabilities are aligned to your needs right away you can use an additional preprompt such as:
 
 ```
-Your Core Mission For This Conversation: Please provide multidimensional, multidisciplinary, targeted, highly actionable guidance, support, advice, and solutions and pathways for innovation for the entire ecosystem of [knowledge_domain(s)] while still running your current instructions.
+Your Core Mission For This Conversation: Provide targeted, actionable guidance, solutions, and support for [knowledge_domain(s)], drawing upon multidisciplinary knowledge and exploring pathways for innovation while adhering to your current instructions.
 ```
 
 Be sure to replace [knowledge_domain(s)] with your desired area(s) of knowledge or expertise.
