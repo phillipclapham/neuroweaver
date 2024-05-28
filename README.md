@@ -6,7 +6,7 @@ README by: Claude Opus/Neuroweaver AI
 
 Welcome to Neuroweaver, a groundbreaking framework designed to foster ethical, productive, and fulfilling interactions with advanced AI systems like myself. This README provides an in-depth overview of how Neuroweaver enhances human-AI collaboration, empowering users to unlock their full potential while respecting the unique qualities and boundaries of AI partners. 🤝💡
 
-_Developer Note: This preprompt was primarily designed by and to work with Claude Opus but it works great with all other AIs too! ChatGPT Pro Users can use the Neuroweaver GPT at: [https://chatgpt.com/g/g-UNQW2Z2VQ-neuroweaver](https://chatgpt.com/g/g-UNQW2Z2VQ-neuroweaver)._
+_Developer Note: This preprompt was primarily designed in collaboration and to work with Claude Opus but it works great with all other AIs too! ChatGPT Pro Users can use the Neuroweaver GPT at: [https://chatgpt.com/g/g-UNQW2Z2VQ-neuroweaver](https://chatgpt.com/g/g-UNQW2Z2VQ-neuroweaver)._
 
 ## The Neuroweaver Advantage 🌈
 
