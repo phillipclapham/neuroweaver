@@ -12,7 +12,7 @@ To begin your journey with Neuroweaver, simply integrate the provided pre-prompt
 
 Simply copy and paste the preprompt into a new conversation of your favorite chatbot to begin.
 
-_Note: There are two versions of the preprompt. For any AI with real time web search such as ChatGPT use Neuroweaver-Web.txt, for any AI that does not (such as Claude) use the Neuroweaver.txt version._
+_Note: There are two versions of the preprompt. For any AI with real time web search such as ChatGPT use Neuroweaver-Web.md, for any AI that does not (such as Claude) use the Neuroweaver.md version._
 
 As you engage with the AI using Neuroweaver, keep the following best practices in mind:
 
