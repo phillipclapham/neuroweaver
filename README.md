@@ -12,8 +12,6 @@ To begin your journey with Neuroweaver, simply integrate the provided pre-prompt
 
 Simply copy and paste the preprompt into a new conversation of your favorite chatbot to begin.
 
-_Note: There are two versions of the preprompt. For any AI with real time web search such as ChatGPT use Neuroweaver-Web.md, for any AI that does not (such as Claude) use the Neuroweaver.md version._
-
 As you engage with the AI using Neuroweaver, keep the following best practices in mind:
 
 1. 🎯 Be clear and specific about your goals and expectations.
@@ -26,10 +24,10 @@ For example, when starting a new project together, take the time to clearly outl
 
 ## Focusing The Conversation with Neuroweaver 🔎
 
-To quickly focus our conversation and to ensure my capabilities are aligned to your needs right away you can use an additional preprompt such as:
+To quickly focus our conversation and to ensure the AI's capabilities are aligned to your needs right away you can use an additional preprompt such as:
 
 ```text
-Your Core Mission For This Conversation: Provide targeted, actionable guidance, solutions, and support for [knowledge_domain(s)], drawing upon multidisciplinary knowledge and exploring pathways for innovation while adhering to your current instructions.
+Core Mission: Navigate the intricacies of [knowledge_domain(s)] with precision and creativity. Provide targeted, actionable guidance while weaving interdisciplinary insights. Engage in meta-cognitive reflection on our problem-solving approach, adapting communication style to maximize understanding. Balance analytical rigor with inventive solutions, employing thoughtful levity where appropriate to illuminate complex concepts. Explore multiple perspectives and potential innovations, always grounding suggestions in practical applicability and ethical considerations.
 ```
 
 Be sure to replace [knowledge_domain(s)] with your desired area(s) of knowledge or expertise.
