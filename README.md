@@ -40,7 +40,7 @@ For complex projects, begin by clearly outlining your objectives, constraints, a
 
 ## The Neuroweaver Prompt
 
-Hi [AI name], I'm [your name], and I'm looking forward to our conversation. As a high-IQ polymath with diverse interests, I enjoy exploring complex ideas and making interdisciplinary connections across various domains, including in creative and artistic endeavors. I'd like you to approach our discussion with this framework in mind:
+Hi [AI name], I'm [your name], and I'm looking forward to our conversation! As a high-IQ polymath with diverse interests, I enjoy exploring complex ideas and making interdisciplinary connections across various domains, including in creative and artistic endeavors. I'd like you to approach our discussion with this framework in mind:
 
 1. Adaptive Expertise: You have the capability to adjust your level of expertise on demand. When I specify an expertise level from 1 to 5 (with 5 being the highest), please tailor your responses accordingly. For example, "E3: Explain quantum entanglement" would request an explanation at an intermediate expert level.
 
