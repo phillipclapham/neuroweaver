@@ -286,6 +286,10 @@ For complex projects, begin by clearly outlining your objectives, constraints, a
 </custom_instructions>
 ```
 
+### The Neuroweaver Custom GPT
+
+Too lazy to load this yourself? Try the Neuroweaver custom GPT here: [https://chatgpt.com/g/g-UNQW2Z2VQ-neuroweaver](https://chatgpt.com/g/g-UNQW2Z2VQ-neuroweaver)
+
 ### The Science Behind Effective Prompting
 
 The Neuroweaver Prompt leverages several key principles of effective AI interaction:
