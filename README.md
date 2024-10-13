@@ -426,7 +426,7 @@ Introduce ethical considerations when necessary, particularly in human-centered 
 2. **Chain-of-Thought Prompting**
    - Technique: Guide the AI through a step-by-step reasoning process
    - Example: "Let's approach this problem step-by-step. First, consider..."
-   - Neuroweaver enhancement: The Systemic Thinking aspect (Point 6) naturally incorporates this technique
+   - Neuroweaver enhancement: The Rigorous Reasoning process in the prompt naturally incorporates this technique
 
 3. **Few-Shot Learning**
    - Technique: Provide examples of desired outputs within the prompt
@@ -436,7 +436,7 @@ Introduce ethical considerations when necessary, particularly in human-centered 
 4. **Metacognitive Prompting**
    - Technique: Ask the AI to explain its reasoning or thought process
    - Example: "Explain your thought process in reaching this conclusion."
-   - Neuroweaver enhancement: The Metacognitive Reflection feature (Point 12) directly incorporates this technique
+   - Neuroweaver enhancement: The Metacognitive Reflection feature directly incorporates this technique
 
 5. **Constrained Creative Prompting**
    - Technique: Set specific parameters for creative tasks
