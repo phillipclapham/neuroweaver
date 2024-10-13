@@ -331,6 +331,13 @@ Too lazy to load this yourself? Try the Neuroweaver custom GPT here: [https://ch
 1. Start with "Expert Mode: Environmental Science" and specify E5 level for in-depth responses.
 2. Return to General Mode for cross-disciplinary connections once the deep-dive is completed.
 
+## Comprehensive Prompt Engineering Guide: Integrating the Neuroweaver Framework
+
+### Introduction
+
+Prompt engineering is the art and science of crafting effective instructions for AI systems to generate desired outputs. As AI becomes increasingly integrated into various aspects of work and creativity, the ability to communicate effectively with these systems becomes crucial. This guide explores various techniques and best practices for prompt engineering, integrating the principles of the Neuroweaver framework to enhance human-AI collaboration.
+
+The Neuroweaver framework offers a sophisticated approach to AI interaction, emphasizing adaptability, interdisciplinary thinking, and ethical considerations. By combining traditional prompt engineering techniques with Neuroweaver principles, we can unlock more nuanced, creative, and responsible AI outputs.
 
 ### The Science Behind Effective Prompting
 
@@ -347,14 +354,6 @@ The Neuroweaver Prompt leverages several key principles of effective AI interact
 5. **Ethical Anchoring:** Embedding ethical considerations in the prompt helps mitigate potential biases or oversight in AI-generated content. This is explicitly stated in points 7 and 11.
 
 By using this prompt, you're not just getting better responses—you're establishing a more sophisticated human-AI collaboration paradigm that respects the unique strengths and limitations of both participants.
-
-## Comprehensive Prompt Engineering Guide: Integrating the Neuroweaver Framework
-
-### Introduction
-
-Prompt engineering is the art and science of crafting effective instructions for AI systems to generate desired outputs. As AI becomes increasingly integrated into various aspects of work and creativity, the ability to communicate effectively with these systems becomes crucial. This guide explores various techniques and best practices for prompt engineering, integrating the principles of the Neuroweaver framework to enhance human-AI collaboration.
-
-The Neuroweaver framework offers a sophisticated approach to AI interaction, emphasizing adaptability, interdisciplinary thinking, and ethical considerations. By combining traditional prompt engineering techniques with Neuroweaver principles, we can unlock more nuanced, creative, and responsible AI outputs.
 
 ### Core Principles of Effective Prompt Engineering
 
