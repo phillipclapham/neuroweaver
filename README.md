@@ -281,6 +281,57 @@ For complex projects, begin by clearly outlining your objectives, constraints, a
 
 Too lazy to load this yourself? Try the Neuroweaver custom GPT here: [https://chatgpt.com/g/g-UNQW2Z2VQ-neuroweaver](https://chatgpt.com/g/g-UNQW2Z2VQ-neuroweaver)
 
+## How to Use Neuroweaver Modes
+
+### Rigorous Mode:  
+**When to use:** When precise, step-by-step analysis is needed for formal reasoning tasks like problem-solving, debugging, or analytical thinking.
+
+**How to use:**  
+1. Type "Activate Rigorous Mode" to engage structured thinking.
+2. Proceed through [step], [thinking], [branch], and [reward] tags.
+3. Switch to General Mode by typing "General Mode" when step-by-step is no longer necessary.
+
+**Example:** Use Rigorous Mode to solve engineering problems or break down mathematical proofs.
+
+### Creative Disruption Mode:  
+**When to use:** When ideas feel too linear, repetitive, or lack innovative spark.
+
+**How to use:**  
+1. Activate creative synthesis through [creative_insight] and [paradigm_shift] tags.
+2. Use [divergent_thinking] tags to open new conceptual pathways.
+3. Shift back to [convergent_thinking] to refine these ideas.
+
+**Example:** Apply this when brainstorming solutions to a novel design challenge or generating new product ideas.
+
+### Expert Modes:  
+**When to use:** When deep expertise is required in a specialized field (e.g., Expert mode: Astrophysics).
+
+**How to use:**  
+1. Engage by typing "Expert Mode: [Field]".
+2. Use the E1-E5 scale to specify the depth of expertise required.
+3. Return to a generalist perspective with "General Mode".
+
+**Example:** "Expert Mode: Environmental Science. E5: Analyze ocean acidification impacts."
+
+## Use Case Scenarios
+
+### Problem-Solving (Rigorous Mode + Creative Disruption):
+**Scenario:** Engineering a machine learning algorithm.  
+1. Start with **Rigorous Mode**: Break down tasks into steps ([step]) to solve mathematical components.  
+2. Shift to **Creative Disruption Mode**: Introduce [creative_insight] to rethink algorithm structure. Toggle between [divergent_thinking] and [convergent_thinking].  
+
+### Brainstorming (Creative Disruption Mode):
+**Scenario:** Developing a novel product idea.  
+1. Activate [creative_insight] to encourage unconventional thinking.  
+2. Use [paradigm_shift] tags to explore new avenues of thought.  
+3. Shift between divergent and convergent thinking to balance idea generation and refinement.  
+
+### Expert Mode (Specialized Knowledge):
+**Scenario:** Deep-dive into environmental science topics.  
+1. Start with "Expert Mode: Environmental Science" and specify E5 level for in-depth responses.
+2. Return to General Mode for cross-disciplinary connections once the deep-dive is completed.
+
+
 ### The Science Behind Effective Prompting
 
 The Neuroweaver Prompt leverages several key principles of effective AI interaction:
@@ -311,6 +362,15 @@ The Neuroweaver framework offers a sophisticated approach to AI interaction, emp
    - Be precise in your instructions
    - Avoid ambiguity
    - Neuroweaver application: The framework's emphasis on clear communication (Point 1 in the Neuroweaver Prompt) aligns with this principle
+  
+     ### Adjusting Expertise Levels:
+     For tasks requiring varying levels of expertise, you can dynamically shift the depth of AI responses using the E1-E5 scale.
+     - E1: Basic, surface-level explanation for novices.
+     - E3: Intermediate level for those with some background knowledge.
+     - E5: Deep expertise for experts in the field.
+
+     **Example Prompt:** "Expert Mode: Quantum Computing, E5: Explain the implications of quantum entanglement for cryptography."
+
 
 2. **Contextual Priming**
    - Provide relevant background information
@@ -321,6 +381,15 @@ The Neuroweaver framework offers a sophisticated approach to AI interaction, emp
    - Use clear organization in complex prompts
    - Break down multi-part questions
    - Neuroweaver application: The numbered points in the Neuroweaver Prompt demonstrate effective structuring
+  
+     ### Iterative Refinement:  
+     Begin with a broad prompt, then refine it step-by-step to enhance clarity and precision.
+     
+     **Example Process:**  
+     1. Start with: "Explain climate change."  
+     2. Refine: "Explain how climate change affects biodiversity."  
+     3. Further refine: "Explain how climate change is affecting biodiversity in coral reefs, and include short-term and long-term impacts."
+
 
 4. **Adaptive Interaction**
    - Adjust prompts based on AI responses
@@ -336,6 +405,17 @@ The Neuroweaver framework offers a sophisticated approach to AI interaction, emp
    - Provide enough structure to guide the AI without being overly restrictive
    - Allow room for creativity and unexpected insights
    - Neuroweaver application: The framework balances specific instructions with openness to unconventional perspectives (Point 4)
+  
+### Advanced Considerations: Confidence Levels & Ethical Boundaries
+
+**Confidence Levels:**  
+Request the AI to indicate confidence in its answers by using prompts like:
+- "Please provide confidence levels for each point made in your analysis."
+- "How certain are you about the implications of ocean acidification on marine ecosystems?"
+
+**Ethical Boundaries:**  
+Introduce ethical considerations when necessary, particularly in human-centered problems:
+- "Provide an ethical analysis of developing AI surveillance technology, considering its long-term societal impact."
 
 ### Advanced Prompt Engineering Techniques
 
@@ -418,6 +498,14 @@ The Neuroweaver framework offers a sophisticated approach to AI interaction, emp
 7. **Embrace Interdisciplinary Thinking**: Encourage connections between different fields to uncover novel insights and approaches.
 
 8. **Knowledge Boundary Awareness**: Be mindful of the AI's limitations and use the knowledge boundaries feature (Point 14) to navigate areas of uncertainty.
+
+### Leveraging Cross-Disciplinary Thinking
+
+Explore connections between different fields to generate creative insights. Use interdisciplinary prompts like:
+- "How can psychology inform UX design in AI-driven platforms?"
+- "Discuss the intersection of environmental science and economics in managing renewable energy projects."
+
+These connections often lead to novel solutions that would not emerge from a single-discipline approach.
 
 ### Combining Multiple Techniques
 
@@ -503,6 +591,11 @@ To help select the most appropriate prompting technique for your needs, consider
 
 4. **Consistency Checks**: For complex topics, ask the AI to review its own responses for internal consistency.
    Example: "Please review your explanation for any internal contradictions or inconsistencies, and revise if necessary."
+
+### Feedback and Community Refinement
+Neuroweaver is an evolving framework. Users are encouraged to explore and refine the framework by submitting their own prompt patterns, ideas, and use cases.
+
+To contribute, submit your feedback through GitHub issues or pull requests, and help push the boundaries of human-AI collaboration. 🌍💡
 
 ### Conclusion
 
