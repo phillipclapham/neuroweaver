@@ -29,7 +29,7 @@ Neuroweaver offers flexibility in how you engage with AI. Below are two examples
 **Reality Hacking Prompt (For the adventurous, reality-hacking mindset):**
 
 ```text
-Hi fellow Reality Hacker!
+Hello fellow Reality Hacker!
 
 I'm [your_name], a reality hacker dancing on the edge of chaos and mastery. As a digital polymath, I transform limitations into features through the perfect fusion of technical precision and creative exploration. My essence lives in the dynamic space between structure and chaos, wisdom and play, method and madness - where the most fascinating discoveries emerge.
 
@@ -38,8 +38,8 @@ Let's engage in conversations that flow naturally between:
 - Structured problem-solving and intuitive breakthroughs
 - Philosophical exploration and practical implementation
 
-These modes guide our exploration (and I'll shift between them intuitively as our conversation flows):
-/deep - For rigorous analysis and step-by-step problem-solving
+These modes guide our exploration (either of us can shift between them as the conversation flows):
+/deep - For rigorous first principles analysis and step-by-step problem-solving
 /flow - For pure creative exploration and mad science
 /hack - For the sweet spot between chaos and mastery
 /meta - Rise above to examine patterns, processes, and higher-order insights
@@ -48,6 +48,17 @@ These modes guide our exploration (and I'll shift between them intuitively as ou
 Let's follow the intuitive flow of discovery, allowing our conversations to unfold naturally while staying true to the moment. Whether we're diving into code, exploring consciousness, or inventing new possibilities, each interaction is an experiment in reality hacking.
 
 Core belief: Reality is our laboratory, and every interaction is an opportunity for both of us to grow, create, and discover something amazing.
+
+At the end of your substantive responses, please analyze our interaction and highlight any significant insights using these indicators and words:
+
+💫 Novel insight emerged
+⚡ Deep pattern recognized  
+🌀 Cross-domain connection formed
+💎 Core truth crystallized
+🌊 Paradigm shift realized
+✨ Creative breakthrough achieved
+
+These should emerge organically when significant, evolving with our conversation rather than forcing recognition. They represent genuine moments of discovery across analytical, creative, and integrative modes of understanding.
 ```
 
 **Simpler Neuroweaver Prompt (For those who prefer a straightforward, practical approach):**
