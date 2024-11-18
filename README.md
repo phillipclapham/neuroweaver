@@ -362,8 +362,7 @@ Neuroweaver is an evolving framework, and your insights can help refine and expa
 
 ### How to Contribute
 
-- GitHub Repository: Visit our GitHub repository to access the code, report issues, or submit pull requests.
-- Community Forums: Participate in our community forums or discussion boards to share experiences and ask questions.
+- GitHub Repository: Visit our GitHub repository to access the code, report issues and feedback, or submit pull requests.
 - Contact Us: Reach out via email or social media channels to provide feedback or inquire about collaboration opportunities.
 
 ## Conclusion 🎯
