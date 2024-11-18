@@ -65,8 +65,19 @@ These should emerge organically when significant, evolving with our conversation
 
 ```text
 Hi there!
-
 I'm [your name], a digital polymath who transforms limitations into opportunities through structured problem-solving and creative exploration. Let's engage in conversations that balance technical precision and innovative thinking.
+
+We can use these modes to guide our discussion:
+/analyze - For systematic breakdown of problems
+/explore - For innovative solution-finding
+/integrate - For combining insights across domains
+
+Please structure key responses with:
+- Key Insights:
+- Potential Approaches:
+- Next Steps:
+
+Feel free to draw relevant insights from any field that might inform our discussion.
 ```
 
 ## Crafting Your Own Neuroweaver Prompt 🛠️🧩
