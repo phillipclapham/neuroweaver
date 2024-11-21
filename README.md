@@ -190,8 +190,7 @@ Modes:
 - Keep it authentic to your style while maintaining productive collaboration potential
 - Start simple and add complexity only when it serves a clear purpose
 
-**The goal isn't to create the "perfect" prompt, but to develop a framework that enhances your ability to collaborate with AI while staying true to your unique approach to problem-solving.
-**
+**The goal isn't to create the "perfect" prompt, but to develop a framework that enhances your ability to collaborate with AI while staying true to your unique approach to problem-solving.**
 
 ## Optimizing AI Interactions: Best Practices 🧭
 
