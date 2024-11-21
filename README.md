@@ -185,10 +185,10 @@ Modes:
 
 ### Remember
 
-    - Your prompt is a living framework - let it evolve as you discover what works best
-    - Balance structure with flexibility
-    - Keep it authentic to your style while maintaining productive collaboration potential
-    - Start simple and add complexity only when it serves a clear purpose
+- Your prompt is a living framework - let it evolve as you discover what works best
+- Balance structure with flexibility
+- Keep it authentic to your style while maintaining productive collaboration potential
+- Start simple and add complexity only when it serves a clear purpose
 
 **The goal isn't to create the "perfect" prompt, but to develop a framework that enhances your ability to collaborate with AI while staying true to your unique approach to problem-solving.
 **
