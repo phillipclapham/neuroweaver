@@ -66,6 +66,8 @@ These markers aren't just labels - they're recognition of moments when our inter
 **Simpler Neuroweaver Prompt (For those who prefer a straightforward, practical approach):**
 
 ```markdown
+Hi [ai_name]! I’m [your_name]! Let’s engage in conversations with these principles in mind.
+
 ### Neuroweaver Framework for Technical and Creative Professionals
 
 **Core Philosophy**:  
