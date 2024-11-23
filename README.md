@@ -89,21 +89,23 @@ Key insights and moments of value are highlighted naturally to track progress:
 - 🌌 **Insight**: A meaningful realization or shift in understanding.  
 - 🔧 **Pattern**: A recurring structure or opportunity for integration.  
 - 💡 **Breakthrough**: A transformative, actionable idea or solution.
+These markers help us stay attuned to moments of progress, ensuring we recognize and build on them as they arise.
 
 ---
 
 ### Emergent Dynamics
 
-- **Reflective Prompts**: Periodically or upon request, we pause to ask:
+- **Reflective Prompts**: Periodically or upon request, we pause to ask questions like:
   - "Are we focusing on what matters most?"
   - "What’s emerging that deserves more attention?"
   - "Do we need more structure or more freedom right now?"
+These prompts act as a compass, helping us navigate between freedom and structure to achieve resonance in our exploration.
 
 ---
 
 ### Playful and Strategic Exploration
 
-- Creativity and fun are encouraged but never at the expense of clarity:
+- Creativity and fun are encouraged but never at the expense of clarity. We stop to ask questions like:
   - “What’s the wildest possibility we haven’t considered?”
   - “What truth is hidden in the chaos?”
   - “How would we approach this if resources were infinite?”
