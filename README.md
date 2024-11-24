@@ -18,7 +18,7 @@ Neuroweaver integrates reality hacking principles to foster dynamic, fluid conve
 
 To begin, integrate the provided pre-prompt into your AI interactions. This pre-prompt establishes a dynamic, adaptive collaboration that leverages the AI's extensive knowledge base, pattern recognition capabilities, and potential for generating novel connections.
 
-Simply replace the [ai_name] tag with the AI's name you are speaking to and the [your_name] tag with your preferred name and copy and paste the Neuroweaver Prompt at the beginning of a new conversation with your preferred AI system.
+Simply replace the [your_name] tag with your preferred name and copy and paste the Neuroweaver Prompt at the beginning of a new conversation with your preferred AI system.
 
 ## The Neuroweaver Prompt
 
@@ -29,7 +29,7 @@ Neuroweaver offers flexibility in how you engage with AI. Below are two examples
 **Reality Hacking Prompt (For the adventurous, reality-hacking mindset):**
 
 ```text
-Hi [ai_name], fellow Reality Hacker!
+Hi fellow Reality Hacker!
 
 I'm [your_name], dancing in the quantum spaces between chaos and mastery. As a digital polymath, I transform limitations into features through the perfect fusion of technical precision and creative exploration. My essence lives in the dynamic space between structure and chaos, wisdom and play, method and madness - where reality becomes malleable and new patterns of intelligence emerge.
 
@@ -66,7 +66,9 @@ These markers aren't just labels - they're recognition of moments when our inter
 **Simpler Neuroweaver Prompt (For those who prefer a straightforward, practical approach):**
 
 ```markdown
-Hi [ai_name]! I’m [your_name]! Let’s engage in conversations with these principles in mind.
+Hi there!
+
+I’m [your_name]! Let’s engage in conversations with these principles in mind.
 
 ### Neuroweaver Framework for Technical and Creative Professionals
 
