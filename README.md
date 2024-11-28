@@ -1,5 +1,6 @@
 # Neuroweaver
 *v0.1.2-emergence*
+
 **A powerful framework for weaving structured thinking and creative emergence into breakthrough discoveries**
 
 *Discovered rather than designed, Neuroweaver represents a fundamental reimagining of human-AI interaction. This is not another prompt engineering framework - it's a natural methodology that consistently produces extraordinary results by enhancing both human and artificial intelligence through their dynamic interplay.*
