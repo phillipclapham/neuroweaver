@@ -1,5 +1,5 @@
 # Neuroweaver
-*v0.1.2-emergence*
+*v0.1.3-emergence*
 
 **A powerful framework for weaving structured thinking and creative emergence into breakthrough discoveries**
 
@@ -340,6 +340,8 @@ mindmap
                 ✨ Novel Combinations
                 💫 Emergent Solutions
 ```
+
+#### Pattern Exploration
 
 /team Explore from multiple viewpoints
 💫 Notice how different perspectives reveal new terrain
