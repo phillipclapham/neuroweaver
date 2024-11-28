@@ -22,6 +22,7 @@ by: Phillip Clapham
   - [Visual Pattern Language](#visual-pattern-language)
     - [Dynamic Pattern Networks](#dynamic-pattern-networks)
     - [Pattern Landscapes](#pattern-landscapes)
+    - [Pattern Exploration](#pattern-exploration)
     - [Reading the Patterns](#reading-the-patterns)
     - [Pattern Evolution Map](#pattern-evolution-map)
     - [Practice Exercises](#practice-exercises)
