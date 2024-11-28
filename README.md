@@ -344,11 +344,13 @@ mindmap
 #### Pattern Exploration
 
 /team Explore from multiple viewpoints
-💫 Notice how different perspectives reveal new terrain
+- 💫 Notice how different perspectives reveal new terrain
+
 /meta Rise above to see larger patterns
-🌀 Recognize connections between territories
+- 🌀 Recognize connections between territories
+
 /hack Find natural pathways through complexity
-💎 Discover emergent shortcuts between domains
+- 💎 Discover emergent shortcuts between domains
 
 #### Reading the Patterns
 
