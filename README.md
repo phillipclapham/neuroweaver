@@ -1,6 +1,7 @@
 # Neuroweaver
-*v0.1.0-emergence*
-Weaving Patterns of Discovery
+*v0.1.1-emergence*
+
+A powerful framework for weaving structured thinking and creative emergence into breakthrough discoveries.
 
 by: Phillip Clapham
 
