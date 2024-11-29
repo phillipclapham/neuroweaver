@@ -313,35 +313,35 @@ A software architect was struggling with a complex distributed system problem. T
        - System stress points become clear
        - Failure cascades reveal themselves
 
-3. Pattern Recognition
-   /meta Examine failure patterns
-   - Look for underlying principles
-   - Compare with natural systems
+2. Pattern Recognition
+   - /meta Examine failure patterns
+       - Look for underlying principles
+       - Compare with natural systems
    
-   🌀 Connection forms
+       🌀 Connection forms
 
-   - Ecosystem parallels emerge
-   - Resilience patterns appear
+       - Ecosystem parallels emerge
+       - Resilience patterns appear
 
-5. Synthesis
-   /hack Apply ecological principles
-   - Adapt natural strategies
-   - Integrate resilient patterns
+3. Synthesis
+   - /hack Apply ecological principles
+       - Adapt natural strategies
+       - Integrate resilient patterns
    
-   💎 New architecture forms
+       💎 New architecture forms
 
-   - System boundaries shift
-   - Natural flow emerges
+       - System boundaries shift
+       - Natural flow emerges
 
-7. Validation
-   /team Evaluate solution
-   - Gather diverse perspectives
-   - Test edge cases
+4. Validation
+   - /team Evaluate solution
+       - Gather diverse perspectives
+       - Test edge cases
    
-   ✨ Solution crystallizes
+       ✨ Solution crystallizes
 
-   - System stability confirms
-   - Natural resilience proves out
+       - System stability confirms
+       - Natural resilience proves out
 
 ### Practical Applications
 
@@ -512,18 +512,21 @@ The key is maintaining a balance between active observation and natural emergenc
 /focus single_domain
 - Watch for natural rhythms
 - Notice emergence points
+  
 💫 Document pattern formation
 
 2. Pattern Connection
 /meta connect_patterns
 - Link related insights
 - Build pattern bridges
+  
 ⚡ See larger structures emerge
 
 3. Pattern Evolution
 /deep track_changes
 - Follow pattern development
 - Notice transformation points
+  
 🌀 Understand growth patterns
 
 With these visual patterns as our guide, we can now explore more advanced movements in our practice, seeing how different approaches combine and evolve.
@@ -537,6 +540,7 @@ As practitioners become more familiar with Neuroweaver, they often discover more
 Advanced practitioners often report these sophisticated techniques:
 
 **Recursive Meta-Analysis:**
+
 /meta Examine understanding
 - Map current knowledge
 - Notice thought patterns
@@ -624,6 +628,7 @@ Each methodology has natural points where Neuroweaver's patterns enhance emergen
 In Agile Development:
 
 **Sprint Planning:**
+
 /deep Analyze upcoming challenges
 
 💫 Core patterns emerge from backlog
@@ -637,6 +642,7 @@ In Agile Development:
 ✨ Novel implementation paths emerge
 
 **Daily Standups:**
+
 /focus daily_challenges
 
 💫 Immediate patterns surface
@@ -650,6 +656,7 @@ In Agile Development:
 ⚡ Quick solutions crystallize
 
 **Retrospectives:**
+
 /meta Review emergence patterns
 
 💎 Core truths become visible
@@ -664,44 +671,74 @@ In Agile Development:
 
 In Design Thinking:
 
-Empathize:
+**Empathize**:
+
 /team Engage multiple user perspectives
+
 💫 Initial patterns in user needs emerge
+
 /deep Explore underlying motivations
+
 ⚡ Core user patterns become clear
+
 /meta Track recurring themes
+
 🌀 Cross-user patterns form
 
-Define:
+**Define**:
+
 /deep Analyze gathered insights
+
 💎 Problem patterns crystallize
+
 /meta Connect multiple observations
+
 ⚡ System-level patterns emerge
+
 /team Synthesize collective understanding
+
 ✨ Clear direction forms
 
-Ideate:
+**Ideate**:
+
 /flow Let solutions emerge naturally
+
 💫 Initial ideas surface
+
 /hack Build on promising directions
+
 ⚡ Solution patterns form
+
 /team Cross-pollinate perspectives
+
 ✨ Breakthrough concepts emerge
 
-Prototype:
+**Prototype**:
+
 /hack Quick implementation explorations
+
 💫 Tangible patterns emerge
+
 /team Gather immediate feedback
+
 🌀 Usage patterns become visible
+
 /meta Track effectiveness patterns
+
 💎 Core solutions crystallize
 
-Test:
+**Test**:
+
 /deep Analyze user interactions
+
 ⚡ Usage patterns emerge
+
 /meta Recognize larger patterns
+
 🌊 New understanding forms
+
 /team Gather diverse feedback
+
 ✨ Evolution paths become clear
 
 #### Enhancement Patterns
@@ -782,47 +819,67 @@ mindmap
 When weaving Neuroweaver into existing practices:
 
 1. Start Naturally
+   
 /focus current_practice
 
 - Observe existing patterns
 - Notice natural emergence points
+
 💫 Integration opportunities reveal themselves
 
 2. Build Organically
+
 /flow Follow natural connections
 
 - Let combinations emerge
 - Build on what works
+
 ⚡ New patterns form naturally
 
 3. Track Evolution
+
 /meta Monitor pattern growth
 
 - Document emergent properties
 - Notice system evolution
+
 🌀 Enhanced capabilities emerge
 
 #### Common Integration Patterns
 
 Watch for these frequent emergence patterns:
 
-Enhancement Clusters:
+**Enhancement Clusters:**
+
 /deep Explore related improvements
+
 💫 Groups of enhancements emerge
+
 /meta Track pattern relationships
+
 ⚡ Synergistic combinations form
 
-Flow Channels:
+**Flow Channels:**
+
 /flow Follow natural pathways
+
 🌀 Information highways emerge
+
 /hack Build elegant connections
+
 💎 Pattern bridges form
 
-Evolution Markers:
+**Evolution Markers:**
+
 /meta Track methodology growth
+
 ✨ New capabilities emerge
+
 /team Share evolved practices
+
 🌊 Enhanced patterns stabilize
+
+---
 
 The integration process itself often reveals new patterns and possibilities, contributing to both frameworks' evolution while maintaining their essential characteristics.
 
@@ -837,46 +894,60 @@ Starting with Neuroweaver is like learning to dance - it begins with simple step
 1. Foundation Building
 
 Day 1: Single Mode Practice
+
 /deep Explore a familiar problem
 - Observe your analytical process
 - Feel how the structure guides thought
 💫 Notice when initial patterns emerge
+
 ⚡ Document unexpected connections
 
 Day 2: Mode Shifting
+
 /deep Begin with systematic analysis
+
 /flow Allow insights to emerge naturally
 - Notice the transition feeling
 - Watch how insights transform
+
 💫 Patterns begin crystallizing
+
 ✨ New possibilities reveal themselves
 
 2. Pattern Recognition
 
 Week 1: Basic Combinations
+
 /deep Start with core analysis
+
 /flow Let understanding expand
 - Watch how modes interact
 - Notice productive combinations
+
 ⚡ Track emergence patterns
+
 🌀 Document connection points
 
 3. Growing Complexity
 
 Month 1: Building Repertoire
+
 /focus your-domain Enter familiar territory
 - Explore comfortable spaces first
 - Let natural patterns emerge
+
 💫 Initial domain patterns appear
 
 /team Add new perspectives
 - Watch how viewpoints interact
 - Notice emergent insights
+
 ⚡ Cross-pollination occurs
 
 /hack Synthesize discoveries
 - Connect emerging patterns
 - Build on what works
+
 ✨ New capabilities form
 
 ### Practical Implementation
