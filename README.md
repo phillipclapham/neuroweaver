@@ -184,8 +184,8 @@ What makes Neuroweaver particularly fascinating is how it reveals patterns at mu
 
 Consider how these patterns manifest:
 
-In Software Development:
-In Software Development:
+**In Software Development:**
+
 /deep /focus architecture
 - Examine system structure
 - Map component relationships
@@ -204,7 +204,7 @@ In Software Development:
   
 💎 New architecture emerges
 
-In Research:
+**In Research:**
 
 /team /focus biology+computation
 - Gather diverse perspectives
@@ -218,7 +218,7 @@ In Research:
   
 ✨ New directions emerge
 
-In Creative Work:
+**In Creative Work:**
 
 /flow Explore freely
 - Release constraints
@@ -304,14 +304,14 @@ Let's explore how these patterns manifest in real-world applications, seeing how
 A software architect was struggling with a complex distributed system problem. Their journey:
 
 1. Initial Exploration
-   /deep Analyze current architecture
-   - Map system interactions
-   - Study failure modes
+   - /deep Analyze current architecture
+       - Map system interactions
+       - Study failure modes
      
-   ⚡ Recurring patterns surface
+       ⚡ Recurring patterns surface
 
-   - System stress points become clear
-   - Failure cascades reveal themselves
+       - System stress points become clear
+       - Failure cascades reveal themselves
 
 3. Pattern Recognition
    /meta Examine failure patterns
