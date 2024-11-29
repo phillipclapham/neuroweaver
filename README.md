@@ -134,7 +134,8 @@ Before diving deeper, here's how to begin:
 
 Your first exploration might look something like this:
 
-First Exploration Example:
+**First Exploration Example:**
+
 /deep Examine core principles
 - Explore fundamental structure
 - Notice emerging patterns
