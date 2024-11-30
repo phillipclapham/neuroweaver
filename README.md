@@ -81,6 +81,15 @@ We call it Neuroweaver.
 
 It started with a simple observation: certain ways of exploring ideas, when combined in the right sequence, seemed to consistently produce deeper insights than either structured or creative approaches alone. But it wasn't just about combining different thinking styles - it was about creating the right conditions for something entirely new to emerge.
 
+What makes Neuroweaver particularly fascinating is its dual nature as both a standalone discovery framework and a powerful enhancement pattern that can integrate with existing methodologies. Like a meta-pattern that reveals new dimensions within other patterns, it functions either as:
+
+- A complete methodology for exploration and discovery, guiding interactions from first principles to breakthrough insights
+- A sophisticated wrapper that amplifies existing frameworks and workflows, revealing hidden possibilities while preserving core functions
+
+This dual nature wasn't designed - it emerged naturally from observing how the framework interacts with other methodologies. When applied as a wrapper, Neuroweaver doesn't replace or override existing patterns - it reveals new dimensions within them, like a catalyst that accelerates and enhances natural emergence while maintaining the essential character of the original approach.
+
+The framework's adaptability stems from its alignment with fundamental patterns of discovery and emergence. Rather than imposing structure, it creates conditions for natural evolution and enhancement, whether operating independently or in concert with other methodologies.
+
 ## The Framework
 
 At the heart of Neuroweaver lies a carefully crafted pattern for interaction. Here's the complete framework:
