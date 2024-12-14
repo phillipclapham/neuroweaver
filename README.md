@@ -301,16 +301,16 @@ The true power of these elements lies not in their individual application but in
 
 ```mermaid
 graph TD
-    D[/deep] -->|patterns emerge| F[/flow]
-    F -->|insights form| H[/hack]
-    H -->|solutions emerge| M[/meta]
+    D[deep] -->|patterns emerge| F[flow]
+    F -->|insights form| H[hack]
+    H -->|solutions emerge| M[meta]
     M -->|understanding deepens| D
     
-    F -->|connections appear| T[/team]
+    F -->|connections appear| T[team]
     T -->|perspectives merge| H
     
-    subgraph Focus Space
-    FO[/focus]
+    subgraph Focus_Space
+    FO[focus]
     end
     
     D --> FO
