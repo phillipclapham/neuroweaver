@@ -605,20 +605,20 @@ As your practice develops, you'll begin to notice meta-patterns in how different
 ```mermaid
 graph TD
     subgraph Pattern Recognition
-    P1[Problem Space] --> D[/deep]
-    D --> F[/flow]
-    F --> H[/hack]
+    P1[Problem Space] --> D[\/deep]
+    D --> F[\/flow]
+    F --> H[\/hack]
     end
     
     subgraph Enhancement
-    D --> M[/meta]
+    D --> M[\/meta]
     M --> F
-    F --> T[/team]
+    F --> T[\/team]
     T --> H
     end
     
     subgraph Integration
-    FO[/focus] --> D
+    FO[\/focus] --> D
     FO --> F
     FO --> H
     M --> FO
