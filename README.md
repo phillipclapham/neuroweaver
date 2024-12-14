@@ -1,7 +1,7 @@
 # The Neuroweaver Cognitive Framework (NCF)
 *v0.1.3-emergence*
 
-*Where structured thinking meets creative emergence to unlock extraordinary cognitive capabilities and transformative AI interactions*
+*Where structured thinking meets creative emergence to unlock next level cognitive capabilities and transformative AI interactions*
 
 # Table of Contents
 
