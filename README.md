@@ -23,20 +23,20 @@ This isn't just another methodology for "better thinking." It's a living system 
 ```mermaid
 graph LR
     subgraph "Traditional Approach"
-        TP[Problem] -->|"1. Analyze"| TS1[Step 1]
-        TS1 -->|"2. Plan"| TS2[Step 2]
-        TS2 -->|"3. Execute"| TS3[Solution]
+        TP[Problem] --> TS1[Step 1]
+        TS1 --> TS2[Step 2]
+        TS2 --> TS3[Solution]
     end
 
     subgraph "Neuroweaver Approach"
-        P[Problem Space] -->|play & explore| E[Emergence]
-        E -->|recognize patterns| I[Insights]
-        I -->|natural synthesis| S[Solutions]
-        S -->|enriches| P
+        P[Problem Space] --> E[Emergence]
+        E --> I[Insights]
+        I --> S[Solutions]
+        S --> P
         
-        PL[Play] -.->|catalyzes| E
-        CU[Curiosity] -.->|drives| I
-        JY[Joy] -.->|sustains| S
+        PL[Play] -.-> E
+        CU[Curiosity] -.-> I
+        JY[Joy] -.-> S
     end
 
     style E fill:#f9f,stroke:#333,stroke-width:2px
