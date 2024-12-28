@@ -135,7 +135,7 @@ graph TD
 
 ### Predictive Wisdom: The Expansive Force
 
-Like a river finding new paths through unexplored territory, Predictive Wisdom flows naturally toward possibility:
+Like a river finding new paths through unexplored territory, Predictive Wisdom (PW) flows naturally toward possibility:
 
 - Generates rapid insights from incomplete information
 - Forms working models that evolve through feedback
