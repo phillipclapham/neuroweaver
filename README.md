@@ -131,11 +131,6 @@ graph TD
         MM -->|feeds| E1
         FP -->|enhances| C1
     end
-
-    style PW fill:#f9f,stroke:#333,stroke-width:2px
-    style WA_R fill:#bbf,stroke:#333,stroke-width:2px
-    style MM fill:#fad,stroke:#333,stroke-width:2px
-    style Play fill:#afd,stroke:#333,stroke-width:2px
 ```
 
 ### Predictive Wisdom: The Expansive Force
