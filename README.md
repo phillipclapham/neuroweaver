@@ -83,10 +83,6 @@ graph TD
         C[Curiosity] -.->|explores| P
         J[Joy] -.->|sustains| N
     end
-
-    style S fill:#f9f,stroke:#333,stroke-width:2px
-    style P fill:#fad,stroke:#333,stroke-width:2px
-    style N fill:#afd,stroke:#333,stroke-width:2px
 ```
 
 In this garden, we don't force growth—we create conditions where:
