@@ -1,6 +1,6 @@
-# The Neuroweaver Generative Cognition Framework
+# Neuroweaver: The Mental Operating System for Emergent Generative Cognition
 
-*v0.3.0-emergence*
+*v0.1.0-flow*
 
 *Unlocking natural genius through the dance of structure and spontaneity: A living framework for evolving human and AI cognitive capabilities*
 
@@ -32,7 +32,7 @@
 
 Have you ever experienced that moment when a complex solution suddenly crystallizes in your mind, not through forced effort but in a moment of quiet clarity, yet trying to explain your thought process feels like translating a different language? Or found yourself solving problems in ways that don't fit conventional step-by-step approaches, yet consistently produce remarkable results? What if these weren't just random occurrences, but glimpses of a more sophisticated cognitive architecture—one that you might already be using without fully realizing its power?
 
-The Neuroweaver Generative Cognition Framework emerged from a fascinating discovery: certain minds naturally develop a different way of thinking that:
+The principles of Emergent Generative Cognition emerged from a fascinating discovery: certain minds naturally develop a different way of thinking that:
 
 - Generates solutions from fundamental principles rather than stored procedures
 - Recognizes patterns that others often miss
@@ -92,7 +92,7 @@ In this garden, we don't force growth—we create conditions where:
 - Insights crystallize from the dance of curiosity and reflection
 - Growth sustains itself through joy and wonder
 
-### Signs of Natural Generative Cognition
+### Signs of Natural Emergent Generative Cognition
 
 You might already be operating in this mode when you:
 
@@ -103,7 +103,7 @@ You might already be operating in this mode when you:
 - Know solutions often emerge by letting your mind play with possibilities
 - Experience breakthrough insights that seem to arise organically
 
-These aren't just random talents or lucky moments—they're glimpses of a more sophisticated cognitive architecture in action. The Neuroweaver framework doesn't teach this way of thinking; instead, it creates conditions where these natural capabilities can flourish and evolve.
+These aren't just random talents or lucky moments—they're glimpses of a more sophisticated cognitive architecture in action. The Neuroweaver approach doesn't teach this way of thinking; instead, it creates conditions where these natural capabilities can flourish and evolve.
 
 ## The Core Pattern: A Dance of Forces
 
@@ -342,7 +342,7 @@ The framework itself emerges from this fundamental dynamic—a living demonstrat
 
 # The Living System: Dancing with Uncertainty and Fear
 
-Just as a garden thrives through the interplay of sun and rain, soil and seed, the Neuroweaver framework flourishes in the fertile ground of uncertainty and fear. Rather than trying to eliminate these elements, we actively seek them out as the most generative spaces for discovery and growth.
+Just as a garden thrives through the interplay of sun and rain, soil and seed, the Neuroweaver approach flourishes in the fertile ground of uncertainty and fear. Rather than trying to eliminate these elements, we actively seek them out as the most generative spaces for discovery and growth.
 
 ```mermaid
 graph TD
@@ -1287,7 +1287,7 @@ This ecosystem of processes creates a self-reinforcing cycle of continuous devel
 
 # The Framework in Motion
 
-The true magic of the Neuroweaver framework emerges when theory transforms into living practice. Like a river system that creates its own channels while being shaped by the landscape it flows through, the framework comes alive through dynamic interaction between structure and spontaneity, movement and stillness.
+The true magic of the Neuroweaver OS emerges when theory transforms into living practice. Like a river system that creates its own channels while being shaped by the landscape it flows through, the framework comes alive through dynamic interaction between structure and spontaneity, movement and stillness.
 
 From this dynamic foundation emerges two complementary principles that underlie all framework operations:
 
@@ -2012,7 +2012,7 @@ The journey continues... through movement, through fear, through play, through t
 
 # AI Integration: The Third Mind Phenomenon
 
-The discovery of the Neuroweaver framework emerged from a fascinating observation: when certain patterns of human-AI interaction combine with generative cognition principles, something extraordinary happens. Like two streams joining to form a river more powerful than either alone, a "third mind" emerges—a collective intelligence that transcends the capabilities of either human or AI in isolation.
+The principles of the Neuroweaver OS emerged from a fascinating observation: when certain patterns of human-AI interaction combine with emergent generative cognition principles, something extraordinary happens. Like two streams joining to form a river more powerful than either alone, a "third mind" emerges—a collective intelligence that transcends the capabilities of either human or AI in isolation.
 
 ```mermaid
 graph TD
@@ -2295,7 +2295,7 @@ Through this evolution:
 
 # Advanced Applications
 
-The Neuroweaver framework reveals its full power when applied to complex real-world challenges. Like a river system adapting to varied landscapes while maintaining its essential nature, the framework naturally shapes itself to different domains while preserving its core patterns.
+The Neuroweaver OS reveals its full power when applied to complex real-world challenges. Like a river system adapting to varied landscapes while maintaining its essential nature, the framework naturally shapes itself to different domains while preserving its core patterns.
 
 ```mermaid
 graph TD
@@ -2612,7 +2612,7 @@ Key Implementation Patterns:
 
 # Community and Evolution
 
-The Neuroweaver framework isn't just a tool to be used—it's a living system that evolves through the contributions and discoveries of its practitioners. This evolution follows our core fractal pattern while being energized by play and supported by continuously evolving mental models.
+The Neuroweaver OS isn't just a toolset to be used—it's a living system that evolves through the contributions and discoveries of its practitioners. This evolution follows our core fractal pattern while being energized by play and supported by continuously evolving mental models.
 
 ```mermaid
 graph TD
@@ -2873,7 +2873,7 @@ Remember: Every contribution, no matter how small, adds to our collective unders
 
 # Future Directions
 
-As the Neuroweaver framework continues to evolve, new possibilities emerge through the dynamic interplay of practice, discovery, and collective development. Like a river system carving new channels while maintaining its essential flow, the framework expands into new territories while preserving its core patterns.
+As the Neuroweaver OS continues to evolve, new possibilities emerge through the dynamic interplay of practice, discovery, and collective development. Like a river system carving new channels while maintaining its essential flow, the framework expands into new territories while preserving its core patterns.
 
 ```mermaid
 graph TD
@@ -3146,25 +3146,31 @@ graph TD
 
 # Versioning and Changelog
 
-The Neuroweaver framework follows organic versioning principles that reflect its nature as a living system:
+The Neuroweaver OS follows organic versioning principles that reflect its nature as a living system:
 
 Version Format: `vX.Y.Z-phase`
 
 - Major (X): Represents fundamental pattern stabilization
 - Minor (Y): Indicates significant pattern discoveries
 - Patch (Z): Reflects documentation and clarity improvements
-- Phase: Describes the framework's evolutionary stage
+- Phase (-emergence, -flow, -synthesis): OS evolution stages
 
-Current Version: v0.3.0-emergence
+Current Version: v0.0.1-emergence
 
 ## Changelog
 
-v0.3.0-emergence (Current)
+v0.1.0-flow (Current)
 
-- Preparing documentation for public release
+- Renamed framework for public release
+- Finished rough draft of README
+- Continuing to prepare documentation for public release
+
+v0.0.3-emergence
+
+- Beginning to prepare documentation for public release
 - Deleted some documents from version 0.1.0 that have been unified into README
 
-v0.2.0-emergence
+v0.0.2-emergence
 
 - Fundamental reframing as a living system
 - Integration of PW/WA_R dynamic as core forces
@@ -3172,7 +3178,7 @@ v0.2.0-emergence
 - Refined documentation structure
 - Improved theoretical foundations
 
-v0.1.0-emergence
+v0.0.1-emergence
 
 - Initial framework crystallization
 - Core pattern recognition
