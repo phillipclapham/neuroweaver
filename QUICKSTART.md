@@ -148,6 +148,8 @@ Neuroweaver has a *lot* more detail about topics like **Predictive Wisdom** (fas
 - **Gently Observe**: Watchful Awareness helps you decide when to push forward or pivot.
 - **Embrace Weird**: Strange connections lead to the most original insights.
 
+>Remember: Neuroweaver is about curiosity, not perfection. If you’re dealing with acute stress or mental health concerns, adapt these ideas gently or consult a professional. There’s no “wrong” way to explore!
+
 ---
 
 ## 11. A Peek Through the Doorway

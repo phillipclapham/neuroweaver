@@ -180,6 +180,8 @@ Evening:
 - Joy is both compass and fuel
 - Patterns reveal nature's language
 - Evolution is natural and continuous
+- Consider a one-minute break every so often to imagine something absurd or comedic. That little spark can refresh your Generative Flow more than you realize!
+- End your day by celebrating any playful insight you noticed — even if it was just a fleeting thought that made you smile. Neuroweaver thrives on micro-moments of wonder.
 
 ## Final Daily Reminder
 
