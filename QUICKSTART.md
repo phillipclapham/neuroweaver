@@ -186,3 +186,5 @@ Take a moment:
 **Welcome to Neuroweaver**: A living, flexible way to engage your mind’s natural genius. We hope these mini-practices bring a bit more ease and fun to your everyday thinking. Whenever you’re ready for more depth, the door is always open!
 
 ---
+
+Ready to jump into the full Neuroweaver experience? [Click here to explore the full system](#README.md) and let your playful genius shine! 🌟

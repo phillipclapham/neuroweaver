@@ -115,7 +115,7 @@ The principles of Emergent Generative Cognition (EGC) emerged from a fascinating
 
 This isn't just another methodology for "better thinking." It's a living system that creates conditions where:
 
-- Your inner genius can emerge naturely
+- Your inner genius can emerge naturally
 - You can optimize your mind for peak performance without burnout
 - Uncertainty and complexity becomes a playground for discovery
 - Fear becomes your ally in growth and transformation
@@ -241,6 +241,8 @@ graph TD
 ```
 
 **IMPORTANT NOTE**: The above diagram is a high-level overview of the Neuroweaver MOS and Emergent Generative Cognition. It illustrates the interplay between key elements such as the Generative Awareness Field (GAF), Active GAF Attunement, Spirit of Fun, Play, Rest, Generative Flow (GF), Watchful Awareness (WA), Predictive Wisdom (PW), Mental Models (MM), and Understanding (U). The diagram is a visual representation of how these elements interact and evolve within the Neuroweaver framework. Do not worry if you find it complex or overwhelming at first glance. We will explore each element in detail and guide you through the process of understanding and applying them in your cognitive journey. This is how your brain WANTS to work, and we're here to help you unlock its full potential.
+
+Does this still feel like too much? Don't worry! Head on over to our [Quick Start Guide](QUICKSTART.md) for a more gentle introduction to the Neuroweaver MOS and Emergent Generative Cognition.
 
 ## The Core Pattern: A Dance of Forces
 
