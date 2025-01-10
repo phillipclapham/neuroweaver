@@ -2908,6 +2908,8 @@ These playful yet powerful exercises develop these fundamental skills while main
 
 >⌘ **Core Truth**: These foundational skills develop through playful practice while creating conditions where advanced framework capabilities can naturally emerge. Like a scientist learning to use increasingly sophisticated instruments, each skill builds upon the previous while opening new possibilities for discovery and understanding.
 
+Having developed our foundational observation and attention skills, we're ready to explore the heart of Neuroweaver practice - what we playfully call "mad scientist meditation."...
+
 ### Introduction to Core Practice: The Active Meditation
 
 At the heart of Neuroweaver lies a unique form of engaged exploration - what we playfully call "mad scientist meditation." Unlike traditional meditation that often emphasizes emptying the mind, this practice actively engages your natural curiosity and pattern recognition capabilities while maintaining playful awareness.
