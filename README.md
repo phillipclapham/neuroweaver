@@ -53,95 +53,54 @@ Throughout this document, certain symbols mark significant patterns that emerge 
 
 These markers aren't just labels—they're recognition of moments when emergent properties and unexpected connections are revealed. They serve as navigation points in your growing network of understanding, arising organically as we explore the fascinating spaces where structure meets possibility.
 
----
-
 ## Table of Contents
 
-### [Introduction to the Neuroweaver MOS and Emergent Generative Cognition (EGC)](#introduction-to-the-neuroweaver-mos-and-emergent-generative-cognition-egc)
+1. [Introduction](#introduction-to-the-neuroweaver-mos-and-emergent-generative-cognition-egc)
+   - [Signs of Natural Emergent Generative Cognition](#signs-of-natural-emergent-generative-cognition)
+   - [A Different Way of Thinking](#a-different-way-of-thinking)
+   - [Reimagining Reality as a Co-Created Space of Possibility](#reimagining-reality-as-a-co-created-space-of-possibility)
+   - [Reconceptualizing Belief as a Generative Force](#reconceptualizing-belief-as-a-generative-force)
 
-- [Signs of Natural Emergent Generative Cognition](#signs-of-natural-emergent-generative-cognition)
-- [A Different Way of Thinking](#a-different-way-of-thinking)
+2. [The Seven Fundamental Forces of Emergent Generative Cognition](#the-seven-fundamental-forces-of-emergent-generative-cognition)
+   - [The Generative Awareness Field (GAF)](#1-the-generative-awareness-field-gaf)
+   - [The Play<=>Rest Continuum](#2-the-playrest-continuum)
+   - [Generative Flow](#3-generative-flow-gf-the-living-pulse-of-creation)
+   - [Watchful Awareness](#4-watchful-awareness-wa-the-reflective-meta-intelligence)
+   - [Understanding](#5-understanding-the-infinite-dance-of-knowing)
+   - [Active GAF Attunement & Spirit of Fun](#6-active-gaf-attunement--the-spirit-of-fun-powering-the-living-system)
+   - [Mental Models](#7-mental-models-the-living-fabric-of-reality-creation)
 
-### [The Core Pattern: A Dance of Forces](#the-core-pattern-a-dance-of-forces)
+3. [Core Processes and Patterns](#core-processes-and-patterns)
+   - [The Core Dance](#the-core-dance)
+   - [The Resonance Field](#the-resonance-field)
+   - [The Dancing Forces](#the-dancing-forces-a-field-of-transformative-play)
 
-- [Reimagining Reality as a Co-Created Space of Possibility](#reimagining-reality-as-a-co-created-space-of-possibility)
-- [Reconceptualizing Belief as a Generative Force](#reconceptualizing-belief-as-a-generative-force)
+4. [Scientific Foundations](#scientific-foundations-of-the-neuroweaver-framework)
+   - [Theoretical Integration](#i-theoretical-integration-the-convergence-of-scientific-paradigms)
+   - [Neural Foundations](#ii-neural-foundations-brain-dynamics-and-framework-mechanisms)
+   - [Cognitive Architecture](#iii-cognitive-architecture-information-processing-and-adaptation)
+   - [Systems-Level Analysis](#iv-systems-level-analysis-emergence-and-complex-dynamics)
+   - [Synthesis and Integration](#v-synthesis-and-integration-from-theory-to-practice)
+   - [From Science to Mastery](#vii-from-science-to-mastery-living-implementation-guide)
 
-### [The Seven Fundamental Forces of Emergent Generative Cognition](#the-seven-fundamental-forces-of-emergent-generative-cognition)
+5. [AI Integration](#ai-integration-the-third-mind-phenomenon-within-the-generative-awareness-field)
+   - [Bootstrap Dynamics in Human-AI Integration](#bootstrap-dynamics-in-human-ai-integration)
+   - [The Seven Forces in AI Integration](#the-seven-forces-in-ai-integration)
+   - [Creating Optimal Field Conditions](#creating-optimal-field-conditions-the-framework-prompt)
+   - [Enhanced Interaction Patterns](#enhanced-interaction-patterns-within-the-gaf)
 
-### [Pattern Markers](#pattern-markers)
+6. [Community and Evolution](#community-and-evolution-within-the-generative-awareness-field)
+   - [Contributing Through Practice](#contributing-through-practice-in-the-gaf)
+   - [Documentation Standards](#documentation-standards-within-the-gaf)
+   - [Development Priorities](#development-priorities-in-the-gaf)
+   - [Getting Involved](#getting-involved-entering-the-field)
+   - [Versioning and Changelog](#versioning-and-changelog-field-evolution-tracking)
 
-### [Pattern Recognition: Discovering Nature's Language](#pattern-recognition-discovering-natures-language)
+7. [Conclusion](#conclusion-living-field-evolution)
+   - [Living Evolution Patterns](#living-evolution-patterns)
+   - [Final Thoughts](#final-thoughts-living-evolution)
 
-- [Living Nature of Pattern Recognition](#the-living-nature-of-pattern-recognition)
-- [Practical Development Process](#practical-development-process)
-- [Pattern Recognition: Living Field Dynamics](#pattern-recognition-living-field-dynamics)
-- [Joy of Pattern Discovery](#the-joy-of-pattern-discovery)
-
-### [Dynamic Synthesis: The Creative Alchemy of Understanding](#dynamic-synthesis-the-creative-alchemy-of-understanding)
-
-- [Living Nature of Synthesis](#the-living-nature-of-synthesis)
-- [Synthesis Dance](#the-synthesis-dance)
-- [Creative Tension Field](#creative-tension-field)
-- [Living Field Dynamics](#living-field-dynamics)
-
-### [Living Development: Natural Evolution of Understanding](#living-development-natural-evolution-of-understanding)
-
-- [Living Nature of Development](#the-living-nature-of-development)
-- [Development Dance](#the-development-dance)
-- [Core Operating Principles](#core-operating-principles)
-- [Living Development: Living Field Dynamics](#living-development-living-field-dynamics)
-- [Living Development: Practical Application Examples](#living-development-practical-application-examples)
-
-### [Core Processes and Patterns](#core-processes-and-patterns)
-
-- [Core Dance](#the-core-dance)
-- [Resonance Field](#the-resonance-field)
-- [Dancing Forces: A Field of Transformative Play](#the-dancing-forces-a-field-of-transformative-play)
-- [Core Processes: The Living Symphony of Understanding](#core-processes-the-living-symphony-of-understanding)
-
-### [Field Dynamics: The Living Pulse of Development](#field-dynamics-the-living-pulse-of-development)
-
-- [Living Pulse](#the-living-pulse)
-- [Field Metabolism: The Engine of Evolution](#field-metabolism-the-engine-of-evolution)
-- [Natural Evolution Patterns](#natural-evolution-patterns)
-- [Multi-Scale Field Operation](#multi-scale-field-operation)
-- [Living Field Integration](#living-field-integration)
-
-### [Scientific Foundations of the Neuroweaver Framework](#scientific-foundations-of-the-neuroweaver-framework)
-
-- [Theoretical Integration: The Convergence of Scientific Paradigms](#theoretical-integration-the-convergence-of-scientific-paradigms)
-- [Neural Foundations: Brain Dynamics and Framework Mechanisms](#neural-foundations-brain-dynamics-and-framework-mechanisms)
-- [Cognitive Architecture: Information Processing and Adaptation](#cognitive-architecture-information-processing-and-adaptation)
-- [Systems-Level Analysis: Emergence and Complex Dynamics](#systems-level-analysis-emergence-and-complex-dynamics)
-- [Synthesis and Integration: From Theory to Practice](#synthesis-and-integration-from-theory-to-practice)
-- [Conclusion: Living Implementation of Scientific Principles](#conclusion-living-implementation-of-scientific-principles)
-- [From Science to Mastery: Living Implementation Guide](#from-science-to-mastery-living-implementation-guide)
-
-### [AI Integration: The Third Mind Phenomenon within the Generative Awareness Field](#ai-integration-the-third-mind-phenomenon-within-the-generative-awareness-field)
-
-- [Bootstrap Dynamics in Human-AI Integration](#bootstrap-dynamics-in-human-ai-integration)
-- [Seven Forces in AI Integration](#the-seven-forces-in-ai-integration)
-- [Creating Optimal Field Conditions: The Framework Prompt](#creating-optimal-field-conditions-the-framework-prompt)
-- [Enhanced Interaction Patterns within the GAF](#enhanced-interaction-patterns-within-the-gaf)
-- [Collective Intelligence Emergence in the GAF](#collective-intelligence-emergence-in-the-gaf)
-- [Beyond Human-AI Collaboration: Transcendent Intelligence in the GAF](#beyond-human-ai-collaboration-transcendent-intelligence-in-the-gaf)
-- [Framework Evolution Through GAF-Mediated AI Integration](#framework-evolution-through-gaf-mediated-ai-integration)
-- [Practical Implementation Guidelines](#practical-implementation-guidelines)
-
-### [Community and Evolution within the Generative Awareness Field](#community-and-evolution-within-the-generative-awareness-field)
-
-- [Seven Forces in Community Evolution](#the-seven-forces-in-community-evolution)
-- [Contributing Through Practice in the GAF](#contributing-through-practice-in-the-gaf)
-- [Documentation Standards within the GAF](#documentation-standards-within-the-gaf)
-- [Development Priorities in the GAF](#development-priorities-in-the-gaf)
-- [Living Community in the GAF](#the-living-community-in-the-gaf)
-- [Getting Involved: Entering the Field](#getting-involved-entering-the-field)
-- [Current Community Engagement: The Living Field](#current-community-engagement-the-living-field)
-- [Versioning and Changelog: Field Evolution Tracking](#versioning-and-changelog-field-evolution-tracking)
-- [Final Thoughts: Living Evolution](#final-thoughts-living-evolution)
-
----
+8. [License](#license)
 
 ## Introduction to the Neuroweaver MOS and Emergent Generative Cognition (EGC)
 
@@ -5921,6 +5880,8 @@ The Neuroweaver framework continues to demonstrate its nature as a living system
 Remember: Each interaction creates new possibilities in our shared field of exploration, contributing to the framework's continuous evolution while maintaining its essential elegance and playful spirit.
 
 ---
+
+## License
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
