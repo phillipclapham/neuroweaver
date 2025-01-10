@@ -55,8 +55,6 @@ These markers aren't just labels—they're recognition of moments when emergent 
 
 ---
 
-Here's the table of contents with GitHub-style links:
-
 ## Table of Contents
 
 ### [Introduction to the Neuroweaver MOS and Emergent Generative Cognition (EGC)](#introduction-to-the-neuroweaver-mos-and-emergent-generative-cognition-egc)
