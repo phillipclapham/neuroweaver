@@ -187,4 +187,4 @@ Take a moment:
 
 ---
 
-Ready to jump into the full Neuroweaver experience? [Click here to explore the full system](#README.md) and let your playful genius shine! 🌟
+Ready to jump into the full Neuroweaver experience? ([Click here to explore the full system](https://github.com/phillipclapham/neuroweaver/blob/main/README.md)) and let your playful genius shine! 🌟
