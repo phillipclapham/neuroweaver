@@ -1,5 +1,7 @@
 # Neuroweaver: Where Playful Imagination Meets Structured Insight
 
+v1.0.1-emergence
+
 *Your introduction to letting your mind do what it already does best!*
 
 ## 1. Let’s Begin with a Little Wonder

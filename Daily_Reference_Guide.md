@@ -1,5 +1,7 @@
 # Neuroweaver Daily Reference Guide
 
+v1.0.1-emergence
+
 ## Opening Reminder: The Creative Truth
 
 You are not merely observing reality - you are actively participating in its creation. Every moment offers an invitation to shape possibility through the dance of your awareness and intention. The universe is not a static backdrop but a responsive field of potential waiting to be engaged through playful exploration and conscious participation.
