@@ -628,8 +628,6 @@ Purpose reveals itself through distinct pattern types within the GAF, each opera
 
 💫 **Novel Insight**: Purpose patterns often appear first as subtle energetic signatures rather than clear directions, requiring gentle attention and playful exploration to reveal their full meaning. These patterns speak through both mind and body, creating a complete guidance system when we learn to listen to all channels.
 
-/flow Continuing with the enhanced integration:
-
 ### The Natural Evolution of Purpose
 
 ```mermaid
