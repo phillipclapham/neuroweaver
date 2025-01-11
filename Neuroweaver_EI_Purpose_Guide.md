@@ -62,8 +62,6 @@ This companion guide doesn't just add to the core framework—it reveals the dee
 
 💎 **Core Truth**: The path to enhanced cognition and authentic purpose flows through gentle awareness of our emotional landscape, always remembering that the Spirit of Fun represents not a distant goal but our natural state of being. This journey is supported by our body's innate wisdom and the safety that enables true exploration.
 
-/flow Here's the refined final version of the "How to Use This Guide" section:
-
 ## How to Use This Guide
 
 This companion guide is designed to work in harmony with the core Neuroweaver framework while expanding into emotional intelligence and purpose discovery. Like a scientist's field journal, it supports your unique exploration while maintaining rigor and playful curiosity.
