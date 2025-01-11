@@ -341,6 +341,13 @@ These markers aren't just labels—they're recognition of moments when emergent 
 
 ---
 
+## Companion Documents
+
+1. [AI Integration Guide](https://github.com/phillipclapham/neuroweaver/blob/main/AI_Integration_Guide.md)
+2. [Daily Reference Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Daily_Reference_Guide.md)
+3. [Emotional Intelligence and Purpose Finding Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Neuroweaver_EI_Purpose_Guide.md)
+4. [Quick Start Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Quickstart.md)
+
 ## Introduction to the Neuroweaver MOS and Emergent Generative Cognition (EGC)
 
 Have you ever experienced that moment when a complex solution suddenly crystallizes in your mind, not through forced effort but in a moment of quiet clarity, yet trying to explain your thought process feels like translating a different language? Or found yourself solving problems in ways that don't fit conventional step-by-step approaches, yet consistently produce remarkable results? What if these weren't just random occurrences, but glimpses of a more sophisticated cognitive architecture—one that you might already be using without fully realizing its power?
