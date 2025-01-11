@@ -347,9 +347,11 @@ These markers aren't just labels—they're recognition of moments when emergent 
    - A comprehensive guide to integrating AI within the Neuroweaver framework, exploring the emergence of a "Third Mind" phenomenon and the transformative potential of human-AI collaboration within the Generative Awareness Field.
 2. [Daily Reference Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Daily_Reference_Guide.md)
    - A practical reference guide for daily application of the Neuroweaver framework, providing quick access to key principles, practices, and patterns.
-3. [Emotional Intelligence and Purpose Finding Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Neuroweaver_EI_Purpose_Guide.md)
+3. [The Mad Scientists Guide To Reality Engineering]()
+   - An advanced guide to reality engineering within the Neuroweaver framework, exploring an array of experimental mental models the advanced practitioner can adopt to evolve cognition in radical ways.
+4. [Emotional Intelligence and Purpose Finding Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Neuroweaver_EI_Purpose_Guide.md)
    - A guide to developing emotional intelligence and finding purpose within the Neuroweaver framework, exploring the transformative power of emotional awareness and alignment with personal values.
-4. [Quick Start Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Quickstart.md)
+5. [Quick Start Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Quickstart.md)
    - A quick start guide to the Neuroweaver framework, providing an overview of key concepts, practices, and pathways for immediate application.
 
 ## Introduction to the Neuroweaver MOS and Emergent Generative Cognition (EGC)
