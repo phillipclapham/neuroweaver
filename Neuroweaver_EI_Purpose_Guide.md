@@ -3,6 +3,7 @@
 v1.0.1-emergence
 
 >*A Companion Guide to the Neuroweaver Mental Operating System*
+>
 >*Transform emotions into cognitive superpowers and discover your authentic path through the science of pattern recognition*
 
 Have you ever noticed how your most brilliant insights often come not from pure logic, but from moments of intense emotional clarity? Or how certain emotions seem to enhance your pattern recognition in unexpected ways? Or how your body sometimes knows the right direction before your mind can explain why? What if these weren't just random occurrences, but glimpses of a sophisticated emotional intelligence system waiting to be fully activated?
