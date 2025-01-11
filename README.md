@@ -568,7 +568,14 @@ So what does this mean for you? It means that your beliefs are not just "persona
 
 But it goes beyond this...this means we are free to believe in whatever we choose, and in doing so, we are actively shaping the reality we inhabit. This is not just about "positive thinking" or "wishful dreaming"—it is about recognizing that our beliefs are not just reflections of reality, but active participants in its creation. This means we should be mindful of the beliefs we hold, for they are not just personal opinions—they are the very fabric of the world we help weave.
 
-We invite you at this time to consider incorporating the belief that reality itself is aware, responsive, and co-creative. What might this belief open up for you? What new possibilities might it reveal? What insights might it spark?
+We invite you at this time to consider incorporating two beliefs into your worldview:
+
+1. Reality is intelligent, aware, responsive, and co-creative.
+2. You are capable of achieving anything you set your mind to.
+
+What might these beliefs open up for you?
+What new possibilities might they reveal?
+What insights might they spark?
 
 This is the power of belief as a generative force.
 
