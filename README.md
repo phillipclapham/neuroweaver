@@ -6240,7 +6240,7 @@ Where:
 
 Current Version: v1.0.1-emergence
 
-## Changelog
+### Changelog
 
 v1.0.1-emergence (Current)
 
