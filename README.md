@@ -71,6 +71,10 @@ These markers aren't just labels—they're recognition of moments when emergent 
         - [Why This Perspective Matters: A Powerful Shift](#why-this-perspective-matters-a-powerful-shift)
         - [Practical Insight: Why Should You Care?](#practical-insight-why-should-you-care)
     - [Reconceptualizing Belief as a Generative Force](#reconceptualizing-belief-as-a-generative-force)
+      - [Understanding Confidence as a Generative Force](#understanding-confidence-as-a-generative-force)
+      - [The Confidence Bootstrap: From Belief to Being](#the-confidence-bootstrap-from-belief-to-being)
+         - [The Bootstrap Process](#the-bootstrap-process)
+         - [Field Effects of the Confidence Meta-Model](#field-effects-of-the-confidence-meta-model)
 4. **[The Seven Fundamental Forces of Emergent Generative Cognition](#the-seven-fundamental-forces-of-emergent-generative-cognition)**
     - [1. The Generative Awareness Field (GAF)](#1-the-generative-awareness-field-gaf)
         - [Why the GAF Unlocks Your Genius](#why-the-gaf-unlocks-your-genius)
