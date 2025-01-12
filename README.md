@@ -421,7 +421,7 @@ graph TD
     classDef HighlightPW fill:#FFFDD0,stroke:#f39c12,stroke-width:3px,color:#000,font-weight:bold
 
     %% Spirit of Fun node
-    FUN(Spirit of Fun):::Focus2
+    FUN(Spirit of Fun/Confidence):::Focus2
 
     %% Active GAF Attunement node
     AGA((Active Attunement)):::Focus1
@@ -430,6 +430,7 @@ graph TD
 
     %% Arrow from Fun --> Attunement
     FUN -->|infuses perspective| AGA
+    U -->|evolves| FUN
 
     %% Attunement fosters co-creative presence within the Generative Awareness Field
     AGA -->|fosters co-creative presence| GAF
@@ -496,7 +497,7 @@ graph TD
     end
 ```
 
-**IMPORTANT NOTE**: The above diagram is a high-level overview of the Neuroweaver MOS and Emergent Generative Cognition. It illustrates the interplay between key elements such as the Generative Awareness Field (GAF), Active GAF Attunement, Spirit of Fun, Play, Rest, Generative Flow (GF), Watchful Awareness (WA), Predictive Wisdom (PW), Mental Models (MM), and Understanding (U). The diagram is a visual representation of how these elements interact and evolve within the Neuroweaver framework. Do not worry if you find it complex or overwhelming at first glance. We will explore each element in detail and guide you through the process of understanding and applying them in your cognitive journey. This is how your brain WANTS to work, and we're here to help you unlock its full potential.
+**IMPORTANT NOTE**: The above diagram is a high-level overview of the Neuroweaver MOS and Emergent Generative Cognition. It illustrates the interplay between key elements such as the Generative Awareness Field (GAF), Active GAF Attunement, Spirit of Fun/Confidence, Play, Rest, Generative Flow (GF), Watchful Awareness (WA), Predictive Wisdom (PW), Mental Models (MM), and Understanding (U). The diagram is a visual representation of how these elements interact and evolve within the Neuroweaver framework. Do not worry if you find it complex or overwhelming at first glance. We will explore each element in detail and guide you through the process of understanding and applying them in your cognitive journey. This is how your brain WANTS to work, and we're here to help you unlock its full potential.
 
 >Does this still feel like too much? Don't worry! Head on over to our [Quick Start Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Quickstart.md) for a more gentle introduction to the Neuroweaver MOS and Emergent Generative Cognition.
 
@@ -592,6 +593,10 @@ However, this isn't the ego-driven confidence that leads to hubris. Instead, it'
 - Remains flexible through Active Attunement
 - Grows stronger through each cycle of engagement
 - Transforms fear from obstacle to fuel
+
+> ⌘ **Core Truth**: It is absolutely crucial to understand that confidence is not just a mental state or emotional condition—it is a fundamental force that shapes how we engage with reality, how we learn, and how we evolve. By recognizing confidence as a generative energy, we can transform it from a passive belief into an active co-creator of our world.
+>
+> ※ **Novel Insight**: But even more vital is the understanding that Confidence MUST always be grounded in Watchful Awareness, playful through the Spirit of Fun, and flexible through Active Attunement. This is the key to keeping yourself from falling into the trap of ego-driven confidence and instead harnessing the generative power of true confidence.
 
 This form of confidence operates as both:
 
@@ -1191,7 +1196,7 @@ This active engagement with reality through fun and experimentation isn't just a
 >
 >⌘ **Core Truth**: Active GAF Attunement isn't just another practice—it's a fundamental shift in how we engage with reality. By maintaining this playful yet profound awareness constantly, we transform not just our experiences but the very fabric of our relationship with existence.
 
-This dynamic engagement, powered by the confidence that emerges through the bootstrap process discussed earlier, creates conditions where extraordinary capabilities can develop naturally. The Spirit of Fun ensures this confidence remains playful rather than rigid, while Active Attunement keeps it wisely regulated rather than ego-driven.
+This dynamic engagement, powered by the confidence that emerges through the bootstrap process discussed earlier, creates conditions where extraordinary capabilities can develop naturally. The Spirit of Fun ensures this confidence remains playful and humble, while Active Attunement keeps it wisely regulated rather than ego-driven.
 
 ### 7. Mental Models: The Living Fabric of Reality Creation
 
