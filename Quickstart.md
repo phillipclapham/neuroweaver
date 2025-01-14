@@ -1,6 +1,6 @@
 # Neuroweaver: Where Playful Imagination Meets Structured Insight
 
-v1.0.1-emergence
+v1.0.2-emergence
 
 *Your introduction to letting your mind do what it already does best!*
 
@@ -194,3 +194,18 @@ Take a moment:
 Ready to jump into the full Neuroweaver experience? [Click here to explore the full system](https://github.com/phillipclapham/neuroweaver/blob/main/README.md) and let your playful genius shine! 🌟
 
 Have fun Neuroweaving! 🌀
+
+---
+
+## License
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg

@@ -1,6 +1,6 @@
 # Neuroweaver: Emotional Intelligence & Purpose Discovery Guide
 
-v1.0.1-emergence
+v1.0.2-emergence
 
 >*A Companion Guide to the Neuroweaver Mental Operating System*
 >
@@ -1239,3 +1239,16 @@ Remember: You're not alone in this exploration. Like scientists sharing discover
 The laboratory of life awaits—let's explore it together with gentle awareness, playful spirit, and trust in the natural unfolding of wisdom through all dimensions of our being.
 
 ---
+
+## License
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg

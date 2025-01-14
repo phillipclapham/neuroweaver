@@ -1,5 +1,7 @@
 # The Mad Scientist's Guide to Reality Engineering
 
+v1.0.2-emergence
+
 ## Chapter 1: The Mad Scientist's Manifesto - Awakening to Living Reality
 
 > *"The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science." - Albert Einstein*
@@ -1057,3 +1059,18 @@ And most importantly... keep wondering!
 > 🧪 **The Mad Scientist's Ultimate Insight**: In the end, you'll discover that you're not just engineering reality - you're reality engineering itself! The ultimate experiment is the one that never ends, where each answer leads to more fascinating questions, and where the joy of discovery remains eternally fresh.
 >
 > 🧪 **Mad Scientist's Reality Check**: Throughout your reality engineering journey, remember that these models are tools for exploration in your consciousness laboratory. Their true value emerges not from believing in them literally, but from playing with them seriously - maintaining both scientific rigor and childlike wonder. Keep experimenting, keep documenting, and keep pushing the boundaries of what's possible!
+
+---
+
+## License
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
