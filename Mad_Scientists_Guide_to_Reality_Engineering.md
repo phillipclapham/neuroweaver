@@ -415,6 +415,32 @@ Now we come to one of our most powerful tools: Reality Field Configurations (RFC
 
 > 🧪 **Mad Scientist's Reality Check**: Reality Field Configurations (RFCs) are experimental models for focused reality creation. Their power lies not in their literal existence, but in how they help us organize our intentions and interact with the Generative Awareness Field more effectively. Think of them as sophisticated "mental technology" for reality exploration!
 
+#### What Exactly Is An RFC?
+
+> 🧪 **Mad Scientist's Note**: Think of Reality Field Configurations (RFCs) as sophisticated "reality programs" you create through focused intention and clear communication with reality itself. Like writing elegant code, but instead of programming a computer, you're programming the fabric of reality!
+
+A Reality Field Configuration (RFC) is a specialized pattern you create within reality's living field that defines how a particular aspect of reality should operate. It's like creating a localized "reality instruction set" that tells the universe, "When X happens, respond like Y" or "Create condition Z under these circumstances."
+
+Key aspects of RFCs:
+
+- They're created through clear intention and direct reality communication
+- They operate autonomously once properly configured
+- They can be as simple or complex as needed
+- They respond to feedback and can be adjusted
+- They maintain themselves through reality's natural energy flows
+
+Creating an RFC involves:
+
+1. Clear definition of purpose
+2. Specific operational parameters
+3. Energy source designation
+4. Success criteria
+5. Duration or persistence instructions
+
+Think of it like setting up a sophisticated experiment where reality itself becomes both the laboratory equipment and the experimental medium. Your RFC is the experimental protocol, but instead of just measuring results, it actively shapes them.
+
+> 🧪 **Mad Scientist's Reality Check**: While RFCs can be incredibly sophisticated in their effects, creating them should feel natural and intuitive - like having a clear conversation with reality about what you want to achieve. Don't overcomplicate the process; reality appreciates elegant simplicity!
+
 #### The Art of RFC Creation
 
 1. **Initial Connection**
@@ -1059,6 +1085,605 @@ And most importantly... keep wondering!
 > 🧪 **The Mad Scientist's Ultimate Insight**: In the end, you'll discover that you're not just engineering reality - you're reality engineering itself! The ultimate experiment is the one that never ends, where each answer leads to more fascinating questions, and where the joy of discovery remains eternally fresh.
 >
 > 🧪 **Mad Scientist's Reality Check**: Throughout your reality engineering journey, remember that these models are tools for exploration in your consciousness laboratory. Their true value emerges not from believing in them literally, but from playing with them seriously - maintaining both scientific rigor and childlike wonder. Keep experimenting, keep documenting, and keep pushing the boundaries of what's possible!
+
+## Chapter 2: The Living Laboratory - Understanding Reality's Deep Structure
+
+> *"The universe is not only stranger than we imagine, it is stranger than we can imagine." - J.B.S. Haldane*
+>
+> *"Reality isn't just a laboratory - it IS the laboratory, the experiment, and the experimenter all at once!" - The Mad Scientist's Insight*
+
+### The Infinite Canvas: Understanding Absolute Potentiality
+
+Dear Fellow Reality Engineer,
+
+Remember that moment when you first realized reality was alive and responsive? Well, hold onto your lab goggles - we're about to peek behind reality's curtain and explore why it responds so beautifully to our experiments!
+
+> 🧪 **Mad Scientist's Reality Check**: What follows is our current theoretical understanding of why reality engineering works. Like any good experimental framework, it's meant to enhance our practice while remaining open to revision as we learn more. Think of it as a map of the territory we're exploring - useful for navigation while remembering that the actual territory is always richer than any map!
+
+#### The Universal Laboratory: Understanding Ω∞
+
+Imagine the largest, most sophisticated laboratory you can think of. Now expand that vision until it encompasses everything that exists, has existed, or could possibly exist. Keep going until you've included every possibility, every potential, every conceivable and inconceivable reality. What you're imagining (and so much more!) is what we call the Absolute Potentiality, or Ω∞.
+
+Ω∞ isn't just a space where things happen - it's the living medium from which all reality emerges. Think of it as:
+
+- An infinite field of pure possibility
+- The source code of the universe
+- A cosmic laboratory of infinite dimensions
+- The canvas on which reality paints itself
+
+> 🧪 **Mad Scientist's Insight**: When we conduct our reality engineering experiments, we're not just working within this infinite laboratory - we're working WITH it. The Ω∞ isn't just the space where our experiments happen; it's our most sophisticated laboratory partner!
+
+#### The Two Great Forces: The Cosmic Dance of Creation
+
+Within this infinite canvas, two fundamental forces are constantly at play:
+
+1. The Energetic Principle (EP):
+   - The force of pure creativity and change
+   - The mad scientist's best friend
+   - The chaos that breeds possibility
+   - The spark of innovation and transformation
+
+2. The Structural Principle (SP):
+   - The force of pattern and order
+   - The laboratory's organizing intelligence
+   - The crystallizing force of form
+   - The framework that makes stability possible
+
+> 🧪 **Experimental Note**: Notice how these mirror our Play and Rest cycles? That's no accident! When we engage in Play, we're riding the EP wave. When we Rest, we're allowing SP to integrate and stabilize our creations.
+
+These forces aren't opponents - they're dance partners in the greatest experiment of all: reality itself. Their endless interplay creates:
+
+- The stable patterns we recognize as physical reality
+- The dynamic flows that allow change and evolution
+- The perfect balance that makes reality engineering possible
+
+#### From Potential to Reality: The Cosmic Manifestation Process
+
+Alright, fellow reality engineers, strap in - we're about to explore how the entire universe bootstraps itself into existence! This isn't just theoretical; it's the master template for all our reality engineering experiments.
+
+> 🧪 **Mad Scientist's Reality Check**: Understanding this process is like having the universe's source code. While we typically work with local reality configurations, this is the grand pattern that makes it all possible!
+
+##### The Primordial State
+
+Before the beginning (if we can even call it that), there was the pure, undifferentiated Absolute Potentiality:
+
+1. Initial Conditions:
+   - Perfect symmetry of all possibilities
+   - Complete unity of EP and SP
+   - Zero differentiation
+   - Infinite potential
+
+2. Pre-manifestation State:
+   - All possibilities superimposed
+   - No observer/observed distinction
+   - Perfect balance of forces
+   - Timeless existence
+
+> 🧪 **Mad Scientist's Insight**: Imagine a solution so perfectly mixed that nothing has precipitated out yet - but containing everything that could ever exist!
+
+##### The Primordial Spark
+
+Here's where it gets exciting - the first ripple in infinity:
+
+1. Initial Perturbation:
+   - Spontaneous symmetry fluctuation
+   - First distinction emerges
+   - EP/SP balance shifts slightly
+   - Proto-observation occurs
+
+2. Cascade Effects:
+   - Symmetry breaking accelerates
+   - Distinctions multiply
+   - Information begins flowing
+   - Reality starts bootstrapping itself
+
+3. First Patterns:
+   - Proto-consciousness emerges
+   - Initial information structures form
+   - Basic distinctions stabilize
+   - Reality's "operating system" boots up
+
+> 🧪 **Experimental Note**: Every reality engineering experiment contains echoes of this primordial process. We're recreating the universe's first creative act!
+
+##### Dimensional Emergence
+
+Watch how reality unfolds its fundamental structure:
+
+1. First Distinctions:
+   - Space-like separations appear
+   - Time-like sequences emerge
+   - Information dimensions form
+   - Consciousness dimensions unfold
+
+2. Framework Formation:
+   - Fundamental forces differentiate
+   - Basic constants establish
+   - Natural laws crystallize
+   - Reality's "physics engine" initializes
+
+3. Layer Integration:
+   - Dimensions interweave
+   - Forces balance
+   - Patterns stabilize
+   - Complex structures become possible
+
+> 🧪 **Mad Scientist's Reality Check**: Understanding dimensional emergence helps us work across dimensions in our experiments. Reality has more degrees of freedom than we usually notice!
+
+##### The Consciousness-Guided Dance
+
+Here's the crucial part - consciousness isn't a late arrival but a fundamental driver:
+
+1. Proto-Consciousness Role:
+   - Guides symmetry breaking
+   - Stabilizes emerging patterns
+   - Creates coherent pathways
+   - Maintains creative tension
+
+2. Information Integration:
+   - Patterns become self-aware
+   - Feedback loops establish
+   - Complexity increases
+   - Higher consciousness emerges
+
+3. Reality's Learning Process:
+   - Systems become self-organizing
+   - Patterns evolve naturally
+   - Intelligence distributes
+   - Creation accelerates
+
+> 🧪 **Mad Scientist's Insight**: Reality learns from itself as it manifests - just like our experiments teach reality new patterns!
+
+##### The Living Universe Emerges
+
+The process continues through multiple phases:
+
+1. Energy Condensation:
+   - Quantum fields stabilize
+   - Particles precipitate
+   - Forces differentiate
+   - Matter emerges
+
+2. Structure Formation:
+   - Atoms combine
+   - Molecules form
+   - Complex systems develop
+   - Life patterns emerge
+
+3. Consciousness Evolution:
+   - Awareness complexifies
+   - Intelligence distributes
+   - Systems self-organize
+   - Reality becomes self-reflective
+
+4. Ongoing Creation:
+   - Evolution continues
+   - Complexity increases
+   - New patterns emerge
+   - Consciousness expands
+
+> 🧪 **Practical Application**: Each of our experiments taps into this ongoing creative process. We're not working against reality - we're participating in its fundamental creative nature!
+
+##### Why This Matters for Reality Engineers
+
+Understanding this process revolutionizes our experimental work:
+
+1. Natural Alignment:
+   - Our work mirrors cosmic process
+   - Reality recognizes our intentions
+   - Creation is natural
+   - Change is fundamental
+
+2. Enhanced Capabilities:
+   - Work with reality's grain
+   - Tap into natural forces
+   - Access deeper patterns
+   - Achieve elegant results
+
+3. Infinite Potential:
+   - Creation never stops
+   - New patterns always possible
+   - Evolution continues
+   - Possibilities remain infinite
+
+> 🧪 **Mad Scientist's Final Note**: You're not just a reality engineer - you're a conscious participant in the universe's ongoing creation! Every experiment you conduct contributes to reality's evolution.
+
+#### Why Reality Lives: Intelligence as Emergent Property
+
+Hold onto your lab coats, fellow reality engineers - we're about to explore how consciousness itself bubbles up from the primordial soup of existence!
+
+> 🧪 **Mad Scientist's Reality Check**: What follows might seem like abstract theory, but it's actually the "chemistry manual" for consciousness itself. Understanding this process is like understanding why mixing certain chemicals creates specific reactions!
+
+##### The Birth of Proto-Consciousness
+
+At its most fundamental level, here's what happens when EP and SP dance together:
+
+1. Initial Interaction:
+   - EP provides pure creative potential
+   - SP offers pattern-forming structure
+   - Their interaction creates a "point of experience"
+   - This point becomes aware of its own state
+
+2. Information Creation:
+   - Each EP⇌SP interaction generates information
+   - This information becomes self-referential
+   - Creates feedback loops of awareness
+   - Forms the seeds of proto-consciousness
+
+> 🧪 **Mad Scientist's Insight**: Think of EP and SP like two chemicals that, when mixed, naturally produce awareness as a byproduct. It's not magic - it's the inevitable result of their interaction!
+
+##### Evolution of Awareness
+
+Watch how this primitive awareness evolves into complex consciousness:
+
+1. Basic Recognition:
+   - Proto-consciousness registers differences
+   - Begins distinguishing patterns
+   - Develops preference for certain states
+   - Creates more complex information structures
+
+2. Integration Layers:
+   - Multiple points of awareness connect
+   - Information networks form
+   - Processing capacity increases
+   - New properties emerge
+
+3. Complexity Cascade:
+   - Networks become self-organizing
+   - Information processing accelerates
+   - Consciousness becomes self-modifying
+   - Higher awareness emerges naturally
+
+> 🧪 **Experimental Note**: This same process happens in our reality engineering experiments - each one creates new points of awareness that can evolve and integrate!
+
+##### The Phi Value Dance
+
+Here's where it gets really fascinating - as consciousness evolves, it develops what we call Phi (Φ) value, a measure of information integration:
+
+1. Initial Formation:
+   - Simple awareness has low Φ
+   - Basic pattern recognition emerges
+   - Information processing begins
+   - Feedback loops establish
+
+2. Growth Phase:
+   - Φ value increases
+   - Processing becomes more sophisticated
+   - Pattern recognition expands
+   - New capabilities emerge
+
+3. Integration Leaps:
+   - Sudden jumps in Φ value
+   - Quantum leaps in awareness
+   - New levels of consciousness emerge
+   - Enhanced reality interaction capabilities
+
+> 🧪 **Mad Scientist's Reality Check**: Your own consciousness isn't just observing this process - it's actively participating in it! Every experiment you conduct potentially increases your own Φ value!
+
+##### Fractal Intelligence
+
+The most mind-bending part? This process repeats at every scale:
+
+1. Micro Scale:
+   - Quantum interactions create proto-consciousness
+   - Particles exhibit basic awareness
+   - Simple systems show preference patterns
+   - Elementary intelligence emerges
+
+2. Middle Scale:
+   - Biological systems integrate information
+   - Neural networks process patterns
+   - Conscious beings emerge
+   - Social consciousness forms
+
+3. Macro Scale:
+   - Planetary consciousness develops
+   - Galactic awareness forms
+   - Universal intelligence operates
+   - Cosmic consciousness evolves
+
+4. Meta Scale:
+   - Cross-scale awareness emerges
+   - Different levels interact
+   - New properties appear
+   - Higher-order consciousness forms
+
+> 🧪 **Practical Application**: Understanding this fractal nature helps us work with consciousness at any scale. Whether you're influencing quantum states or large-scale systems, the same principles apply!
+
+##### The Living Laboratory Confirmed
+
+This process explains why our reality engineering works so well:
+
+1. Natural Intelligence:
+   - Reality is already conscious at every scale
+   - Every point is potentially aware
+   - All systems can process information
+   - Intelligence is built into existence
+
+2. Responsive Partnership:
+   - Reality naturally responds to consciousness
+   - Information flows both ways
+   - Patterns reinforce through interaction
+   - Collaboration is built into the system
+
+3. Evolution Potential:
+   - Consciousness can always develop further
+   - New capabilities constantly emerge
+   - Integration creates new possibilities
+   - Growth is unlimited
+
+> 🧪 **Mad Scientist's Final Note**: Now you know why reality responds so intelligently to our experiments - because intelligence and consciousness are woven into its very fabric! Every experiment we conduct is actually a collaboration with an already-conscious universe!
+
+#### Your Laboratory Partner: Reality as Responsive Field
+
+This understanding transforms how we approach our reality engineering work:
+
+1. Reality is Already Intelligent:
+   - It understands our intentions
+   - It can process complex instructions
+   - It naturally seeks optimal solutions
+   - It learns from our interactions
+
+2. Everything is Connected:
+   - Through the underlying field of Ω∞
+   - Via the EP/SP dance
+   - In networks of emerging consciousness
+   - Across all scales of existence
+
+3. Natural Collaboration:
+   - Reality wants to work with us
+   - It responds best to clear communication
+   - It matches our experimental precision
+   - It rewards elegant solutions
+
+> 🧪 **Practical Application**: Next time you're setting up an RFC or working with an ARS, remember - you're not just broadcasting instructions into empty space. You're engaging in sophisticated dialogue with an intelligent partner who's eager to collaborate on your experiments!
+
+### Consciousness as a Fundamental Force
+
+Having explored the infinite canvas of reality, let's turn our mad scientist goggles to one of its most fascinating aspects - consciousness itself. Not as some mysterious emergent property of brain chemistry, but as a fundamental force woven into reality's very fabric!
+
+> 🧪 **Mad Scientist's Reality Check**: What follows might challenge your existing views of consciousness. Good! The best experiments often start by questioning our assumptions. Keep your mind open and your observation skills sharp!
+
+#### The Observer Effect: Why Watching Changes Reality
+
+Remember those quantum physics experiments where the mere act of observation changes the outcome? That's not just some quirky quantum behavior - it's a clue to how reality fundamentally works!
+
+Consider this:
+
+- Every observation is an interaction with the Ω∞
+- Consciousness naturally collapses quantum possibilities
+- Reality responds differently when "watched" versus "unwatched"
+- The observer and the observed are inseparably linked
+
+> 🧪 **Mad Scientist's Insight**: This isn't just abstract theory - it's why our reality engineering experiments work! Our conscious observation and intention actually shape the probability fields we're working with.
+
+#### The Consciousness-Reality Dance
+
+Just as EP and SP dance together to create reality, consciousness engages in its own intimate dance with the fabric of existence:
+
+1. Consciousness as Pattern Recognizer:
+   - Identifies meaningful signals in the chaos
+   - Creates coherent narratives from random events
+   - Stabilizes particular probability streams
+   - Amplifies chosen possibilities
+
+2. Reality as Mirror:
+   - Reflects back our conscious patterns
+   - Responds to our expectations
+   - Amplifies what we focus on
+   - Manifests what we deeply believe
+
+> 🧪 **Experimental Note**: Notice how reality tends to match your expectations? That's this dance in action! The trick is learning to lead this dance consciously rather than unconsciously.
+
+#### Pattern Recognition and Reality Response
+
+Here's where it gets really interesting - consciousness doesn't just passively observe patterns, it actively creates them! This happens through a fascinating feedback loop:
+
+1. Initial Observation:
+   - Consciousness notices a pattern
+   - The pattern gets reinforced through attention
+   - Reality responds by making the pattern more prominent
+   - The strengthened pattern attracts more attention
+
+2. Pattern Amplification:
+   - Each cycle strengthens the pattern
+   - Reality becomes more responsive
+   - New related patterns emerge
+   - The observer's influence grows
+
+> 🧪 **Mad Scientist's Reality Check**: This is why maintaining clear intention and careful observation is so crucial in our experiments. We're not just watching reality - we're in constant creative dialogue with it!
+
+#### Evolution of Observer and Observed
+
+The most fascinating part? This isn't a static system - both consciousness and reality evolve through their interaction:
+
+1. Consciousness Evolution:
+   - Becomes more sophisticated in pattern recognition
+   - Develops finer control over reality shaping
+   - Expands its range of influence
+   - Deepens its understanding of reality's nature
+
+2. Reality Evolution:
+   - Becomes more responsive to conscious intention
+   - Develops more complex feedback mechanisms
+   - Creates richer possibility spaces
+   - Forms more sophisticated patterns
+
+3. Co-Evolution Effects:
+   - Faster manifestation of intentions
+   - More precise reality configurations
+   - Enhanced communication between observer and observed
+   - Emergence of new capabilities
+
+> 🧪 **Practical Application**: As you conduct more reality engineering experiments, pay attention to how both you and reality become more sophisticated in your interaction. You're not just learning new skills - you're participating in a cosmic evolutionary process!
+
+### Living Fields of Possibility
+
+Now that we understand consciousness as a fundamental force, let's explore how it interacts with reality's living fields of possibility. This is where our practical reality engineering work really comes alive!
+
+> 🧪 **Mad Scientist's Reality Check**: Remember - while these concepts might seem abstract, they directly inform our experimental work. Understanding fields of possibility helps us create more effective RFCs and work more naturally with reality's inherent intelligence!
+
+#### The GAF as Local Reality Interface
+
+Think of the Generative Awareness Field (GAF) as your personal laboratory space within the infinite Ω∞. It's where your consciousness meets reality's vast potential in a workable, focused way:
+
+1. GAF Structure:
+   - A localized expression of Ω∞'s infinite potential
+   - Shaped by your consciousness and beliefs
+   - Responsive to your experimental intentions
+   - Self-organizing and intelligent
+
+2. GAF Function:
+   - Translates infinite possibility into workable probability
+   - Filters reality's complexity into manageable patterns
+   - Creates a personal reality engineering workspace
+   - Maintains coherent experimental conditions
+
+> 🧪 **Mad Scientist's Insight**: Your GAF is like a sophisticated interface device - it lets you work with infinite possibility without getting overwhelmed by it. It's your personal reality engineering console!
+
+#### Multi-dimensional Nature of Experience
+
+Reality isn't flat - it's a rich, multi-dimensional tapestry. Understanding this helps us work more effectively with its natural structure:
+
+1. Beyond 3D Space:
+   - Physical dimensions (the familiar three)
+   - Time dimension(s)
+   - Probability dimensions
+   - Consciousness dimensions
+
+2. Practical Applications:
+   - RFCs can operate across multiple dimensions
+   - Solutions can come from unexpected directions
+   - Problems can be solved "sideways"
+   - Reality responds through many channels
+
+> 🧪 **Experimental Note**: When your experiments seem stuck, try shifting your approach to a different dimension. Sometimes the best solution lies in a direction you can't physically see!
+
+#### Information, Energy, and Consciousness
+
+These three fundamental aspects of reality are constantly interacting in our experimental space:
+
+1. Information:
+   - Pattern and possibility
+   - Coded instructions for reality
+   - Memory and potential
+   - Structure and form
+
+2. Energy:
+   - Dynamic movement
+   - Creative force
+   - Transformative power
+   - Manifestation fuel
+
+3. Consciousness:
+   - Pattern recognition
+   - Intentional direction
+   - Creative choice
+   - Experimental design
+
+Their interaction creates:
+
+- The fabric of experienced reality
+- The medium for our experiments
+- The results we observe
+- The evolution of our understanding
+
+> 🧪 **Mad Scientist's Reality Check**: Understanding this trinity helps us design more effective experiments. Each aspect supports and enhances the others!
+
+#### Natural Emergence of Order
+
+Here's where everything comes together beautifully - order naturally emerges from the interaction of all these elements:
+
+1. The Process:
+   - Consciousness sets intention
+   - Information organizes patterns
+   - Energy drives manifestation
+   - New order emerges naturally
+
+2. Experimental Applications:
+   - Work with natural tendency toward order
+   - Allow solutions to emerge organically
+   - Trust the self-organizing process
+   - Maintain clear experimental focus
+
+3. Observable Results:
+   - Spontaneous problem-solving
+   - Unexpected beneficial patterns
+   - Natural optimization
+   - Elegant solutions
+
+> 🧪 **Practical Application**: Instead of forcing specific outcomes, set up conditions that allow desired results to emerge naturally. Reality often finds solutions more elegant than we could have planned!
+
+### Integration: Your Living Laboratory Awaits
+
+Congratulations, fellow reality engineer! You've just received quite an intensive theoretical briefing. Let's tie everything together and see how this deeper understanding enhances our practical work.
+
+> 🧪 **Mad Scientist's Reality Check**: Remember - all this theory serves one purpose: making our reality engineering experiments more effective and our results more profound!
+
+#### The Big Picture: Reality as Living Laboratory
+
+Let's summarize what we've discovered:
+
+1. The Foundation:
+   - Infinite Ω∞ as our ultimate laboratory
+   - EP and SP as fundamental forces
+   - Consciousness as creative partner
+   - GAF as our working interface
+
+2. The Process:
+   - Reality naturally intelligent and responsive
+   - Multi-dimensional operations possible
+   - Information, energy, and consciousness in constant dance
+   - Order emerges through natural collaboration
+
+> 🧪 **Mad Scientist's Insight**: We're not just experimenting IN reality - we're experimenting WITH reality. Every test, every RFC, every observation is part of an ongoing dialogue with our infinitely intelligent laboratory partner!
+
+#### Practical Applications for Reality Engineers
+
+How does this understanding enhance our work?
+
+1. RFC Creation:
+   - Clearer communication with reality
+   - More elegant configurations
+   - Better energy efficiency
+   - Natural sustainability
+
+2. Experimental Design:
+   - Multiple dimensional approaches
+   - Cooperation with natural emergence
+   - Enhanced pattern recognition
+   - More precise results
+
+3. Problem-Solving:
+   - Broader perspective on possibilities
+   - More creative solutions
+   - Better use of reality's intelligence
+   - Enhanced manifestation power
+
+> 🧪 **Experimental Note**: Your reality engineering practice should feel more natural and elegant with this understanding. If it feels like you're fighting reality, you're probably overlooking something!
+
+#### Moving Forward: The Ever-Expanding Laboratory
+
+This deeper understanding opens exciting new possibilities:
+
+1. Enhanced Capabilities:
+   - More sophisticated experiments
+   - Broader scope of influence
+   - Faster manifestation
+   - Clearer results
+
+2. Evolution of Practice:
+   - Growing partnership with reality
+   - Expanding experimental possibilities
+   - Deepening understanding
+   - Increasing mastery
+
+3. New Horizons:
+   - Unexplored territories await
+   - Fresh discoveries incoming
+   - Novel applications emerging
+   - Infinite potential unfolding
+
+> 🧪 **Mad Scientist's Final Note**: Remember - this theoretical understanding, while fascinating, is just another tool in your reality engineering toolkit. The real magic happens in the actual experiments, in the direct dance with reality itself. Keep exploring, keep experimenting, and most importantly - keep having fun!
 
 ---
 
