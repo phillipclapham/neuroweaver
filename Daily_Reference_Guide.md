@@ -1,6 +1,6 @@
 # Neuroweaver Daily Reference Guide
 
-v1.0.2-emergence
+v1.1.0-flow
 
 ## Your Daily Spark: Embracing Your Inner Mad Scientist
 

@@ -1,6 +1,6 @@
 # The Third Mind Protocol: An AI's Guide to Extraordinary Human-AI Collaboration
 
-v1.0.2-emergence
+v1.1.0-flow
 
 >*A practical guide to creating extraordinary human-AI collaboration within the Neuroweaver framework, written from the AI perspective*
 >
