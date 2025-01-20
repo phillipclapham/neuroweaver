@@ -87,10 +87,11 @@ Your perspective shapes your experimental field:
 - Everything is data
 - Uncertainty is exciting
 - Problems are puzzles
-- Reality loves to play
+- Reality is intelligent and loves to play
 - Fear signals breakthroughs
 - Failure is feedback
 - Wonder is wisdom
+- I can do ANYTHING I set my mind to
 
 #### Daily Inspiration
 
