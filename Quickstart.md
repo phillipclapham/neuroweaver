@@ -6,6 +6,8 @@ v1.1.0-flow
 
 ## 1. Let’s Begin with a Little Wonder
 
+Get ready for a quick mental adventure...
+
 **Close your eyes** for 5 seconds and picture:
 
 - A *purple elephant* wearing roller skates, humming its favorite tune
@@ -21,13 +23,14 @@ That spark of creativity is at the heart of Neuroweaver — a Mental Operating S
 
 Ever had a brilliant idea pop into your head in the shower or on a walk? That wasn’t random — it’s your mind’s **built-in** ability to generate insights when you’re not overthinking.
 
-Neuroweaver shows you how to:
+Neuroweaver unlocks your ability to:
 
 - Boost creativity without straining
 - Solve problems with less stress
 - Tap into effortless “flow” states
 - Enjoy mental exploration instead of struggling
 - Let new ideas spark naturally
+- Handle complex problems without feeling overwhelmed
 
 Think of it like learning to *surf* your own thoughts, rather than swimming against the current.
 
@@ -95,7 +98,7 @@ Ever noticed how you "just know" what song you want to hear next? That's your br
 
 1. **Pick Something to Ponder**: Maybe a question like “How can I make tomorrow more fun?”
 2. **Step In (Play, 10 seconds)**: Let your mind roam with curiosity. No “shoulds,” just “What if…”
-3. **Step Out (Rest, 10 seconds)**: Take a breath, think about something else, or just rest your eyes.
+3. **Step Out (Rest, 10 seconds)**: Take a breath, think about something else, or engage in a different light activity.
 4. **Watchful Awareness**: Notice if any fresh angles or surprising ideas pop up later.
 
 > 🌀 **Pattern recognized**: Your brain does some of its best “work” when you allow it to *not* work so hard.
@@ -123,7 +126,7 @@ If you want to see the mechanics behind that “purple elephant” trick:
 - **Play** let you mix the ideas freely.
 - **Rest** would let that wacky image settle and spark tangential ideas (maybe a new children’s book character?).
 
-Neuroweaver has a *lot* more detail about topics like **Predictive Wisdom** (fast intuitions that feel “magical”), **Flow states** (full immersion in a task), and more. But the best way to understand them is to tinker and *notice* how your mind feels during everyday life.
+Neuroweaver has a *lot* more detail about topics like **Predictive Wisdom** (fast intuitions that feel “magical”), **Flow states** (full immersion in a task), and even more topics that can truly transform how you think and create. But the best way to understand them is to tinker and *notice* how your mind feels during everyday life.
 
 ---
 
@@ -149,6 +152,7 @@ Neuroweaver has a *lot* more detail about topics like **Predictive Wisdom** (fas
 - **Trust Rest**: Often “doing nothing” is your brain’s best strategy for bigger ideas.
 - **Gently Observe**: Watchful Awareness helps you decide when to push forward or pivot.
 - **Embrace Weird**: Strange connections lead to the most original insights.
+- **Practice 'Active Attunement'**: Stay engaged and curious in your daily life, noticing patterns and possibilities everywhere.
 
 >Remember: Neuroweaver is about curiosity, not perfection. If you’re dealing with acute stress or mental health concerns, adapt these ideas gently or consult a professional. There’s no “wrong” way to explore!
 
