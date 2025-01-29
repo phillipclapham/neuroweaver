@@ -40,7 +40,7 @@ Think of it like learning to *surf* your own thoughts, rather than swimming agai
 
 1. **Pick one small challenge** in your life (maybe a minor work issue, or how to reorganize a messy drawer).
 2. **Play Mode (30 seconds)**: Ask yourself, “What if I tried something silly?” Brainstorm a weird or playful solution — don’t worry if it’s practical. Just let your mind roam.
-3. **Rest Mode (30 seconds)**: Pause. Breathe slowly. Let your thoughts wander or just relax.
+3. **Rest Mode (30 seconds)**: Pause. Breathe slowly. Let your thoughts wander, do something else, or just relax.
 4. **Notice**: Did new angles or interesting ideas start to bubble up when you gave yourself *permission* to not force it?
 
 > ⚏ **Practice point**: By alternating Play and Rest, you let your mind explore *and* integrate ideas, which often feels easier than nonstop hard focus.
