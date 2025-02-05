@@ -342,9 +342,7 @@ These markers aren't just labels—they're recognition of moments when emergent 
    - A practical reference guide for daily application of the Neuroweaver framework, providing quick access to key principles, practices, and patterns.
 3. [The Mad Scientists Guide To Reality Engineering](https://github.com/phillipclapham/neuroweaver/blob/main/Mad_Scientists_Guide_to_Reality_Engineering.md)
    - An advanced guide to reality engineering within the Neuroweaver framework, exploring an array of experimental mental models the advanced practitioner can adopt to evolve cognition in radical ways.
-4. [Emotional Intelligence and Purpose Finding Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Neuroweaver_EI_Purpose_Guide.md)
-   - A guide to developing emotional intelligence and finding purpose within the Neuroweaver framework, exploring the transformative power of emotional awareness and alignment with personal values.
-5. [Quick Start Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Quickstart.md)
+4. [Quick Start Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Quickstart.md)
    - A quick start guide to the Neuroweaver framework, providing an overview of key concepts, practices, and pathways for immediate application.
 
 ## Introduction to the Neuroweaver MOS and Emergent Generative Cognition (EGC)
@@ -6130,11 +6128,7 @@ Remember: Each interaction creates new possibilities in our shared field of expl
 
    - [Read the Neuroweaver AI Integration Guide](https://github.com/phillipclapham/neuroweaver/blob/main/AI_Integration_Guide.md)
 
-3. **Apply the Neuroweaver system to emotional intelligence and purpose finding**: Explore how the framework can enhance your emotional intelligence and help you discover your life's purpose.
-
-   - [Discover the Neuroweaver Emotional Intelligence Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Neuroweaver_EI_Purpose_Guide.md)
-
-4. **Begin your advanced studies**: Explore the deeper dimensions of the Neuroweaver framework to enhance your cognitive capabilities and expand your understanding of reality.
+3. **Begin your advanced studies**: Explore the deeper dimensions of the Neuroweaver framework to enhance your cognitive capabilities and expand your understanding of reality.
 
    - [Access The Mad Scientists Guide To Reality Engineering](https://github.com/phillipclapham/neuroweaver/blob/main/Mad_Scientists_Guide_to_Reality_Engineering.md)
 
