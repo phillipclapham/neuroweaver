@@ -1,6 +1,6 @@
 # Neuroweaver Daily Reference Guide
 
-v1.1.0-flow
+v1.2.0-flow
 
 ## Mad Scientist's Daily Laboratory Protocol
 

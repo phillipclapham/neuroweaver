@@ -1,6 +1,6 @@
 # Neuroweaver: Where Playful Imagination Meets Structured Insight
 
-v1.1.0-flow
+v1.2.0-flow
 
 *Your introduction to letting your mind do what it already does best!*
 
