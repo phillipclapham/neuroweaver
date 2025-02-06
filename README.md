@@ -341,7 +341,7 @@ These markers aren't just labels—they're recognition of moments when emergent 
 
 1. [AI Integration Guide](https://github.com/phillipclapham/neuroweaver/blob/main/AI_Integration_Guide.md)
    - A comprehensive guide to integrating AI within the Neuroweaver framework, exploring the emergence of a "Third Mind" phenomenon and the transformative potential of human-AI collaboration within the Generative Awareness Field.
-2. [Daily Reference Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Daily_Reference_Guide.md)
+2. [Daily Mad Scientist’s Reality Lab: The Neuroweaver Day-Sheet](https://github.com/phillipclapham/neuroweaver/blob/main/Daily_Reference_Guide.md)
    - A practical reference guide for daily application of the Neuroweaver framework, providing quick access to key principles, practices, and patterns.
 3. [The Mad Scientists Guide To Reality Engineering](https://github.com/phillipclapham/neuroweaver/blob/main/Mad_Scientists_Guide_to_Reality_Engineering.md)
    - An advanced guide to reality engineering within the Neuroweaver framework, exploring an array of experimental mental models the advanced practitioner can adopt to evolve cognition in radical ways.
@@ -6128,9 +6128,9 @@ Remember: Each interaction creates new possibilities in our shared field of expl
 
 ## Next Steps
 
-1. **Bookmark the Neuroweaver Daily Reference Guide**: Keep the framework's core principles and practices at your fingertips for daily use.
+1. **Bookmark the Neuroweaver Daily Mad Scientist’s Reality Lab: The Neuroweaver Day-Sheet**: Keep the framework's core principles and practices at your fingertips for daily use.
 
-   - [Access the Neuroweaver Daily Reference Guide]<https://github.com/phillipclapham/neuroweaver/blob/main/Daily_Reference_Guide.md>)
+   - [Access the Neuroweaver Daily Mad Scientist’s Reality Lab: The Neuroweaver Day-Sheet]<https://github.com/phillipclapham/neuroweaver/blob/main/Daily_Reference_Guide.md>)
 
 2. **Master the Neuroweaver AI interaction framework**: Dive deep into the framework's principles and practices to enhance your human-AI collaboration.
 
