@@ -179,6 +179,8 @@ Have fun weaving your everyday brilliance—**purple elephants** optional but hi
 
 If you get curious about deeper concepts—like generative flow or building “Reality Field Configurations”—pop over to the full Neuroweaver documentation. You can nibble at it gradually, letting your mind *play and rest* along the way.
 
+[Full Neuroweaver Documentation](https://github.com/phillipclapham/neuroweaver)
+
 **Happy Neuroweaving!**
 
 ---
