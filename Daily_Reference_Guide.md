@@ -1,6 +1,6 @@
 # Daily Mad Scientist’s Reality Lab: The Neuroweaver Day-Sheet
 
-## (Neuroweaver Protocol: v2.0-flow)
+## (Neuroweaver Protocol: v1.3.0-flow)
 
 > *“Reality is not a static backdrop but a living laboratory—an infinite playground of possibility. Each day, we slip on our goggles of curiosity, gather our instruments of imagination, and dance with chaos to coax out breakthroughs hidden in plain sight.”*
 

@@ -1,6 +1,6 @@
 # Neuroweaver: Where Playful Imagination Meets Structured Insight
 
-v1.2.0-flow
+v1.3.0-flow
 
 *Your introduction to letting your mind do what it already does best!*
 
@@ -100,6 +100,14 @@ If you’re feeling blocked or bored:
    - Or scribble a nonsense phrase for half a minute.
 
 You might find that fresh solutions to your real problem bubble up indirectly, because you gave your mind permission to roam outside the usual lanes.
+
+**Pattern Watch**: After your absurdity break, notice what happens:
+
+- Do new connections pop up?
+- Do you spot echoes of your silly idea in useful solutions?
+- Does your mind feel more flexible about the original problem?
+
+These patterns are like breadcrumbs showing you how your mind naturally solves puzzles.
 
 ---
 
