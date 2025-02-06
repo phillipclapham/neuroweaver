@@ -56,7 +56,7 @@ Throughout this document, certain symbols mark significant patterns that emerge 
 These markers aren't just labels—they're recognition of moments when emergent properties and unexpected connections are revealed. They serve as navigation points in your growing network of understanding, arising organically as we explore the fascinating spaces where structure meets possibility.
 
 > [!TIP]
->Does this look like a LOT? Please feel free to check out our [gentle introduction to Neuroweaver and Emergent Generative Cognition](https://github.com/phillipclapham/neuroweaver/blob/main/Quickstart.md) before diving into the full framework here. We've got you covered! 🚀
+>**Does this look like a LOT?** Please feel free to check out our [gentle introduction to Neuroweaver and Emergent Generative Cognition](https://github.com/phillipclapham/neuroweaver/blob/main/Quickstart.md) before diving into the full framework here. We've got you covered! 🚀
 
 ---
 
