@@ -4,6 +4,8 @@ v1.2.0-flow
 
 *Your introduction to letting your mind do what it already does best!*
 
+![Neuroweaver Logo](https://github.com/phillipclapham/neuroweaver/blob/main/neuroweaver_logo.jpg)
+
 ## 1. Let’s Begin with a Little Wonder
 
 Get ready for a quick mental adventure...
