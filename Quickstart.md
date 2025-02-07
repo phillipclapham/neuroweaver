@@ -111,7 +111,28 @@ These patterns are like breadcrumbs showing you how your mind naturally solves p
 
 ---
 
-## 7. “Where Do I Go From Here?”
+## 7. The Portable Reality Lab (30-Second Version!) - De-Hamsterize Your Mind
+
+When your mind feels like a hamster on coffee, try this tiny mad science experiment:
+
+1. **Pick Your Subject**
+   - A simple shape in your mind (cube, sphere)
+   - Or something delightfully silly (dancing pencil!)
+   - Or just focus on your breath
+
+2. **Play Mad Scientist**
+   - Observe it with playful curiosity
+   - Notice when your mind wanders (that's data!)
+   - Gently return to your silly subject
+   - Each return is a new experiment
+
+That's it! Use this anywhere, anytime. The sillier and simpler your chosen focus, the better it works. Think of it as your pocket-sized reality lab!
+
+> **Fun Pattern Watch**: Notice how focusing on something simple (especially if it's silly) can quiet a racing mind faster than trying to "not think"? That's the mad scientist's secret - we don't fight with thoughts, we just get curiously absorbed in playful experiments!
+
+---
+
+## 8. “Where Do I Go From Here?”
 
 ### Keep it tiny
 
@@ -130,7 +151,7 @@ But there’s **no rush**. Think of Neuroweaver as a layered playground. Each la
 
 ---
 
-## 8. The Non-Scary Path to the Full System
+## 9. The Non-Scary Path to the Full System
 
 If reading about “Seven Forces” or advanced “Reality Engineering” stirs up worry—don’t sweat it. You can:
 
@@ -142,7 +163,7 @@ Neuroweaver is *modular* and *compassionate*. No complicated prerequisites.
 
 ---
 
-## 9. You’re Already Neuroweaving
+## 10. You’re Already Neuroweaving
 
 Truth is, every time you:
 
@@ -158,7 +179,7 @@ As you continue exploring these playful thinking patterns, you'll likely notice 
 
 ---
 
-## 10. Wrap-Up & Cheers to Curious Thinking
+## 11. Wrap-Up & Cheers to Curious Thinking
 
 **Congrats!** You’ve just taken a gentle dip into Neuroweaver. You saw how:
 

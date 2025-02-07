@@ -143,9 +143,9 @@ When the day feels like a runaway experiment or your mind's racing with too many
 
 2. **Choose Your Experimental Subject**
    - Classic: Simple geometric visualization (cube, sphere)
-   - Alternative: Any clear mental image you enjoy
+   - Alternative: Any clear mental image you enjoy (the sillier, the better!)
    - Emergency: Immediate sensory input (breath, sound)
-   - *Remember: The simpler the subject, the more effective the experiment*
+   - *Remember: The simpler and sillier the subject, the more effective the experiment*
 
 #### Precision Observation Phase (1-2 minutes or as needed)
 
