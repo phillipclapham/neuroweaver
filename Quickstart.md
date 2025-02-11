@@ -1,6 +1,6 @@
 # Neuroweaver Quickstart: Where Playful Imagination Meets Structured Insight
 
-**v1.3.0-flow**
+**v1.3.1-emergence**
 *Your welcoming guide to the Neuroweaver “Mental Operating System,” where a dash of silliness helps real-world breakthroughs bloom!*
 
 ![Neuroweaver Logo](https://github.com/phillipclapham/neuroweaver/blob/main/neuroweaver_logo.jpg)

@@ -1,6 +1,6 @@
 # The Mad Scientist's Guide to Reality Engineering
 
-v1.3.0-flow
+v1.3.1-emergence
 
 ## Chapter 1: The Mad Scientist's Manifesto - Awakening to Living Reality
 

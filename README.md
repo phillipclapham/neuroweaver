@@ -1,6 +1,6 @@
 # Neuroweaver: The Mental Operating System for Emergent Generative Cognition (EGC)
 
-v1.3.0-flow
+v1.3.1-emergence
 
 >*A revolutionary Mental Operating System that unlocks your innate genius and peak mental performance through powerful cognitive patterns and principles, transforming how you live, think, learn, solve complex problems, and even how you interact with AI. By harnessing the natural dynamics of your mind, it enables extraordinary levels of pattern recognition, creative synthesis, and breakthrough thinking - turning uncertainty into possibility and complexity into clarity.*
 
@@ -5972,11 +5972,15 @@ Where:
 - Patch (Z): Documentation and clarity enhancement
 - Phase: Field evolution stage (emergence, flow, synthesis)
 
-Current Version: v1.3.0-flow
+Current Version: v1.3.1-emergence
 
 ### Changelog
 
-v1.3.0-flow (Current)
+v1.3.1-emergence (Current)
+
+- rewriting all docs based off public feedback
+
+v1.3.0-flow
 
 - Rewrite of new DRG
 - New Quickstart
