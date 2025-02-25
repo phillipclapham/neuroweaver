@@ -40,7 +40,7 @@ Here’s how: pick a belief that fires you up—“I thrive easy” or “Life�
 
 🔥 **Test it now:** Spark a belief—*“Abundance rolls in today.”* Then watch what **surprises pop up.**
 
-#### **Lab Note: Tweak Your Filters**
+#### **📝 Lab Note: Tweak Your Filters**
 
 Beliefs tweak your brain’s lens—call 'em your lab goggles. Expect peace, and calm spots shine; expect wins, and chances wink (Wiseman’s luck studies, 2003). It’s not magic; it’s your perception on alert.
 
@@ -64,15 +64,15 @@ And that's when the magic really starts to happen.
 
 🔥 **Test it now:** Pick a fuzzy dream—say, a calm day. Sketch a **rough “how this works” map**—maybe “quiet kicks it off.” Don’t overthink—**just get the shape.**
 
-#### **Lab Note: Beliefs Are Mental Models Too**
+#### **📝 Lab Note: Beliefs Are Mental Models Too**
 
 Beliefs are your mental models of what’s possible—your lab’s guiding lights. Reality’s too big for one belief to nail, so play with ‘em—big ones (“I’m a thriving spark”), small ones (“This tea’s lucky”), wild ones (“I’m a purpose magnet”). Each is a fresh spark. Mix ‘em up, and you might map a dream life that glows.
 
 And remember: Just life your beliefs act as filters for what you perceive and act upon, so do ALL your Mental Models. They guide your actions, your thoughts, your feelings, and they can either help to lead you to your dreams or keep you stuck in the same old ruts. So play with them, test them, and see what works and what doesn't. Because just like with your beliefs, you can and should change them when they're not working for you or you have an itch for something new.
 
-**Lab Tip**: Mental Models don't always need to be "right" to be useful. They just need to be useful. Or fun. Always fun. Try playing with a model that's just for fun and see what new insights it gives you into your dream life. Being right is overrated. Your best life lies at the edge of your comfort zone, and that's where the real fun is too.
+**💡 Lab Tip**: Mental Models don't always need to be "right" to be useful. They just need to be useful. Or fun. Always fun. Try playing with a model that's just for fun and see what new insights it gives you into your dream life. Being right is overrated. Your best life lies at the edge of your comfort zone, and that's where the real fun is too.
 
-#### **Lab Note: Paradox Power**
+#### **📝 Lab Note: Paradox Power**
 
 Contradictions and paradoxes aren’t blocks—they’re your spark ladder. The more you learn about life the more you'll see life itself is a paradox. Time to get comfortable with it. Hold two opposites—like “I’m steady as a rock” and “I’m free as the wind”—at once. It’s mental parkour—toss ‘em around, see new paths pop. Truth’s big enough for both, and so are you. Embrace the mix daily, climb higher—paradoxes are your dream-life gym.
 
@@ -88,7 +88,7 @@ Here’s how: set a spark—“I’ll spark thriving health”—then let go. Pl
 
 🔥 **Test it now:** Recall a time **a flop led to a dream-life win.** What sideways spark **did you catch?**
 
-#### **Lab Note: Trust the Process AND Your Subconscious**
+#### **📝 Lab Note: Trust the Process AND Your Subconscious**
 
 Your brain loves detours—serendipity’s your subconscious sniffing wins (Kounios, 2009). Trusting the process means betting on those sparks to guide you—your inner compass knows the trail.
 
@@ -104,7 +104,7 @@ How? Play and rest to spark it (Rule 1), let Belief fuel it—“I’ve got this
 
 🔥 **Test it now:** Pick a dream—peace, joy. Play with it, trust it, live it, be it, let it hum. **Feel the vibe settle in.**
 
-#### **Lab Note: Optimal Arousal (Not as Dirty as It Sounds)**
+#### **📝 Lab Note: Optimal Arousal (Not as Dirty as It Sounds)**
 
 Flow’s your brain syncing dopamine and focus—optimal arousal, where joy meets ease (Csikszentmihalyi, 1990). Rules 1-4 tune it; you ride the wave when they hum together—no extra shove, just being.
 
@@ -132,7 +132,7 @@ Say you’re craving a joyful career—days drag like a rusty cart, joy’s nowh
 
 How? Pick your dream—thriving health, deep love, whatever hums in your bones. Slap a spark on it—“This’ll flow” or “I’ve got this.” Keep it loose, keep it fun—your brain loves a hunch to chase (Science: Predictive coding says your mind bets on what you spark, Friston, 2010). You’re not signing a contract; you’re flicking a switch. Set it, and let the cycle roll—what’s your spark today?
 
-**Lab Tip**: Keep it lively—scribble your spark on a napkin, whisper it to the wind, sing it to your dog. No rules, just light it up!
+**💡 Lab Tip**: Keep it lively—scribble your spark on a napkin, whisper it to the wind, sing it to your dog. No rules, just light it up!
 
 #### **Step 1 Examples:**
 
@@ -152,7 +152,7 @@ For that joyful career: instead of job-board drudgery, I doodled a superhero me 
 
 Your turn: spark’s set—“My work lights me up.” Play—sketch your dream gig, hum a tune about it. Then step up—email a contact, tweak a profile, one fun move. No rules, just motion—Rule 1 hums when you tinker, then act. Play opens paths, action walks ‘em—science says it sticks (Zeigarnik effect). What playful step can you toss at your spark?
 
-**Lab Tip**: Start quirky—doodle or sing your dream. Then pick one real, joyful move—messy’s where magic grows!
+**💡 Lab Tip**: Start quirky—doodle or sing your dream. Then pick one real, joyful move—messy’s where magic grows!
 
 #### **Step 2 Examples:**
 
@@ -178,7 +178,7 @@ After my superhero scribble, I grabbed coffee, stared at a tree swaying like it 
 
 Here’s the move: after playing, step back. Sip something, doodle absentmindedly, nap—whatever calms you. Don’t force it—Rule 4’s Trust whispers, “It’s coming.” Watch for flashes: a fix, a vibe, a “huh!” Scribble ‘em fast—your lab notebook’s your pal. Rest isn’t lazy; it’s where sparks turn solid. What’d you catch?
 
-**Lab Tip**: Don’t rush—sip tea, watch a bird, let the ‘aha!’ sneak in like a quiet guest!
+**💡 Lab Tip**: Don’t rush—sip tea, watch a bird, let the ‘aha!’ sneak in like a quiet guest!
 
 #### **Step 3 Examples:**
 
@@ -188,7 +188,7 @@ Here’s the move: after playing, step back. Sip something, doodle absentmindedl
 
 🔥 **Test it now:** Take a **5-minute breather.** Notice what bubbles up.
 
-#### **Lab Note: The Power of Rest**
+#### **📝 Lab Note: The Power of Rest**
 
 Rest is your brain’s rewiring time—neuroplasticity at work (Raichle, 2001). It’s not idle; it’s stitching your dream life backstage. So chill, and let the magic brew.
 
@@ -202,7 +202,7 @@ Post-rest, I hit my job hunt with “one joy” focus—vibing, right? Then a si
 
 Your lab’s the same: play and rest, then watch. Did a glitch spark a fix? A fluke drop a gem? Notice it—Rule 3’s Mental Model grows, mapping life’s sneaky wins. Trust the twist—it’s not chaos; it’s your spark bending your reality. What sideways win’s winking at you?
 
-**Lab Tip**: Jot the odd stuff—spilled coffee sparked a chat? That’s gold, lab rat!
+**💡 Lab Tip**: Jot the odd stuff—spilled coffee sparked a chat? That’s gold, lab rat!
 
 #### **How?**
 
@@ -222,7 +222,7 @@ My “work lights me up” spark? Refined it: “Joy’s my fuel.” Played agai
 
 You do it: tweak—“Work rocks” to “I’m a joy spark.” Play (hum a pitch), rest, catch wins (a tip?), act (send it). Cycle it—each loop sharpens your vibe, each step builds your flow. Rule 5 says live it—Play<->Rest primes, Belief fuels, Models guide, Trust rolls, action sustains. What tweak and step keep your flow humming?
 
-**Lab Tip**: Tweak quick—flip “Health flows” to “I’m a wellness spark,” then act. Flow’s not a sprint; it’s a dance.
+**💡 Lab Tip**: Tweak quick—flip “Health flows” to “I’m a wellness spark,” then act. Flow’s not a sprint; it’s a dance.
 
 #### **Step 5 Examples:**
 
@@ -246,7 +246,7 @@ Let’s run “joyful career” full steam:
 
 This ain’t a straight line—it’s a loop. Skip a step? No sweat—jump back in. My drab job’s now a joy spark, all from five steps and a grin. Your lab’s alive—pick a dream (health? love?), run the cycle, watch it glow. Tinker, rest, trust, flow—repeat. What’s sparking next, lab rat?
 
-**Lab Tip**: Rules and steps? Not a straight march—a lively jam. Play might spark Trust, a Rest tweak a Belief, a sideways win flow into Play again. They loop, mix, surprise—your lab’s a rhythm, not a list. Dive in, let ‘em dance—your dream life’s in the groove!
+**💡 Lab Tip**: Rules and steps? Not a straight march—a lively jam. Play might spark Trust, a Rest tweak a Belief, a sideways win flow into Play again. They loop, mix, surprise—your lab’s a rhythm, not a list. Dive in, let ‘em dance—your dream life’s in the groove!
 
 ---
 
@@ -570,7 +570,7 @@ Looking to amplify your 4 Phase meditation? This Power-Up takes your practice to
 
 **The Flow Effect:** This practice creates what researchers call a "self-transcendent experience"—a temporary shift in perception where you feel connected to something larger than yourself. This state activates brain regions associated with creativity, insight, and pattern recognition, while reducing activity in areas that maintain rigid self-boundaries. The result? A more receptive, flexible mind that can spot connections and opportunities your everyday awareness might miss.
 
-**Lab Tip:** This isn't just visualization—it's a deliberate shift in your attentional networks. Regular practice strengthens your ability to access this expanded state of awareness, making it easier to maintain a mindset of abundance and possibility even amidst life's challenges. Think of it as expanding your perception to include more of what's always been available but filtered out by everyday awareness.
+**💡 Lab Tip:** This isn't just visualization—it's a deliberate shift in your attentional networks. Regular practice strengthens your ability to access this expanded state of awareness, making it easier to maintain a mindset of abundance and possibility even amidst life's challenges. Think of it as expanding your perception to include more of what's always been available but filtered out by everyday awareness.
 
 Try this 3-5 minute add-on whenever your dream life needs a boost of fresh possibility or when you feel stuck in limited thinking. The infinite field of possibility is always there—this Power-Up just helps you tune into it!
 
@@ -637,7 +637,7 @@ See life like a lab rat with sharp specs—Training Your Observation Skills turn
 
 **Quick Run**: Spark “Lab’s alive!” Scene: Kitchen. Jot: “Mug’s chipped, spoon’s bent.” Next day: “Chip’s wider, tea’s swirled.” Guess: “Chaos sparks vibes.” Boom—maps sharpen.
 
->**Lab Note**: In line somewhere? Breathe, scan—colors, sounds, moods, engage all your senses and your mind. File it mentally. Soon, you’re better tuned to life’s dream hints.
+>**📝 Lab Note**: In line somewhere? Breathe, scan—colors, sounds, moods, engage all your senses and your mind. File it mentally. Soon, you’re better tuned to life’s dream hints.
 
 ---
 
@@ -654,7 +654,7 @@ Connect dots like a lab rat with a spark radar—Training Your Pattern Recogniti
 
 **Quick Run**: Spark “Lab’s alive!” Log: “Spill, chat, win.” Link: “Chaos lifts me.” Test: “Chaos sparks?” Chat wins. Boom—model clicks.
 
->**Lab Note**: Spend some time while winding down in the evening hunting patterns anywhere and everywhere you like—life, thoughts, world. Reflect, file it. You’ll soon be better tuning in to dream-life threads.
+>**📝 Lab Note**: Spend some time while winding down in the evening hunting patterns anywhere and everywhere you like—life, thoughts, world. Reflect, file it. You’ll soon be better tuning in to dream-life threads.
 
 ---
 
@@ -710,7 +710,7 @@ Got a spark? Run it through this—your Dream-Life Lab in a nutshell. Pocket it,
 4. **Notice Sideways Wins**: Trust the twist—spilled tea’s a hint.
 5. **Refine & Flow**: Tweak—“Vitality’s my jam”—amp it, ride the buzz.
 
-**Lab Tip**: Flops are fuel—laugh, tweak, spark again. Rules hum underneath: Play<->Rest’s your rhythm, Belief’s your fire, Mental Models map, Trust bends, Flow soars. Calm home? Big life? Same cycle—live sparky, keep it light. Lab rat, you’re built for this...
+**💡 Lab Tip**: Flops are fuel—laugh, tweak, spark again. Rules hum underneath: Play<->Rest’s your rhythm, Belief’s your fire, Mental Models map, Trust bends, Flow soars. Calm home? Big life? Same cycle—live sparky, keep it light. Lab rat, you’re built for this...
 
 ---
 
