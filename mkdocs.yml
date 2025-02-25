@@ -1,6 +1,6 @@
 site_name: "Neuroweaver Lab"
 theme:
-  name: "material"
+  name: "cinder"
 
 nav:
   - Home: index.md
