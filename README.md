@@ -16,6 +16,8 @@ In these pages, you’ll snag five simple rules to spark your genius, a five-ste
 
 No finish line, no pressure—just pure, mad-scientist joy. You’ll mess up, laugh, tweak, and stumble into breakthroughs wearing a fake mustache. Because here’s the kicker: your genius isn’t hiding in some textbook—it’s in the sparks you strike when you play. So grab your lab coat (or a napkin or a towel will do!), and let’s get sparking. The Neuroweaver Mind Lab’s open—time to make some magic! 💫
 
+**Lab Tip**: Cognitive enhancement not your jam? No worries—Neuroweaver is a choose-your-own-adventure kind of philosophy. Please feel free to check out [Spark Your Dream Life: The Neuroweaver Way](), our guide to redesigning your reality to create the life you've always imagined.
+
 ---
 
 ## **Chapter 1: The Neuroweaver Code: 5 Rules to Spark Genius**
