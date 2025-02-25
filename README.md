@@ -1,4 +1,4 @@
-# **Welcome to the Neuroweaver Lab**
+# **Welcome to the Neuroweaver Mind Lab**
 
 v2.0.0-synthesis
 
@@ -6,7 +6,7 @@ v2.0.0-synthesis
 
 ![Neuroweaver Logo](https://github.com/phillipclapham/neuroweaver/blob/main/neuroweaver_logo.jpg)
 
-Your mind is a lab, the whole world is your playground—ready to tinker? Welcome to *The Neuroweaver Lab*, where we chuck the rulebooks, grab some sparks, and turn life into one big, messy, brilliant experiment. This ain’t your grandma’s self-help guide—no lofty lectures or cosmic fluff here. It’s a hands-on, grin-wide romp through your own headspace, designed to unlock the genius that’s been napping inside you all along.
+Your mind is a lab, the whole world is your playground—ready to tinker? Welcome to *The Neuroweaver Mind Lab*, where we chuck the rulebooks, grab some sparks, and turn life into one big, messy, brilliant experiment. This ain’t your grandma’s self-help guide—no lofty lectures or cosmic fluff here. It’s a hands-on, grin-wide romp through your own headspace, designed to unlock the genius that’s been napping inside you all along.
 
 Hi, I’m Phill, your fellow lab rat and mischief engineer, and I’m stoked to mad science with you in this playground of possibility. Ever notice how your best ideas sneak up when you’re not even trying? Or how a random doodle during a dull meeting cracks a problem wide open? That’s no fluke—it’s your brain begging to play, not plod. Neuroweaver Lab is about giving that sneaky brilliance a workbench, some tools, and a big ol’ “go for it” nudge.
 
@@ -14,7 +14,7 @@ Your brain’s a pattern-hunting machine—what you focus on rewires how you see
 
 In these pages, you’ll snag five simple rules to spark your genius, a five-step cycle to keep the fire roaring, and tricks to catch those wild, sideways wins life loves to throw. Whether you’re a newbie wondering why your coffee doodles feel smarter than your spreadsheets, a skeptic eyeing this with a raised brow, or a dreamer itching to turn “what if” into “hell yeah,” this lab’s for you. We’ll tinker with sharper focus, luckier breaks—even team up with AI for some next-level play.
 
-No finish line, no pressure—just pure, mad-scientist joy. You’ll mess up, laugh, tweak, and stumble into breakthroughs wearing a fake mustache. Because here’s the kicker: your genius isn’t hiding in some textbook—it’s in the sparks you strike when you play. So grab your lab coat (or a napkin or a towel will do!), and let’s get sparking. The Neuroweaver Lab’s open—time to make some magic! 💫
+No finish line, no pressure—just pure, mad-scientist joy. You’ll mess up, laugh, tweak, and stumble into breakthroughs wearing a fake mustache. Because here’s the kicker: your genius isn’t hiding in some textbook—it’s in the sparks you strike when you play. So grab your lab coat (or a napkin or a towel will do!), and let’s get sparking. The Neuroweaver Mind Lab’s open—time to make some magic! 💫
 
 ---
 
