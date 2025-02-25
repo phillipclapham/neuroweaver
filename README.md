@@ -2,7 +2,7 @@
 
 v2.0.0-synthesis
 
->*Unlock your unique genius through play.*
+>*A revolutionary Mental Operating System that unlocks your innate genius and peak mental performance through Play.*
 
 ![Neuroweaver Logo](https://github.com/phillipclapham/neuroweaver/blob/main/neuroweaver_logo.jpg)
 
