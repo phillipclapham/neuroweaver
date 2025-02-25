@@ -16,7 +16,7 @@ In these pages, you’ll snag five simple rules to spark your genius, a five-ste
 
 No finish line, no pressure—just pure, mad-scientist joy. You’ll mess up, laugh, tweak, and stumble into breakthroughs wearing a fake mustache. Because here’s the kicker: your genius isn’t hiding in some textbook—it’s in the sparks you strike when you play. So grab your lab coat (or a napkin or a towel will do!), and let’s get sparking. The Neuroweaver Mind Lab’s open—time to make some magic! 💫
 
-**Lab Tip**: Cognitive enhancement not your jam? No worries—Neuroweaver is a choose-your-own-adventure kind of philosophy. Please feel free to check out [Spark Your Dream Life: The Neuroweaver Way](https://github.com/phillipclapham/neuroweaver/blob/main/Spark_Your_Dream_Life.md), our guide to redesigning your reality to create the life you've always imagined.
+**💡 Lab Tip**: Cognitive enhancement not your jam? No worries—Neuroweaver is a choose-your-own-adventure kind of philosophy. Please feel free to check out [Spark Your Dream Life: The Neuroweaver Way](https://github.com/phillipclapham/neuroweaver/blob/main/Spark_Your_Dream_Life.md), our guide to redesigning your reality to create the life you've always imagined.
 
 ---
 
@@ -50,11 +50,11 @@ Your life’s the ultimate playground—swap your filters, and watch your realit
 
 🔥 **Test it now:** Spark a belief—*“Luck’s my sidekick today.”* or *"Something cool is about to happen"*. Then watch what sideways wins perception **tosses your way.**
 
-#### **Lab Note: Tweak Your Filters**
+#### **📝 Lab Note: Tweak Your Filters**
 
 Beliefs tweak your brain’s filter—call it a hypothesis. Expect ‘luck,’ and you’ll spot more chances (Wiseman’s luck studies, 2003). It’s not magic; it’s pattern recognition on overdrive.
 
-#### **Lab Note: Confidence as Catalyst**
+#### **📝 Lab Note: Confidence as Catalyst**
 
 Confidence isn't just another belief—it's the solvent that dissolves resistance between your beliefs and reality. When you approach any experiment with the swagger of a mad scientist who already knows something fascinating will happen (regardless of what that something is), you create a field of possibility where insights flow more freely. Not because the universe rewards confidence (though it might), but because confidence removes the cognitive friction that slows your pattern-recognition systems. A tentative scientist second-guesses promising data; a confident one pursues it with gleeful abandon.
 
@@ -74,13 +74,13 @@ But here's the secret sauce: As your collection of mental models grows, you'll s
 
 🔥 **Test it now:** Pick something confusing. Sketch a **rough “how this works” model.** Don’t aim for perfection—**just get the shape.**
 
-#### **Lab Note: Beliefs are Mental Models Too**
+#### **📝 Lab Note: Beliefs are Mental Models Too**
 
 Beliefs are your mental models of truth. But here’s the twist: the “real truth” is way too massive for any single belief to grab—so why not play with ‘em all? Big ones, small ones, even the crazy fundamentals about who you are or what reality is. Each belief’s a new angle, a fresh spark. Mix ‘em up, and you might just see the bigger pattern. Your lab’s a playground—toss in some wild beliefs, and see what pops!
 
 > Beliefs are your lab goggles—swap ‘em when what you are doing isn't working, and reality shifts from fog to fireworks!
 
-#### **Lab Note: Paradox Power**
+#### **📝 Lab Note: Paradox Power**
 
 Contradictions aren’t roadblocks—they’re your spark ladder. Try holding two opposites, like "I’m totally chill" and "I’m freaking out," at the same time. It’s mental parkour—jump between ‘em and see new paths pop up. Truth’s big enough to hold both, and so are you. Embrace the chaos daily, and climb higher. Paradoxes aren’t walls; they’re your genius gym.
 
@@ -96,7 +96,7 @@ Here’s the play: set a spark—say, “I’ll crack this puzzle”—then let 
 
 🔥 **Test it now:** Think of a time **failure led to something better.** What sideways win **did you catch?**
 
-#### **Lab Note: Trust The Process AND Your Subconscious**
+#### **📝 Lab Note: Trust The Process AND Your Subconscious**
 
 Your brain loves a detour—serendipity’s just pattern recognition in disguise. Trusting the process means betting on your subconscious to spot wins (Kounios’ insight research, 2009). So when life throws a curveball, catch it!
 
@@ -112,7 +112,7 @@ How? Play with something you dig—code, paint, whatever. Let Belief fuel it—�
 
 🔥 **Test it now:** Pick something you love—music, puzzles, code. **Dive in, let go, and see what clicks.**
 
-#### **Lab Note: Optimal Arousal (Not as Dirty as it Sounds)**
+#### **📝 Lab Note: Optimal Arousal (Not as Dirty as it Sounds)**
 
 Flow’s your brain on dopamine and focus—psych calls it optimal arousal (Csikszentmihalyi, 1990). Play and trust crank the gears; you just ride the wave. It's kind of like surfing a wave of genius juice—dont' hold on too tight, but don't let go either. Just ride it out and see where it takes you.
 
@@ -146,7 +146,7 @@ Say you’re slogging through brain fog—emails blur, coffee’s just wet dirt.
 
 How? Pick your itch—sharper focus, a lucky break, whatever. Slap a spark on it—“This’ll click” or “I’ve got this.” Keep it loose, keep it fun, your brain loves a hunch to chase (Science: Predictive coding—Friston, 2010.). You’re not swearing an oath; you’re flicking a switch. Set it, and let the cycle crank—what’s your spark today?
 
-**Lab Tip**: Keep it wild—scribble your spark on a napkin, shout it to the dog. No rules, just ignite it!
+**💡 Lab Tip**: Keep it wild—scribble your spark on a napkin, shout it to the dog. No rules, just ignite it!
 
 #### **Step 1 Examples:**
 
@@ -168,7 +168,7 @@ Your turn: spark's set—say, "Focus rocks." Start with pure play—jot notes in
 
 Rule 1's engine roars loudest when the artificial membrane between "play time" and "work time" dissolves completely. Playing with your spark through your tasks transforms them from obligations to adventures—divergent thinking isn't just a creativity trick, it's a whole new operating system (Guilford, 1950). The result? Work that feels like play and play that accomplishes work—a perpetual motion machine of productive mischief. What crazy twist can you carry through your entire workflow today? Go nuts!
 
-**Lab Tip**: Go bonkers—turn your spark into a pirate chant or a doodle duel, then let that playful energy course through your entire task list like electricity through a wire. The play doesn't pause when the "real work" begins; it transforms the work itself into its playful offspring.
+**💡 Lab Tip**: Go bonkers—turn your spark into a pirate chant or a doodle duel, then let that playful energy course through your entire task list like electricity through a wire. The play doesn't pause when the "real work" begins; it transforms the work itself into its playful offspring.
 
 Here's the breakthrough discovery: When you do it right, there is no transition between play and work—no downshift from fun to function, no moment where the carnival ends and the office begins. Work becomes the canvas on which play continues its expression. Your tax forms, customer emails, and strategic plans aren't interruptions of play; they're new toys in your cognitive playground. Once mastered, you'll find that every spreadsheet is a game board, every meeting a jam session, every deadline a thrilling race. The play doesn't precede the productivity—it infuses it, transforms it, becomes it.
 
@@ -192,7 +192,7 @@ After my shark-haiku spree, I grabbed tea, stared at a tree—nothing fancy. Fiv
 
 Here’s the move: after playing, step back. Sip something, doodle, nap—whatever chills you. Don’t force it—Rule 4’s Trust whispers, “It’ll come.” Watch for flashes: a fix, a pattern, a “huh!” Jot ‘em fast—your lab notebook’s your best friend. Rest isn’t lazy; it’s where sparks glow. What’d you catch?
 
-**Lab Tip**: Don’t force it—sip tea, stare at a bug, let the ‘aha!’ sneak up like a ninja!
+**💡 Lab Tip**: Don’t force it—sip tea, stare at a bug, let the ‘aha!’ sneak up like a ninja!
 
 #### **Step 3 Examples:**
 
@@ -202,7 +202,7 @@ Here’s the move: after playing, step back. Sip something, doodle, nap—whatev
 
 🔥 **Test it now:** Take a **5-minute micro-pause.** Notice what bubbles up.
 
-#### **Lab Note: The Power of Rest**
+#### **📝 Lab Note: The Power of Rest**
 
 Rest is where your default mode network kicks in—rest is motion and work. Your brain’s not idle; it’s knitting your genius behind the scenes (Raichle, 2001). So chill, and let the magic brew.
 
@@ -216,7 +216,7 @@ Post-rest, I hit my inbox with “one bite” focus—sharp, right? Then a weird
 
 Your lab’s the same: play and rest, then watch. Did a glitch spark a fix? A fluke hand you a gem? Notice it—Rule 3’s Mental Model grows, mapping how life sneaks wins. Trust the twist—it’s not chaos; it’s your spark bending reality, and each sideways win is a high-five from life, building your confidence along the way. What sideways win’s winking at you?
 
-**Lab Tip**: Jot down the weird—spilled juice sparked a fix? That’s gold, lab rat! When you log the data, that's when you spot the wins. (Cognitive bias research—Kahneman, 2011.)
+**💡 Lab Tip**: Jot down the weird—spilled juice sparked a fix? That’s gold, lab rat! When you log the data, that's when you spot the wins. (Cognitive bias research—Kahneman, 2011.)
 
 #### **How?**
 
@@ -236,7 +236,7 @@ My “razor-sharp” spark? Refined it: “Clarity’s my superpower.” Played 
 
 You do it: tweak your spark—“Focus rocks” becomes “I cut through noise.” Play with it—try a wild twist (dictate tasks in a pirate voice?). Rest, catch sideways wins (a podcast tip?), refine again. Cycle it—each loop sharpens your edge till Flow hits, and you’re unstoppable. What’s your next spark tweak?
 
-**Lab Tip**: Tweak fast—flip ‘Focus rocks’ to ‘I’m a focus fiend,’ then ride the wave to glory!
+**💡 Lab Tip**: Tweak fast—flip ‘Focus rocks’ to ‘I’m a focus fiend,’ then ride the wave to glory!
 
 #### **Step 5 Examples:**
 
@@ -719,7 +719,7 @@ Want to see the world like a lab rat with X-ray specs? Training Your Observation
 
 **Quick Run**: Spark “Lab’s alive!” Scene: Desk. Jot: “Sticky note curls, pen’s blue smear.” Next day: “Curl’s worse, smear’s dry.” Guess: “Chaos marks time.” Boom—models sharpen.
 
->**Lab Note**: Got a few moments in line at the store? Waiting for a friend? Use this time to practice your observation skills. It’s a quick and easy way to train your brain to notice more details in your environment. Use this pocket sized exercise to train your detective skills on the go: where ever you are, take a breath and observe your surroundings by engaging all your senses. What do you see, hear, smell, feel? Observe the details, the colors, the shapes, the textures. What’s happening around you? What’s the mood? What’s the story? Reflect on what you’ve observed and file it away, even if only mentally. Over time, you’ll notice that you’re becoming more aware of your environment and more in tune with the world around you. Give it a try and see how it transforms your perception of the world around you.
+>**📝 Lab Note**: Got a few moments in line at the store? Waiting for a friend? Use this time to practice your observation skills. It’s a quick and easy way to train your brain to notice more details in your environment. Use this pocket sized exercise to train your detective skills on the go: where ever you are, take a breath and observe your surroundings by engaging all your senses. What do you see, hear, smell, feel? Observe the details, the colors, the shapes, the textures. What’s happening around you? What’s the mood? What’s the story? Reflect on what you’ve observed and file it away, even if only mentally. Over time, you’ll notice that you’re becoming more aware of your environment and more in tune with the world around you. Give it a try and see how it transforms your perception of the world around you.
 
 ---
 
@@ -744,7 +744,7 @@ Want to connect dots like a lab rat with a genius radar? Training Your Pattern R
 
 **Quick Run**: Spark “Lab’s alive!” Log: “Spill, late, chat.” Link: “Chaos trips me.” Test: “Chaos sparks?” Chat saves day. Boom—model clicks.
 
->**Lab Note**: A great way to wind down the day is practicing your pattern recognition skills. Take a few moment to actively seek out patterns in your environment, your life, your thoughts, the world, anywhere that you can find them. Take time to reflect on your observations and see if you can spot any connections or trends. What do you notice? What patterns are emerging? What do they tell you? Reflect on what you’ve observed and file it away, even if only mentally. Over time, you’ll notice that you’re becoming more aware of the patterns in your life and more in tune with the world around you. Give it a try and see how it transforms your perception of everything.
+>**📝 Lab Note**: A great way to wind down the day is practicing your pattern recognition skills. Take a few moment to actively seek out patterns in your environment, your life, your thoughts, the world, anywhere that you can find them. Take time to reflect on your observations and see if you can spot any connections or trends. What do you notice? What patterns are emerging? What do they tell you? Reflect on what you’ve observed and file it away, even if only mentally. Over time, you’ll notice that you’re becoming more aware of the patterns in your life and more in tune with the world around you. Give it a try and see how it transforms your perception of everything.
 
 ---
 
@@ -816,7 +816,7 @@ Got a spark? Run it through this—your Neuroweaver Lab in a nutshell. Pocket it
 4. **Notice Sideways Wins**: Trust the twist—spilled tea’s your guru.
 5. **Refine & Flow**: Tweak—“Clarity’s king”—amp it, ride the high.
 
-**Lab Tip**: Flops are fuel—laugh, tweak, spark again. Rules hum underneath: Play<->Rest’s your beat, Belief’s your torch, Mental Models map, Trust bends, Flow soars. Sharp day? Lucky break? Same cycle—live sparky, keep it loose. Lab rat, you’re wired for this...
+**💡 Lab Tip**: Flops are fuel—laugh, tweak, spark again. Rules hum underneath: Play<->Rest’s your beat, Belief’s your torch, Mental Models map, Trust bends, Flow soars. Sharp day? Lucky break? Same cycle—live sparky, keep it loose. Lab rat, you’re wired for this...
 
 Your Next Step: Go check out the [Neuroweaver Daily Reference Guide](https://github.com/phillipclapham/neuroweaver/blob/main/Daily_Reference_Guide.md) for more information on daily practices and techniques to keep your genius flowing.
 
