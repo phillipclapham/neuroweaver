@@ -22,11 +22,9 @@
 >
 >By reading these advanced materials, you acknowledge they are **personal theoretical expansions** intended for adventurous minds. Enjoy exploring, but maintain a healthy blend of open-mindedness and discernment.
 
-[v2.0.0-synthesis](https://github.com/phillipclapham/neuroweaver/blob/main/README.md)
+v2.0.0-synthesis
 
 >*A revolutionary Mental Operating System that unlocks your innate genius and peak mental performance through powerful cognitive patterns and principles, transforming how you live, think, learn, solve complex problems, and even how you interact with AI. By harnessing the natural dynamics of your mind, it enables extraordinary levels of pattern recognition, creative synthesis, and breakthrough thinking - turning uncertainty into possibility and complexity into clarity.*
-
-![Neuroweaver Logo](https://github.com/phillipclapham/neuroweaver/blob/main/neuroweaver_logo.jpg)
 
 ---
 

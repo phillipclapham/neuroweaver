@@ -40,7 +40,7 @@ Here’s how: pick a belief that fires you up—“I thrive easy” or “Life�
 
 🔥 **Test it now:** Spark a belief—*“Abundance rolls in today.”* Then watch what **surprises pop up.**
 
-#### **📝 Lab Note: Tweak Your Filters**
+#### **🧪 Lab Note: Tweak Your Filters**
 
 Beliefs tweak your brain’s lens—call 'em your lab goggles. Expect peace, and calm spots shine; expect wins, and chances wink (Wiseman’s luck studies, 2003). It’s not magic; it’s your perception on alert.
 
@@ -64,7 +64,7 @@ And that's when the magic really starts to happen.
 
 🔥 **Test it now:** Pick a fuzzy dream—say, a calm day. Sketch a **rough “how this works” map**—maybe “quiet kicks it off.” Don’t overthink—**just get the shape.**
 
-#### **📝 Lab Note: Beliefs Are Mental Models Too**
+#### **🧪 Lab Note: Beliefs Are Mental Models Too**
 
 Beliefs are your mental models of what’s possible—your lab’s guiding lights. Reality’s too big for one belief to nail, so play with ‘em—big ones (“I’m a thriving spark”), small ones (“This tea’s lucky”), wild ones (“I’m a purpose magnet”). Each is a fresh spark. Mix ‘em up, and you might map a dream life that glows.
 
@@ -72,7 +72,7 @@ And remember: Just life your beliefs act as filters for what you perceive and ac
 
 **💡 Lab Tip**: Mental Models don't always need to be "right" to be useful. They just need to be useful. Or fun. Always fun. Try playing with a model that's just for fun and see what new insights it gives you into your dream life. Being right is overrated. Your best life lies at the edge of your comfort zone, and that's where the real fun is too.
 
-#### **📝 Lab Note: Paradox Power**
+#### **🧪 Lab Note: Paradox Power**
 
 Contradictions and paradoxes aren’t blocks—they’re your spark ladder. The more you learn about life the more you'll see life itself is a paradox. Time to get comfortable with it. Hold two opposites—like “I’m steady as a rock” and “I’m free as the wind”—at once. It’s mental parkour—toss ‘em around, see new paths pop. Truth’s big enough for both, and so are you. Embrace the mix daily, climb higher—paradoxes are your dream-life gym.
 
@@ -88,7 +88,7 @@ Here’s how: set a spark—“I’ll spark thriving health”—then let go. Pl
 
 🔥 **Test it now:** Recall a time **a flop led to a dream-life win.** What sideways spark **did you catch?**
 
-#### **📝 Lab Note: Trust the Process AND Your Subconscious**
+#### **🧪 Lab Note: Trust the Process AND Your Subconscious**
 
 Your brain loves detours—serendipity’s your subconscious sniffing wins (Kounios, 2009). Trusting the process means betting on those sparks to guide you—your inner compass knows the trail.
 
@@ -104,7 +104,7 @@ How? Play and rest to spark it (Rule 1), let Belief fuel it—“I’ve got this
 
 🔥 **Test it now:** Pick a dream—peace, joy. Play with it, trust it, live it, be it, let it hum. **Feel the vibe settle in.**
 
-#### **📝 Lab Note: Optimal Arousal (Not as Dirty as It Sounds)**
+#### **🧪 Lab Note: Optimal Arousal (Not as Dirty as It Sounds)**
 
 Flow’s your brain syncing dopamine and focus—optimal arousal, where joy meets ease (Csikszentmihalyi, 1990). Rules 1-4 tune it; you ride the wave when they hum together—no extra shove, just being.
 
@@ -188,7 +188,7 @@ Here’s the move: after playing, step back. Sip something, doodle absentmindedl
 
 🔥 **Test it now:** Take a **5-minute breather.** Notice what bubbles up.
 
-#### **📝 Lab Note: The Power of Rest**
+#### **🧪 Lab Note: The Power of Rest**
 
 Rest is your brain’s rewiring time—neuroplasticity at work (Raichle, 2001). It’s not idle; it’s stitching your dream life backstage. So chill, and let the magic brew.
 
@@ -637,7 +637,7 @@ See life like a lab rat with sharp specs—Training Your Observation Skills turn
 
 **Quick Run**: Spark “Lab’s alive!” Scene: Kitchen. Jot: “Mug’s chipped, spoon’s bent.” Next day: “Chip’s wider, tea’s swirled.” Guess: “Chaos sparks vibes.” Boom—maps sharpen.
 
->**📝 Lab Note**: In line somewhere? Breathe, scan—colors, sounds, moods, engage all your senses and your mind. File it mentally. Soon, you’re better tuned to life’s dream hints.
+>**🧪 Lab Note**: In line somewhere? Breathe, scan—colors, sounds, moods, engage all your senses and your mind. File it mentally. Soon, you’re better tuned to life’s dream hints.
 
 ---
 
@@ -654,7 +654,7 @@ Connect dots like a lab rat with a spark radar—Training Your Pattern Recogniti
 
 **Quick Run**: Spark “Lab’s alive!” Log: “Spill, chat, win.” Link: “Chaos lifts me.” Test: “Chaos sparks?” Chat wins. Boom—model clicks.
 
->**📝 Lab Note**: Spend some time while winding down in the evening hunting patterns anywhere and everywhere you like—life, thoughts, world. Reflect, file it. You’ll soon be better tuning in to dream-life threads.
+>**🧪 Lab Note**: Spend some time while winding down in the evening hunting patterns anywhere and everywhere you like—life, thoughts, world. Reflect, file it. You’ll soon be better tuning in to dream-life threads.
 
 ---
 

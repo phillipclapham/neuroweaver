@@ -1,3 +1,4 @@
 .DS_Store
 memory-bank/
 .clinerules
+Pipfile.lock
