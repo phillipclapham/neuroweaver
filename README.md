@@ -919,7 +919,7 @@ The real magic lies not in finding the "right" map but in developing your capaci
 
 **Want to explore further?** The advanced theoretical materials await those curious about more sophisticated reality lenses. They're not for everyone—and that's by design. But if you're intrigued by the philosophical foundations we've explored here, you'll find rich territories to explore in the Advanced Theory documentation.
 
-[Neuroweaver Advanced Theory Documentation]()
+[Neuroweaver Advanced Theory Documentation](https://github.com/phillipclapham/neuroweaver/blob/main/advanced_theory/Advanced_Theory.md)
 
 ---
 
