@@ -1,6 +1,28 @@
 # The Mad Scientist's Guide to Reality Engineering
 
-v1.3.1-emergence
+>**Advanced Neuroweaver Disclaimer**
+>
+>These advanced materials represent a **personal, conceptual exploration** of how emergent cognition, quantum field theory, neuroscience, and other frameworks might interweave to support extraordinary thinking. They are **not** peer-reviewed scientific texts, nor are they intended as formal academic proofs. Instead, consider them **theoretical supplements**—an invitation to contemplate bigger possibilities, experiment freely, and craft your own interpretations.
+>
+>1. **Exploratory Nature**: The ideas, diagrams, and references within are deliberately wide-ranging and imaginative. They may blend established research with speculative leaps to spark creative thinking. Please approach them with **curiosity** rather than an expectation of strict scientific consensus.
+>
+>2. **No Medical or Psychological Advice**: These documents are purely educational and inspirational. They are **not** a substitute for professional advice in medical, psychological, or other licensed fields.
+>
+>3. **User Discretion**: We encourage you to engage with these concepts **critically**—test them in your own experience, compare them with other sources, and adopt only what resonates. Different readers may draw different conclusions based on personal background, beliefs, and goals.
+>
+>4. **Optional Deep Dive**: The advanced documents go well beyond the practical “gateway” material. They are **entirely optional**. If you find them too dense, abstract, or speculative, feel free to stick with the core Neuroweaver guidance.
+>
+>5. **The Meta-Model Principle**: Within these advanced materials, the Neuroweaver framework functions as a meta-model—a way of thinking about thinking itself. When concepts like an "intelligent," "responsive," or "co-creative" reality appear, they represent practical cognitive lenses rather than claims about ultimate truth. These perspectives are tools designed to filter infinite possibility into manageable, meaningful experience.
+>
+>6. **Models as Cognitive Technology**: Throughout this document, apparently definitive statements about reality's nature serve as deliberately designed thinking tools. Their value lies not in their metaphysical accuracy but in their practical effects on perception, cognition, and experience. They are instruments in your cognitive laboratory—to be tested, refined, and employed when useful.
+>
+>7. **Playful Epistemology**: I invite you to approach these frameworks with a mad scientist's spirit—test them rigorously yet playfully, observe their effects, and maintain the freedom to adopt or discard them based on your results. You may discover that temporarily inhabiting certain perspectives unlocks remarkable capabilities, regardless of their ultimate ontological status.
+>
+>8. **Self-Evolving Understanding**: Perhaps most powerfully, this framework acknowledges itself as a constructed model while providing tools to continually evolve beyond its own limitations. In this way, it embodies both structured thinking and the capacity to transcend structure—the ultimate mental operating system is one that can upgrade itself.
+>
+>By reading these advanced materials, you acknowledge they are **personal theoretical expansions** intended for adventurous minds. Enjoy exploring, but maintain a healthy blend of open-mindedness and discernment.
+
+v2.0.0-synthesis
 
 ## Chapter 1: The Mad Scientist's Manifesto - Awakening to Living Reality
 
