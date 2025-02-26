@@ -1,5 +1,7 @@
 # Neuroweaver: Advanced Theory: The Architecture of Cognitive Evolution
 
+by Phillip Clapham
+
 > *Wherein the infinite dance of consciousness and possibility creates a playful laboratory for extraordinary perception, and reality reveals itself not as a stoic theater of fixed laws but as a boundless ocean of potential awaiting your exploratory dive*
 
 ## Introduction: The Great Invitation
