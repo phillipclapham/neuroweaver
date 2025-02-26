@@ -1,5 +1,7 @@
 # Daily Genius Life Laboratory: The Neuroweaver Operating System Protocol
 
+by Phillip Clapham
+
 ## (Integrated Reality Mischief Architecture Protocol)
 
 > *"Your brain doesn't merely observe or process reality—it actively constructs it through selective attention and dynamic pattern recognition. Each thought reconfigures your neural architecture while each moment offers opportunities to spark both cognitive brilliance and dream-life manifestation through the same fundamental mechanisms. This isn't mere self-improvement—it's a systematic recalibration of your reality-creation apparatus."*
