@@ -4,6 +4,8 @@ v2.0.0-synthesis
 
 >*A revolutionary Mental Operating System that unlocks your innate genius and peak mental performance through Play.*
 
+![Neuroweaver Logo](images/neuroweaver_logo.jpg)
+
 Your mind is a lab, the whole world is your playground—ready to tinker? Welcome to *The Neuroweaver Mind Lab*, where we chuck the rulebooks, grab some sparks, and turn life into one big, messy, brilliant experiment. This ain’t your grandma’s self-help guide—no lofty lectures or cosmic fluff here. It’s a hands-on, grin-wide romp through your own headspace, designed to unlock the genius that’s been napping inside you all along.
 
 Hi, I’m Phill, your fellow lab rat and mischief engineer, and I’m stoked to mad science with you in this playground of possibility. Ever notice how your best ideas sneak up when you’re not even trying? Or how a random doodle during a dull meeting cracks a problem wide open? That’s no fluke—it’s your brain begging to play, not plod. Neuroweaver Lab is about giving that sneaky brilliance a workbench, some tools, and a big ol’ “go for it” nudge.
