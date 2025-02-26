@@ -6,9 +6,6 @@ nav:
   - Home: index.md
   - Daily Reference Guide: Daily_Reference_Guide.md
   - AI Integration Guide: AI_Integration_Guide.md
-  - Sparking Your Dream Life:
-      - Spark Your Dream Life: life/Spark_Your_Dream_Life.md
-      - Daily Reference Guide: life/Daily_Reference_Guide.md
   - Advanced Studies:
       - Advanced Theory: advanced/Advanced_Theory.md
       - The Mad Scientist's Guide to Reality Engineering: advanced/mkdocs Mad_Scientists_Guide_to_Reality_Engineering.md
