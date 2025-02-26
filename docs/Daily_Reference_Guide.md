@@ -14,7 +14,11 @@ Kickstart your day like a spark-slinger firing up the lab! This is your *Set a S
 
 1. **Tune Your Spark Radar** (60-90 seconds)
    - Take three deep breaths, imagining you’re waking a symphony of senses—each breath cues a new instrument to join the jam. Feel your body hum like a live wire, primed to catch today’s genius vibes.
-   - *Why it works:* Flips your brain’s “on” switch, clearing fog so you’re ready to snag sparks all day.
+     - *Why it works:* Flips your brain’s “on” switch, clearing fog so you’re ready to snag sparks all day.
+   - While breathing deeply, engage all your senses. Notice what you see, hear, smell, taste, and feel. Feel yourself fully present in the moment.
+     - *Why it works:* Engaging your senses grounds you in the present, enhancing your ability to notice subtle patterns and sparks.
+   - Now, imagine your awareness stretching out, connecting with the vastness around you—like you’re part of an endless web of possibilities.
+     - *Why it works:* This opens your mind to a broader perspective, priming you for creative insights and a sense of connection.
 
 2. **Pick Your Daily Spark**
    - Choose one zesty spark to chase—something that juices up your mind *and* your dream life. Make it specific, like picking a magic wand for the day! Say it loud: “Today, I’m sparking ______________.”
