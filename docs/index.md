@@ -788,6 +788,8 @@ The recognition that beliefs function as reality filters becomes itself the most
 
 This explains why Neuroweaver emphasizes Play as a fundamental force: Play creates the conditions where we can experiment with different reality lenses without becoming rigidly attached to any single framework. The Spirit of Fun transforms what might otherwise be an existentially threatening insight—that our most cherished beliefs are provisional tools rather than eternal truths—into an exciting adventure in possibility.
 
+**Want to go deeper?** The [Advanced Theory: The Architecture of Cognitive Evolution](Advanced_Theory.md) section offers a more detailed exploration of these philosophical foundations, along with additional models and frameworks for understanding the nature of consciousness, reality, and the relationship between them.
+
 Now Go Play! 🌀
 
 ---
