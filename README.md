@@ -4,7 +4,7 @@ v2.0.0-synthesis
 
 >*A revolutionary Mental Operating System that unlocks your innate genius and peak mental performance through Play.*
 
-![Neuroweaver Logo](https://github.com/phillipclapham/neuroweaver/blob/main/neuroweaver_logo.jpg)
+![Neuroweaver Logo](https://github.com/phillipclapham/neuroweaver/blob/main/docs/images/neuroweaver_logo.jpg)
 
 Your mind is a lab, the whole world is your playground—ready to tinker? Welcome to *The Neuroweaver Mind Lab*, where we chuck the rulebooks, grab some sparks, and turn life into one big, messy, brilliant experiment. This ain’t your grandma’s self-help guide—no lofty lectures or cosmic fluff here. It’s a hands-on, grin-wide romp through your own headspace, designed to unlock the genius that’s been napping inside you all along.
 
