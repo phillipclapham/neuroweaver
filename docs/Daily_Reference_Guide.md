@@ -1,4 +1,4 @@
-# **Daily Genius Life Laboratory: Your Spark-Slinger’s Playbook**
+# **Neuroweaver: Daily Genius Life Laboratory: Your Spark-Slinger’s Playbook**
 
 By Phillip Clapham
 
