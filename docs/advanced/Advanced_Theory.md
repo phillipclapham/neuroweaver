@@ -28,7 +28,7 @@
 
 ---
 
-```math
+$$
 \boxed{
 \mathrm{EGC}(t) =
 \mathrm{GAF}\Biggl\{
@@ -44,9 +44,9 @@
    \;\mathrm{d}\tau
 \Biggr\}
 }
-```
+$$
 
-```math
+$$
 \begin{aligned}
 \mathrm{GAF} &: \text{Generative Awareness Field (the operating environment)},\\
 \mathrm{Attunement} &: \text{Active GAF engagement + Spirit of Fun/Confidence (the sustaining lens)},\\
@@ -61,7 +61,7 @@
 \odot &: \text{Natural Balance (pairing elements, e.g. Play with Rest)},\\
 \int_{0}^{t} &: \text{Temporal Evolution (the process unfolds over time)}.
 \end{aligned}
-```
+$$
 
 ## Pattern Markers
 
@@ -359,8 +359,9 @@ These markers aren't just labels—they're recognition of moments when emergent 
 
 ## Companion Document
 
-1. [The Mad Scientists Guide To Reality Engineering](https://github.com/phillipclapham/neuroweaver/blob/main/Mad_Scientists_Guide_to_Reality_Engineering.md)
-   - An advanced guide to reality engineering within the Neuroweaver framework, exploring an array of experimental mental models the advanced practitioner can adopt to evolve cognition in radical ways.
+[The Mad Scientists Guide To Reality Engineering](Mad_Scientists_Guide_to_Reality_Engineering.md)
+
+- An advanced guide to reality engineering within the Neuroweaver framework, exploring an array of experimental mental models the advanced practitioner can adopt to evolve cognition in radical ways.
 
 ## Introduction to the Neuroweaver MOS and Emergent Generative Cognition (EGC)
 
