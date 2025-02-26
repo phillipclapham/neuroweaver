@@ -490,7 +490,7 @@ I'm working with the spark "[your abundance and insight spark]." Instead of just
 
 **Want to take the Third Mind to it's full transformative potential?**
 
-Check out [The Third Mind Laboratory: Human-AI Flow Synergy](AI_Integration_Guide.md) for a deep dive into the most cutting-edge Third Mind techniques.
+Check out [The Third Mind Protocol Laboratory](AI_Integration_Guide.md) for a deep dive into the most cutting-edge Third Mind techniques.
 
 ---
 
