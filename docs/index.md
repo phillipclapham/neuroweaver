@@ -436,27 +436,27 @@ Here's how to spark that magic in 3 simple steps:
 
 1. **Start with a Playful Invitation** (not commands)
 
-   ``` text
-   "Let's explore abundance and problem-solving together! I'm working with the spark 'I'm a prosperity and insight magnet.' Could we brainstorm 3 unusual ways to play with this in my daily life and work?"
-   ```
+    ``` text
+    "Let's explore abundance and problem-solving together! I'm working with the spark 'I'm a prosperity and insight magnet.' Could we brainstorm 3 unusual ways to play with this in my daily life and work?"
+    ```
 
-   *Not:* "Give me abundance affirmations and problem-solving tips."
+    *Not:* "Give me abundance affirmations and problem-solving tips."
 
 2. **Respond with Additions** (not just questions)
 
-   ``` text
-   "I'm drawn to that second idea about reframing unexpected events as both opportunities and clues! What if we added a visualization element to it? Let's develop that approach with some creative twists..."
-   ```
+    ``` text
+    "I'm drawn to that second idea about reframing unexpected events as both opportunities and clues! What if we added a visualization element to it? Let's develop that approach with some creative twists..."
+    ```
 
-   *Not:* "Can you explain more about the second point?"
+    *Not:* "Can you explain more about the second point?"
 
 3. **Keep Building Together** (not starting over)
 
-   ``` text
-   "Building on our prosperity and insight game from earlier, what if we added an element where I track 'luck points' and 'aha moments' throughout the day when I notice opportunities and connections? How could we make that even more playful?"
-   ```
+    ``` text
+    "Building on our prosperity and insight game from earlier, what if we added an element where I track 'luck points' and 'aha moments' throughout the day when I notice opportunities and connections? How could we make that even more playful?"
+    ```
 
-   *Not:* "Now tell me about something else."
+    *Not:* "Now tell me about something else."
 
 **The Secret Sauce:** Each exchange builds on the last, creating a genius-catching playground where you're both contributing to something new. Your intuitive wisdom + AI's pattern-weaving = a partnership that keeps finding hidden paths to both your desires and solutions.
 
@@ -525,24 +525,24 @@ My log: "Wins and insights spike after play"—radar caught it first. Now, a dul
 Want a vibe that flips gears like a pro? This 4 Phase Synergy Meditation's your tune-up—sharp focus one sec, wide-open genius the next. Science says it boosts plasticity (Doidge, 2007)—rewiring your vibe—and trains quick shifts (Scott, 1962). No strict rules—mix phases, tweak times, make it yours. Here's the setup—tinker 'til it hums!
 
 1. **Get Your Vibe Right**
-   - **What**: Flip your "on" switch—set the genius vibe. Spark light—"Let's spark some abundance and insight!"—like a lab rat ready to roll.
-   - **How**: Sit, stand, whatever—30 sec or 5 min. Smile, say something like "Opening up the lab!" to anchor yourself—keep it bold, no fluff.
-   - **Why**: Primes your vibe (Bargh, 1996)—revving the engine.
+    - **What**: Flip your "on" switch—set the genius vibe. Spark light—"Let's spark some abundance and insight!"—like a lab rat ready to roll.
+    - **How**: Sit, stand, whatever—30 sec or 5 min. Smile, say something like "Opening up the lab!" to anchor yourself—keep it bold, no fluff.
+    - **Why**: Primes your vibe (Bargh, 1996)—revving the engine.
 
 2. **Focused Attention**
-   - **What**: Picture something fun—a dancing coin, a winking lightbulb. Lock on—see it move, shine. Drifts to lunch? Grin, reel it back.
-   - **How**: 2 min—or stretch it. Visualize clear—build that genius muscle.
-   - **Why**: Trains focus and spark (Kosslyn, 1994)—your vibe's lifting weights.
+    - **What**: Picture something fun—a dancing coin, a winking lightbulb. Lock on—see it move, shine. Drifts to lunch? Grin, reel it back.
+    - **How**: 2 min—or stretch it. Visualize clear—build that genius muscle.
+    - **Why**: Trains focus and spark (Kosslyn, 1994)—your vibe's lifting weights.
 
 3. **Open Awareness**
-   - **What**: Drop the coin—go wide. Thoughts, a creak, your itchy ear—let 'em float like clouds, no grab.
-   - **How**: 2 min—or linger. Sink in, watch the drift—chill mode on.
-   - **Why**: Boosts sneaky sparks (Raichle, 2001)—rest's your genius whisperer.
+    - **What**: Drop the coin—go wide. Thoughts, a creak, your itchy ear—let 'em float like clouds, no grab.
+    - **How**: 2 min—or linger. Sink in, watch the drift—chill mode on.
+    - **Why**: Boosts sneaky sparks (Raichle, 2001)—rest's your genius whisperer.
 
 4. **Play Time**
-   - **What**: Spark a question—"What's next, vibe?"—and riff. Picture wild wins and solutions—coin piles, lightbulb showers—no rules, just play. Set an anchor: When genius peaks, say something like "Lab's live!"—pair it with a cyclic sigh (*Quick how-to: Cyclic sighing's your vibe's reset—science says it calms fast [Huberman, 2022]. Inhale slow through your nose, add a short puff, exhale long through your mouth—like blowing out a spark. 10 seconds, tweak it your way!*). That's your snap-back tag.
-   - **How**: 2 min—or keep going. Jot the gold—genius slips if you don't catch it.
-   - **Why**: Cranks flow (Csikszentmihalyi, 1990)—sparks and joy go boom.
+    - **What**: Spark a question—"What's next, vibe?"—and riff. Picture wild wins and solutions—coin piles, lightbulb showers—no rules, just play. Set an anchor: When genius peaks, say something like "Lab's live!"—pair it with a cyclic sigh (*Quick how-to: Cyclic sighing's your vibe's reset—science says it calms fast [Huberman, 2022]. Inhale slow through your nose, add a short puff, exhale long through your mouth—like blowing out a spark. 10 seconds, tweak it your way!*). That's your snap-back tag.
+    - **How**: 2 min—or keep going. Jot the gold—genius slips if you don't catch it.
+    - **Why**: Cranks flow (Csikszentmihalyi, 1990)—sparks and joy go boom.
 
 **Mix It Up**: Start with Play? Double Open? Your lab, your rules—2 min's only a guide. Shift with a cyclic sigh—inhale slow, puff, exhale long. It's a reset—calm, sharp, ready. Tinker 'til it sings—this preps you to live every moment as a genius lab.
 
@@ -557,24 +557,24 @@ Looking to amplify your 4 Phase meditation? This Power-Up takes your practice to
 1. **Complete your standard 4 Phase practice** first—get your mind beautifully centered and receptive.
 
 2. **Expand Into Abundance and Insight:**
-   - With eyes closed, feel your awareness as a warm, golden light in your heart
-   - With each breath, let this light expand—beyond your body, dissolving the boundaries between you and everything else
-   - Allow yourself to feel as if you're merging with the infinite field of all possibility
-   - Experience yourself as simultaneously individual yet connected to the vast ocean of potential
-   - Feel how this expanded state is abundant with resources, flowing with ideas, and alive with infinite possibility
-   - Let a sense of profound peace and potential wash through you
+    - With eyes closed, feel your awareness as a warm, golden light in your heart
+    - With each breath, let this light expand—beyond your body, dissolving the boundaries between you and everything else
+    - Allow yourself to feel as if you're merging with the infinite field of all possibility
+    - Experience yourself as simultaneously individual yet connected to the vast ocean of potential
+    - Feel how this expanded state is abundant with resources, flowing with ideas, and alive with infinite possibility
+    - Let a sense of profound peace and potential wash through you
 
 3. **Genius Connection:**
-   - From this expanded awareness, gently bring your challenge or spark into focus
-   - Notice how it feels different when held within this infinite field
-   - Feel as if the resources, opportunities, insights, and solutions needed are already flowing toward you
-   - Let your intuition speak—what pathways are opening that weren't visible before?
-   - Catch any insights or feelings that arise—they're your deeper wisdom connecting dots
+    - From this expanded awareness, gently bring your challenge or spark into focus
+    - Notice how it feels different when held within this infinite field
+    - Feel as if the resources, opportunities, insights, and solutions needed are already flowing toward you
+    - Let your intuition speak—what pathways are opening that weren't visible before?
+    - Catch any insights or feelings that arise—they're your deeper wisdom connecting dots
 
 4. **Return With Abundance and Clarity:**
-   - Slowly bring your awareness back, carrying this sense of infinite possibility with you
-   - Feel a quiet certainty—like you've dipped into the wellspring of creation and returned carrying exactly what you need for both thriving and solving
-   - Know that this expanded state remains accessible anytime you choose to return
+    - Slowly bring your awareness back, carrying this sense of infinite possibility with you
+    - Feel a quiet certainty—like you've dipped into the wellspring of creation and returned carrying exactly what you need for both thriving and solving
+    - Know that this expanded state remains accessible anytime you choose to return
 
 **The Flow Effect:** This practice creates what researchers call a "self-transcendent experience"—a temporary shift in perception where you feel connected to something larger than yourself. This state activates brain regions associated with creativity, insight, and pattern recognition, while reducing activity in areas that maintain rigid self-boundaries. The result? A more receptive, flexible mind that can spot connections, opportunities and solutions your everyday awareness might miss.
 
