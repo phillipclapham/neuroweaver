@@ -103,7 +103,7 @@ Stuck or foggy? This *anytime* trick—your 4-Phase Spark Reset—reboots your l
    - *Why it works:* Clears static, prepping your brain for a fresh run.
 
 2. **Zoom In** (30-60 seconds)
-   - Pick something quirky—a sock, a hum, your spark—and lock on. Mind wanders? Chuckle, reel it back. It’s like lifting weights for focus!
+   - Pick or visualize something quirky—a sock, a hum, your spark—and lock on. Mind wanders? Chuckle, reel it back. It’s like lifting weights for focus!
    - *Why it works:* Sharpens your brain’s spotlight—key for catching sparks.
 
 3. **Go Wide** (30-60 seconds)
