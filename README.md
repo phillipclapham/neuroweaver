@@ -1,8 +1,10 @@
-# **Spark Your Genius Life: The Neuroweaver Way**
+# Welcome to Neuroweaver Lab
+
+## **Spark Your Genius Life: The Neuroweaver Way**
 
 >*Transform your world from the inside out—a metal operating system for rewiring your mind and redesigning your reality to create the brilliantly clever life you've always imagined.*
 
-**Read the Book**: [Spark Your Genius Life: The Neuroweaver Way](https://neuroweaver.com)
+**Read the Book**: [Spark Your Genius Life: The Neuroweaver Way](https://neuroweaverlab.com)
 
 ![Neuroweaver Logo](docs/images/neuroweaver_logo.jpg)
 
