@@ -1,7 +1,5 @@
 # **Welcome to the Neuroweaver Mind Lab**
 
-v2.0.0-synthesis
-
 >*A revolutionary Mental Operating System that unlocks your innate genius and peak mental performance through Play.*
 
 ![Neuroweaver Logo](images/neuroweaver_logo.jpg)

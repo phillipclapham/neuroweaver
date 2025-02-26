@@ -1,6 +1,6 @@
 # Daily Genius Laboratory: The Neuroweaver Cognitive Protocol
 
-## (Intellectual Mischief Protocol: v2.0.0-synthesis)
+## (Intellectual Mischief Protocol)
 
 > *"Your mind isn't merely a passive observer but an active architect of perception—a living laboratory where attention sculpts reality, patterns emerge from chaos, and impossible insights suddenly become inevitable. Each day offers countless opportunities to transform your cognitive architecture through the deliberate alchemy of playful precision."*
 

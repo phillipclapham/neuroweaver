@@ -22,7 +22,7 @@
 >
 >By reading these advanced materials, you acknowledge they are **personal theoretical expansions** intended for adventurous minds. Enjoy exploring, but maintain a healthy blend of open-mindedness and discernment.
 
-v2.0.0-synthesis
+---
 
 ## Chapter 1: The Mad Scientist's Manifesto - Awakening to Living Reality
 
