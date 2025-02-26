@@ -4,6 +4,8 @@
 
 by Phillip Clapham
 
+>*Transform your world from the inside out—a metal operating system for rewiring your mind and redesigning your reality to create the brilliantly clever life you've always imagined.*
+
 ![Neuroweaver Logo](images/neuroweaver_logo.jpg)
 
 Tired of the brain fog that never lifts and the life grind that never quits? Fed up with "manifestation" hype and "brain training" schemes that fizzle like damp fireworks? Welcome to *Spark Your Genius Life: The Neuroweaver Way*—your no-nonsense laboratory for turning "what if" into a thunderous "hell yes!" This isn't fluffy cosmic chatter or cerebral gymnastics—it's a whole-being toolkit, backed by real brain science and fired up with playful mischief, to spark both the mental clarity and vibrant life you've been itching for. Think lightning-quick problem-solving that cuts through confusion, thriving health that gets you moving, relationships that warm your core, opportunities that drop like happy surprises, and a purpose so clear it pulls you out of bed with a grin.
@@ -706,7 +708,7 @@ You're there too—spark "thriving health and sharp thinking" or "abundance and 
 
 Keep sparking, lab rat—no ceilings, just wide-open skies. Take these ideas and forget them or make them your own, Play bigger, trust deeper, flow wilder—your genius life grows as you do. The Neuroweaver Way's no script; it's a jam, a dance, a laugh in the wild spaces of life. Abundance and clarity are just the start—now spark your whole damn genius life. Play's your spark-slinger—what'll you tinker with next? 💫
 
-**Your Next Step**: Go check out the [Daily Dream Life Laboratory: The Neuroweaver Spark Sheet](Daily_Reference_Guide.md) for more information on daily practices and techniques to keep your genius life flowing.
+**Your Next Step**: Go check out the [Daily Genius Life Laboratory: Your Spark-Slinger’s Playbook](Daily_Reference_Guide.md) for more information on daily practices and techniques to keep your genius life flowing.
 
 ---
 
