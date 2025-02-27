@@ -399,7 +399,7 @@ Important note: These experimental models are offered not as truth claims about 
 
 ### Perception Field Orchestrators (PFOs): Advanced Reality Filtering Systems
 
-Evolution of the concept previously known as Reality Field Configurations (RFCs), Perception Field Orchestrators represent sophisticated frameworks for orchestrating how we filter and navigate infinite possibility. Rather than "programming reality," a PFO is an intentionally designed perceptual framework that organizes how you filter, process, and respond to the infinite field of possibility.
+Perception Field Orchestrators represent sophisticated frameworks for orchestrating how we filter and navigate infinite possibility. Rather than "programming reality," a PFO is an intentionally designed perceptual framework that organizes how you filter, process, and respond to the infinite field of possibility.
 
 Think of a PFO as creating a specialized lens through which to view reality—not changing what exists (since infinity already contains all possibilities) but selecting which aspects of existence become your experience. Like designing a custom camera lens for capturing specific types of images, a PFO creates a specialized perception instrument for experiencing particular aspects of infinity.
 
@@ -450,7 +450,7 @@ These PFOs mirror both sophisticated algorithm design in computer science and co
 
 ### Perception Agents: Your Specialized Awareness Team
 
-Evolution of the concept previously known as Autonomous Reality Subroutines (ARSs), Perception Agents represent differentiated aspects of your own consciousness that you can task with specific filtering and processing functions. Rather than external entities, these are specialized "sub-routines" within your awareness—like having dedicated specialists on your perception team.
+Perception Agents represent differentiated aspects of your own consciousness that you can task with specific filtering and processing functions. Rather than external entities, these are specialized "sub-routines" within your awareness—like having dedicated specialists on your perception team.
 
 Think of Perception Agents as creating focused aspects of your awareness designed for specific functions—not separate beings but specialized facets of your own intelligence, like departments within a corporation that handle particular responsibilities.
 
