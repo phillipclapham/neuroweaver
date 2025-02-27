@@ -170,12 +170,6 @@ Your turn: spark's set—"My work lights me up and my mind cuts through problems
 
 🔥 **Test it now:** Pick a challenge. Do something **fun with it.**
 
-The secret sauce?
-
-- Trust that your Play is shaping your mental models to perceive your genius life in a new light.
-- Trust that your Play is rewiring your brain to see the opportunities and solutions that were always there but you just couldn't see before.
-- Trust that your Play is setting you up for the sideways wins that are just waiting for you right outside of your current view.
-
 #### **🧪 Lab Note: The Secret Alchemy of Effort**
 
 The true magic of Play isn't in escaping effort but in transmuting its very nature. Think of Play not as work's vacation but as its metamorphosis—the caterpillar doesn't avoid becoming a butterfly; it transforms into one through a profound alchemical process.
