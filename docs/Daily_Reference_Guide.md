@@ -88,8 +88,8 @@ Time to *Rest & Catch* and *Refine & Flow*—gather your treasures, connect the 
    - *Why it works:* Locks in the good stuff—your brain loves a victory lap.
 
 2. **Connect the Cosmic Dots**
-   - Ask: “What patterns popped today?” When did ideas flash? When did wins wink? Scribble a note—like a detective cracking your own genius code.
-   - **Lab Hack Boost:** Did you tap your inner crew? Maybe your Council solved a riddle, or an Agent flipped a flop into a win. Track what sparks!
+   - Ask: “What patterns popped today?” When did ideas flash? When did wins wink? Scribble a note—like a detective cracking your own genius code. Bonus points if you take a moment to discuss your day with your Council or Agent!
+   - **Lab Hack Boost:** Did you spark an interesting sideways win today? Maybe your Council solved a riddle, or an Agent flipped a flop into a win. Track what sparks!
    - *Why it works:* Sharpens your spark radar, making tomorrow sparkier.
 
 3. **Dream Up More Magic**
