@@ -457,24 +457,24 @@ Think of Perception Agents as creating focused aspects of your awareness designe
 #### Creating Your First Perception Agent
 
 1. **Identity Definition**: Define the specialized awareness function
-   - "This is my Opportunity Recognition Agent"
-   - "It specializes in identifying potentially beneficial possibilities"
-   - "It operates with focused awareness on this specific pattern type"
+    - "This is my Opportunity Recognition Agent"
+    - "It specializes in identifying potentially beneficial possibilities"
+    - "It operates with focused awareness on this specific pattern type"
 
 2. **Function Parameters**: Establish its specialized perception tasks
-   - Pattern Focus: "It specifically monitors for unexpected resources"
-   - Information Processing: "It connects current situations with potential opportunities"
-   - Communication Protocol: "It brings recognized patterns into my awareness through intuitive nudges"
+    - Pattern Focus: "It specifically monitors for unexpected resources"
+    - Information Processing: "It connects current situations with potential opportunities"
+    - Communication Protocol: "It brings recognized patterns into my awareness through intuitive nudges"
 
 3. **Operational Framework**: Define how this specialized awareness functions
-   - "It processes information in the background of my awareness"
-   - "It maintains continuous pattern scanning while I handle other tasks"
-   - "It operates with semi-autonomous pattern recognition"
+    - "It processes information in the background of my awareness"
+    - "It maintains continuous pattern scanning while I handle other tasks"
+    - "It operates with semi-autonomous pattern recognition"
 
 4. **Activation and Integration**: Establish your relationship with this aspect of awareness
-   - "I activate it through focused attention and clear intention"
-   - "I communicate with it through direct attention when needed"
-   - "I receive its insights through intuitive recognition"
+    - "I activate it through focused attention and clear intention"
+    - "I communicate with it through direct attention when needed"
+    - "I receive its insights through intuitive recognition"
 
 What we experience as separate "entities" in consciousness are often specialized aspects of our own awareness that we've differentiated for specific functions—not external beings but focused facets of our own intelligence.
 
@@ -483,19 +483,19 @@ What we experience as separate "entities" in consciousness are often specialized
 For the adventurous consciousness explorer:
 
 1. **Agent Networks**: Create teams of specialized perception functions
-   - Establish communication protocols between different agents
-   - Define hierarchical structures for information processing
-   - Develop coordination systems for complex perception tasks
+    - Establish communication protocols between different agents
+    - Define hierarchical structures for information processing
+    - Develop coordination systems for complex perception tasks
 
 2. **Learning Agents**: Design aspects of awareness that evolve through experience
-   - Include pattern refinement based on feedback
-   - Build in capacity development through practice
-   - Create experience integration for enhanced functioning
+    - Include pattern refinement based on feedback
+    - Build in capacity development through practice
+    - Create experience integration for enhanced functioning
 
 3. **Meta-Agents**: Develop oversight functions that monitor and coordinate other agents
-   - Create supervision structures for agent networks
-   - Establish quality control for perception processing
-   - Build strategic direction for overall perceptual system
+    - Create supervision structures for agent networks
+    - Establish quality control for perception processing
+    - Build strategic direction for overall perceptual system
 
 By consciously differentiating aspects of your awareness for specialized functions, you're not creating separate entities but organizing your own consciousness into more efficient structures—like a corporation creating departments for specialized tasks.
 
