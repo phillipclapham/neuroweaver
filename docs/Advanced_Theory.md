@@ -508,53 +508,53 @@ We never perceive reality directly but always through some set of filters—the 
 #### The Reality Lens Crafting Protocol
 
 1. **Lens Analysis**: Examine your current perceptual filters
-   - Identify default lenses you typically employ
-   - Note distortions and limitations in these lenses
-   - Observe how these filters shape your experience
+    - Identify default lenses you typically employ
+    - Note distortions and limitations in these lenses
+    - Observe how these filters shape your experience
 
 2. **Lens Design**: Craft alternative perception filters
-   - Define the specific filtering properties you desire
-   - Establish the pattern emphasis for your new lens
-   - Create the interpretive framework for filtered information
+    - Define the specific filtering properties you desire
+    - Establish the pattern emphasis for your new lens
+    - Create the interpretive framework for filtered information
 
 3. **Lens Installation**: Activate your newly crafted filters
-   - Clear your perceptual field of contradictory filters
-   - Install the new lens through focused intention
-   - Stabilize the filter through initial practice
+    - Clear your perceptual field of contradictory filters
+    - Install the new lens through focused intention
+    - Stabilize the filter through initial practice
 
 4. **Lens Testing**: Experiment with your new perceptual framework
-   - Note differences in what becomes apparent through this filter
-   - Observe changes in your interpretations and responses
-   - Document unexpected discoveries through this lens
+    - Note differences in what becomes apparent through this filter
+    - Observe changes in your interpretations and responses
+    - Document unexpected discoveries through this lens
 
 5. **Lens Refinement**: Evolve your perception filters based on experience
-   - Adjust filtering parameters for optimal functioning
-   - Enhance pattern recognition capacity
-   - Integrate with complementary lenses when needed
+    - Adjust filtering parameters for optimal functioning
+    - Enhance pattern recognition capacity
+    - Integrate with complementary lenses when needed
 
 #### Experimental Lens Types
 
 For the adventurous perception crafter:
 
 1. **Quantum Possibility Lenses**: Filters that reveal multiple potential realities simultaneously
-   - See situations as probability fields rather than fixed conditions
-   - Perceive multiple possible futures branching from each moment
-   - Notice how observation influences which possibilities become more probable
+    - See situations as probability fields rather than fixed conditions
+    - Perceive multiple possible futures branching from each moment
+    - Notice how observation influences which possibilities become more probable
 
 2. **Pattern Intelligence Lenses**: Filters that reveal the living intelligence within patterns
-   - Perceive patterns as having purpose and direction rather than random arrangement
-   - Notice how patterns communicate information about their environment
-   - Experience the inherent creativity in pattern evolution
+    - Perceive patterns as having purpose and direction rather than random arrangement
+    - Notice how patterns communicate information about their environment
+    - Experience the inherent creativity in pattern evolution
 
 3. **Boundary Dissolution Lenses**: Filters that soften the seemingly solid boundaries between entities
-   - Perceive the continuous fields that connect apparently separate objects
-   - Notice the permeable nature of boundaries at different scales
-   - Experience the dynamic exchange across boundary interfaces
+    - Perceive the continuous fields that connect apparently separate objects
+    - Notice the permeable nature of boundaries at different scales
+    - Experience the dynamic exchange across boundary interfaces
 
 4. **Infinite Potential Lenses**: Filters that reveal the latent possibilities within seemingly fixed situations
-   - Perceive the hidden potentials within apparent limitations
-   - Notice the space of possibility surrounding every manifest condition
-   - Experience reality as pregnant with emergent potential rather than statically determined
+    - Perceive the hidden potentials within apparent limitations
+    - Notice the space of possibility surrounding every manifest condition
+    - Experience reality as pregnant with emergent potential rather than statically determined
 
 Different perception lenses don't simply offer varying interpretations of the same reality—they literally reveal different aspects of infinity's boundless potential, making visible what was previously invisible to awareness.
 
