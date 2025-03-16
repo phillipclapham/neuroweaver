@@ -1,5 +1,7 @@
 # The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory
 
+by Phillip Clapham
+
 >*Wherein the architecture of being becomes a playful laboratory for magnificent mischief, and reality reveals itself not as a stoic theater of determinism but as a winking co-conspirator in the grand caper of consciousness*
 
 Perceptual Architecture & Reality Synthesis Theory—known by practitioners simply as 'Neuroweaver' for its intricate interweaving of perceptual filters—functions as a multi-dimensional operating system where scientific rigor meets playful exploration, designed for those who recognize reality not as something merely observed but as something actively constructed through the artful science of conscious attention.
