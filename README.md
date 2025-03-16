@@ -4,7 +4,7 @@ by [Phillip Clapham](https://www.linkedin.com/in/phillipclapham/)
 
 >*Wherein the architecture of being becomes a playful laboratory for magnificent mischief, and reality reveals itself not as a stoic theater of determinism but as a winking co-conspirator in the grand caper of consciousness*
 
-![Neuroweaver Logo](images/parst_logo.jpg)
+![Neuroweaver Logo](docs/images/parst_logo.jpg)
 
 **Read the Book**: [The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory](https://neuroweaverlab.com)
 
