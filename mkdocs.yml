@@ -4,9 +4,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Daily Reference Guide: Daily_Reference_Guide.md
-  - AI Integration Guide: AI_Integration_Guide.md
-  - Advanced Theory: Advanced_Theory.md
+  - AI Integration Guide: Third_Mind-TECS.md
 
 markdown_extensions:
   - toc:
