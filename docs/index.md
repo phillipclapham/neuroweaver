@@ -1,6 +1,7 @@
 # **THE NEUROWEAVER LABORATORY ORIENTATION**
 
 > **URGENT NOTICE TO ALL CONSCIOUSNESS OPERATORS**
+>
 > Welcome to the Neuroweaver Laboratory!
 > You have been operating sophisticated reality-creation technology your entire life—without reading the manual. This is your official briefing.
 
