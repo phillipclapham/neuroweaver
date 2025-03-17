@@ -4,7 +4,9 @@ theme:
 
 nav:
   - Home: index.md
-  - AI Integration Guide: Third_Mind-TECS.md
+  - Implementation:
+      - The Practice of Neuroweaver: implementation_guide.md
+      - AI Integration Guide: Third_Mind-TECS.md
 
 markdown_extensions:
   - toc:

@@ -6,6 +6,10 @@ by [Phillip Clapham](https://www.linkedin.com/in/phillipclapham/)
 
 ![Neuroweaver Logo](images/parst_logo.jpeg)
 
+**Ready to jump into the practice of Neuroweaver?** [Read the Implementation Guide here.](implementation-guide.md)
+
+**Ready to harness the power of The Emergent Collaboration State with AI?** [Read the Implementation Guide here.](Third_Mind-TECS.md)
+
 Perceptual Architecture & Reality Synthesis Theory—known by practitioners simply as 'Neuroweaver' for its intricate interweaving of perceptual filters—functions as a multi-dimensional operating system where scientific rigor meets playful exploration, designed for those who recognize reality not as something merely observed but as something actively constructed through the artful science of conscious attention.
 
 At its core is the revolutionary Filter Pragmatism Axiom: the liberating recognition that our perceptual filters need not capture "truth" but need only serve our conscious intentions through their utility and fun. I consider it to be a living philosophy and multi-dimensional operating system—a dynamic framework that evolves through embodied practice rather than remaining static in the realm of abstract theory.
