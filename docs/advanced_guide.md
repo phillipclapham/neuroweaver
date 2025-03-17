@@ -152,10 +152,10 @@ We don’t claim a single “correct” view; **both** can spark insight or deep
 ### **Why This Matters for Future Study**
 
 1. **Empirical Exploration**
-   - “Wave interference” can be plugged into agent-based modeling or social experiments: do certain “resonant states” alter collective outcomes in measurable ways?
+    - “Wave interference” can be plugged into agent-based modeling or social experiments: do certain “resonant states” alter collective outcomes in measurable ways?
 
 2. **Open Possibilities**
-   - If personal experiences suggest real “fields,” Neuroweaver doesn’t dismiss it—simply note it’s beyond current mainstream science. You’re free to explore or experiment further.
+     - If personal experiences suggest real “fields,” Neuroweaver doesn’t dismiss it—simply note it’s beyond current mainstream science. You’re free to explore or experiment further.
 
 ### **In Summary**
 
