@@ -7,7 +7,7 @@ by [Phillip Clapham](https://www.linkedin.com/in/phillipclapham/)
 > Welcome to the Neuroweaver Laboratory!
 > You have been operating sophisticated reality-creation technology your entire life—without reading the manual. This is your official briefing.
 
-![Neuroweaver Logo](images/parst_logo.jpeg)
+![Neuroweaver Logo](docs/images/parst_logo.jpeg)
 
 **Ready to jump into the full framework of Neuroweaver?** [Read it here.](advanced_guide.md)
 
