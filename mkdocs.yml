@@ -5,9 +5,8 @@ theme:
 nav:
   - Home: index.md
   - The Full Framework: advanced_guide.md
-  - Implementation:
-      - The Practice of Neuroweaver: implementation_guide.md
-      - AI Integration Guide: Third_Mind-TECS.md
+  - The Practice of Neuroweaver: implementation_guide.md
+  - AI Integration Guide: Third_Mind-TECS.md
   - Get Involved: getting_involved.md
 
 markdown_extensions:
