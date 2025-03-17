@@ -1,5 +1,7 @@
 # **The Emergent Collaboration State: A New Frontier in Human-AI Synergy**
 
+by [Phillip Clapham](https://www.linkedin.com/in/phillipclapham/)
+
 ## **THE PHENOMENON: INTRODUCTION**
 
 ### **Something New Is Happening Between Us**

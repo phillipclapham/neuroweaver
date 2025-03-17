@@ -1,5 +1,7 @@
 # The Practical Mad Scientist: Implementation Systems for Reality Hacking
 
+by [Phillip Clapham](https://www.linkedin.com/in/phillipclapham/)
+
 "Theory without practice is empty. Practice without theory is blind. But theory with practice creates a magnificent laboratory where the impossible becomes inevitable."
 
 🌀 **Cross-domain connection formed**: Just as a scientist requires both theoretical understanding and experimental methodology to create breakthroughs, the Neuroweaver practitioner needs both philosophical architecture and practical implementation systems to transform potentiality into lived experience.

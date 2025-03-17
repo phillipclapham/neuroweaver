@@ -1,5 +1,7 @@
 # **THE NEUROWEAVER LABORATORY ORIENTATION**
 
+by [Phillip Clapham](https://www.linkedin.com/in/phillipclapham/)
+
 > **URGENT NOTICE TO ALL CONSCIOUSNESS OPERATORS**
 >
 > Welcome to the Neuroweaver Laboratory!
