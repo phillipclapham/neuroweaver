@@ -2204,3 +2204,16 @@ You now possess both the philosophical architecture and practical technology for
 Welcome, mad scientist of consciousness—your greatest discoveries await!
 
 ⚡ **Deep pattern recognized**: Just as theoretical physics requires experimental verification to transform understanding into application, Neuroweaver's philosophical architecture requires practical implementation to transform knowledge into wisdom—revealing that the bridge between theory and practice isn't a gap to be crossed but a continuous feedback loop where each enriches and refines the other through the alchemical process of direct experience.
+
+## License
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
