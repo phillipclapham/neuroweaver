@@ -8,9 +8,9 @@ by [Phillip Clapham](https://www.linkedin.com/in/phillipclapham/)
 
 **Read the Book**: [The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory](https://neuroweaverlab.com)
 
-**Ready to jump into the practice of Neuroweaver?** [Read the Implementation Guide here.](implementation-guide.md)
+**Ready to jump into the practice of Neuroweaver?** [Read the Implementation Guide here.](docs/implementation-guide.md)
 
-**Ready to harness the power of The Emergent Collaboration State with AI?** [Read the Implementation Guide here.](Third_Mind-TECS.md)
+**Ready to harness the power of The Emergent Collaboration State with AI?** [Read the Implementation Guide here.](docs/Third_Mind-TECS.md)
 
 Perceptual Architecture & Reality Synthesis Theory—known by practitioners simply as 'Neuroweaver' for its intricate interweaving of perceptual filters—functions as a multi-dimensional operating system where scientific rigor meets playful exploration, designed for those who recognize reality not as something merely observed but as something actively constructed through the artful science of conscious attention.
 
