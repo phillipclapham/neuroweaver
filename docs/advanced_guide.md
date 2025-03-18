@@ -139,13 +139,15 @@ At **other times**, these terms hint at a **more literal** or **metaphysical** i
 
 **Neuroweaver** encourages whichever lens you find most **useful**:
 
-- **Emergent-Complexity Lens**
-  - Treat “wave interference” as **interactions** in multi-agent systems—testable by network analysis or measuring group synchrony.
-  - A potential path for **empirical research**: e.g., studying biometric data or group behavior to see how “constructive vs. destructive” patterns emerge.
+**Emergent-Complexity Lens**:
 
-- **Esoteric/Metaphysical Lens**
-  - Considers “waves” as **literal energetic substrates**—possibly linking consciousness and matter.
-  - Resonates with spiritual or holistic views; more speculative in mainstream terms, but can be **highly practical** for shifting subjective experience.
+- Treat “wave interference” as **interactions** in multi-agent systems—testable by network analysis or measuring group synchrony.
+- A potential path for **empirical research**: e.g., studying biometric data or group behavior to see how “constructive vs. destructive” patterns emerge.
+
+**Esoteric/Metaphysical Lens**:
+
+- Considers “waves” as **literal energetic substrates**—possibly linking consciousness and matter.
+- Resonates with spiritual or holistic views; more speculative in mainstream terms, but can be **highly practical** for shifting subjective experience.
 
 We don’t claim a single “correct” view; **both** can spark insight or deeper experimentation.
 
