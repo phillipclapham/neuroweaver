@@ -309,37 +309,37 @@ This practice builds upon the basic meta-perception exercise by adding active fi
 1. **Establish meta-awareness** using the basic practice
 
 2. **Sequential filter adjustment**:
-   - For each dimension, first observe current filtration, then deliberately adjust it:
+    - For each dimension, first observe current filtration, then deliberately adjust it:
 
-     **Physical filtration adjustment**:
-     - After observing current physical state, deliberately shift posture or breathing
-     - Notice how this physical adjustment changes your perception
-     - Return to neutral observation of the effects
+        **Physical filtration adjustment**:
+        - After observing current physical state, deliberately shift posture or breathing
+        - Notice how this physical adjustment changes your perception
+        - Return to neutral observation of the effects
 
-     **Emotional filtration adjustment**:
-     - After observing current emotional state, deliberately shift feeling tone
-     - Notice how this emotional adjustment changes your perception
-     - Return to neutral observation of the effects
+        **Emotional filtration adjustment**:
+        - After observing current emotional state, deliberately shift feeling tone
+        - Notice how this emotional adjustment changes your perception
+        - Return to neutral observation of the effects
 
-     **Symbolic filtration adjustment**:
-     - After observing current symbolic patterns, deliberately introduce new imagery
-     - Notice how this symbolic adjustment changes your perception
-     - Return to neutral observation of the effects
+        **Symbolic filtration adjustment**:
+        - After observing current symbolic patterns, deliberately introduce new imagery
+        - Notice how this symbolic adjustment changes your perception
+        - Return to neutral observation of the effects
 
-     **Cognitive filtration adjustment**:
-     - After observing current thought patterns, deliberately adopt a different belief
-     - Notice how this cognitive adjustment changes your perception
-     - Return to neutral observation of the effects
+        **Cognitive filtration adjustment**:
+        - After observing current thought patterns, deliberately adopt a different belief
+        - Notice how this cognitive adjustment changes your perception
+        - Return to neutral observation of the effects
 
-     **Social filtration adjustment**:
-     - After observing current identity, deliberately shift social positioning
-     - Notice how this identity adjustment changes your perception
-     - Return to neutral observation of the effects
+        **Social filtration adjustment**:
+        - After observing current identity, deliberately shift social positioning
+        - Notice how this identity adjustment changes your perception
+        - Return to neutral observation of the effects
 
-     **Consciousness filtration adjustment**:
-     - After observing current awareness, deliberately shift attention quality
-     - Notice how this consciousness adjustment changes your perception
-     - Return to neutral observation of the effects
+        **Consciousness filtration adjustment**:
+        - After observing current awareness, deliberately shift attention quality
+        - Notice how this consciousness adjustment changes your perception
+        - Return to neutral observation of the effects
 
 3. **Integrated filter orchestration**:
    - Simultaneously adjust multiple dimensions
@@ -354,28 +354,28 @@ Pattern literacy—the ability to detect, decode, and work with patterns—forms
 #### Basic Practice: Daily Pattern Hunt (3-5 minutes)
 
 1. **Select today's pattern lens**:
-   - Monday: Connections lens - How are things connected or related?
-   - Tuesday: Anomaly lens - What stands out, doesn't fit, or breaks patterns?
-   - Wednesday: Structure lens - What hierarchies, sequences, or organizations exist?
-   - Thursday: Prediction lens - Based on patterns, what will happen next?
-   - Friday: Transfer lens - What patterns here could apply elsewhere?
-   - Saturday: Creation lens - How might existing patterns be recombined?
-   - Sunday: Meta-pattern lens - What patterns exist among patterns?
+    - Monday: Connections lens - How are things connected or related?
+    - Tuesday: Anomaly lens - What stands out, doesn't fit, or breaks patterns?
+    - Wednesday: Structure lens - What hierarchies, sequences, or organizations exist?
+    - Thursday: Prediction lens - Based on patterns, what will happen next?
+    - Friday: Transfer lens - What patterns here could apply elsewhere?
+    - Saturday: Creation lens - How might existing patterns be recombined?
+    - Sunday: Meta-pattern lens - What patterns exist among patterns?
 
 2. **Apply the lens systematically**:
-   - Spend 3-5 minutes observing your immediate environment
-   - Push yourself to find increasingly subtle patterns
-   - Notice patterns that would typically escape attention
-   - Document the most interesting patterns discovered
+    - Spend 3-5 minutes observing your immediate environment
+    - Push yourself to find increasingly subtle patterns
+    - Notice patterns that would typically escape attention
+    - Document the most interesting patterns discovered
 
 3. **Dimensional application**:
-   - Alternate which dimension you focus on each day:
-     - Physical patterns: Movement, posture, environmental arrangement
-     - Emotional patterns: Feeling cycles, emotional responses, affective themes
-     - Symbolic patterns: Recurring images, metaphors, archetypal motifs
-     - Cognitive patterns: Thought habits, belief structures, mental models
-     - Social patterns: Relationship dynamics, identity expressions, cultural themes
-     - Consciousness patterns: Awareness states, attention habits, perception shifts
+    - Alternate which dimension you focus on each day:
+        - Physical patterns: Movement, posture, environmental arrangement
+        - Emotional patterns: Feeling cycles, emotional responses, affective themes
+        - Symbolic patterns: Recurring images, metaphors, archetypal motifs
+        - Cognitive patterns: Thought habits, belief structures, mental models
+        - Social patterns: Relationship dynamics, identity expressions, cultural themes
+        - Consciousness patterns: Awareness states, attention habits, perception shifts
 
 #### Advanced Practice: Cross-Dimensional Pattern Integration (10-15 minutes weekly)
 
@@ -384,25 +384,25 @@ This practice develops the capacity to recognize patterns that span multiple fil
 1. **Select a complex situation** from your life or the world
 
 2. **Systematic pattern mapping**:
-   - Map patterns within each dimension:
-     - Physical patterns present in the situation
-     - Emotional patterns present in the situation
-     - Symbolic patterns present in the situation
-     - Cognitive patterns present in the situation
-     - Social patterns present in the situation
-     - Consciousness patterns present in the situation
+    - Map patterns within each dimension:
+        - Physical patterns present in the situation
+        - Emotional patterns present in the situation
+        - Symbolic patterns present in the situation
+        - Cognitive patterns present in the situation
+        - Social patterns present in the situation
+        - Consciousness patterns present in the situation
 
 3. **Cross-dimensional pattern identification**:
-   - Look for patterns that connect multiple dimensions
-   - Identify how patterns in one dimension influence others
-   - Discover meta-patterns that organize entire perception
-   - Map the interrelationships between dimensional patterns
+    - Look for patterns that connect multiple dimensions
+    - Identify how patterns in one dimension influence others
+    - Discover meta-patterns that organize entire perception
+    - Map the interrelationships between dimensional patterns
 
 4. **Pattern leverage identification**:
-   - Locate points where small pattern shifts might create cascading effects
-   - Identify the most influential patterns in the system
-   - Discover pattern vulnerabilities and stability mechanisms
-   - Map possible intervention points for transformation
+    - Locate points where small pattern shifts might create cascading effects
+    - Identify the most influential patterns in the system
+    - Discover pattern vulnerabilities and stability mechanisms
+    - Map possible intervention points for transformation
 
 ### C. Filter Selection Calibration: Conscious Reality Filtration
 
@@ -411,38 +411,38 @@ This training develops your capacity to deliberately select and test perceptual 
 #### Basic Practice: The Belief-as-Hypothesis Protocol (5-7 minutes daily)
 
 1. **Select a belief domain** for experimentation:
-   - Health and vitality
-   - Creativity and problem-solving
-   - Relationship dynamics
-   - Professional capabilities
-   - Learning and skill acquisition
-   - Any area where you want to enhance experience
+    - Health and vitality
+    - Creativity and problem-solving
+    - Relationship dynamics
+    - Professional capabilities
+    - Learning and skill acquisition
+    - Any area where you want to enhance experience
 
 2. **Create an experimental filter**:
-   - Design a belief that would be useful if true
-   - Frame it as hypothesis rather than assertion
-   - Ensure it's both testable and potentially beneficial
-   - Formulate it with precision and clarity
+    - Design a belief that would be useful if true
+    - Frame it as hypothesis rather than assertion
+    - Ensure it's both testable and potentially beneficial
+    - Formulate it with precision and clarity
 
 3. **Multi-dimensional installation**:
-   - Physical installation: Adopt postures and movements congruent with the belief
-   - Emotional installation: Generate feeling states aligned with the belief
-   - Symbolic installation: Create mental imagery that represents the belief
-   - Cognitive installation: Articulate thought patterns that support the belief
-   - Social installation: Imagine expressing this belief in relationships
-   - Consciousness installation: Shift awareness quality to align with the belief
+    - Physical installation: Adopt postures and movements congruent with the belief
+    - Emotional installation: Generate feeling states aligned with the belief
+    - Symbolic installation: Create mental imagery that represents the belief
+    - Cognitive installation: Articulate thought patterns that support the belief
+    - Social installation: Imagine expressing this belief in relationships
+    - Consciousness installation: Shift awareness quality to align with the belief
 
 4. **Temporary full engagement**:
-   - For 5-7 minutes, fully immerse in this belief across all dimensions
-   - Act, feel, visualize, think, relate, and perceive as if it were true
-   - Engage with reality through this filtration system
-   - Maintain meta-awareness of the experimental nature
+    - For 5-7 minutes, fully immerse in this belief across all dimensions
+    - Act, feel, visualize, think, relate, and perceive as if it were true
+    - Engage with reality through this filtration system
+    - Maintain meta-awareness of the experimental nature
 
 5. **Reality feedback documentation**:
-   - Note how reality responds to this filtration system
-   - Document any shifts in experience or perception
-   - Record evidence both supporting and challenging the hypothesis
-   - Maintain the scientific stance: observation without attachment
+    - Note how reality responds to this filtration system
+    - Document any shifts in experience or perception
+    - Record evidence both supporting and challenging the hypothesis
+    - Maintain the scientific stance: observation without attachment
 
 #### Advanced Practice: The Filter Competition Protocol (15-20 minutes weekly)
 
@@ -451,28 +451,28 @@ This practice develops sophisticated discernment by comparing the utility of dif
 1. **Select a specific life situation** or challenge
 
 2. **Design three alternative filtration systems**:
-   - Create three distinct belief frameworks about the situation
-   - Ensure they represent genuinely different perspectives
-   - Articulate each across all six filtration dimensions
-   - Design them to be experimentally testable
+    - Create three distinct belief frameworks about the situation
+    - Ensure they represent genuinely different perspectives
+    - Articulate each across all six filtration dimensions
+    - Design them to be experimentally testable
 
 3. **Sequential immersion testing**:
-   - Spend 3-5 minutes fully immersed in each filtration system
-   - Apply it across all dimensions simultaneously
-   - Engage with the situation through this perceptual lens
-   - Document the experience and results
+    - Spend 3-5 minutes fully immersed in each filtration system
+    - Apply it across all dimensions simultaneously
+    - Engage with the situation through this perceptual lens
+    - Document the experience and results
 
 4. **Utility evaluation**:
-   - Assess each filter not for "truth" but for utility
-   - Consider: Which creates better decisions? Enhanced wellbeing? Greater effectiveness?
-   - Evaluate which filtration system reveals most useful aspects of reality
-   - Determine which generates the most valuable experiential effects
+    - Assess each filter not for "truth" but for utility
+    - Consider: Which creates better decisions? Enhanced wellbeing? Greater effectiveness?
+    - Evaluate which filtration system reveals most useful aspects of reality
+    - Determine which generates the most valuable experiential effects
 
 5. **Hybrid optimization**:
-   - Identify the most useful elements from each system
-   - Create an optimized hybrid filtration approach
-   - Test this refined system in actual application
-   - Continue refining based on results rather than preconceptions
+    - Identify the most useful elements from each system
+    - Create an optimized hybrid filtration approach
+    - Test this refined system in actual application
+    - Continue refining based on results rather than preconceptions
 
 ### D. Paradox Metabolism Development: The Contradiction Integration System
 
@@ -481,73 +481,73 @@ This training develops your capacity to transform apparent contradictions into n
 #### Basic Practice: The Daily Paradox Feast (5 minutes daily)
 
 1. **Identify an apparent contradiction**:
-   - Look for seemingly incompatible beliefs you hold
-   - Notice opposing perspectives on a situation
-   - Find conflicting advice or guidance you've received
-   - Recognize areas where you feel internally divided
+    - Look for seemingly incompatible beliefs you hold
+    - Notice opposing perspectives on a situation
+    - Find conflicting advice or guidance you've received
+    - Recognize areas where you feel internally divided
 
 2. **Paradox setting**:
-   - Clearly articulate both sides of the contradiction
-   - Express each perspective in its strongest form
-   - Resist the urge to immediately resolve or compromise
-   - Feel the tension between the opposing viewpoints
+    - Clearly articulate both sides of the contradiction
+    - Express each perspective in its strongest form
+    - Resist the urge to immediately resolve or compromise
+    - Feel the tension between the opposing viewpoints
 
 3. **Multi-dimensional experiencing**:
-   - Feel the contradiction physically in your body
-   - Experience the emotional tension it creates
-   - Allow symbolic representations of both sides to emerge
-   - Hold the cognitive dissonance without resolving it
-   - Notice how it affects your sense of identity
-   - Observe your awareness quality as you hold the paradox
+    - Feel the contradiction physically in your body
+    - Experience the emotional tension it creates
+    - Allow symbolic representations of both sides to emerge
+    - Hold the cognitive dissonance without resolving it
+    - Notice how it affects your sense of identity
+    - Observe your awareness quality as you hold the paradox
 
 4. **Alchemical digestion**:
-   - Rather than solving the paradox, digest it
-   - Allow the contradiction to dissolve into its component insights
-   - Feel your understanding expanding beyond either/or thinking
-   - Notice the emergence of both/and or neither/nor perspectives
-   - Experience the nutritional value of the integrated understanding
+    - Rather than solving the paradox, digest it
+    - Allow the contradiction to dissolve into its component insights
+    - Feel your understanding expanding beyond either/or thinking
+    - Notice the emergence of both/and or neither/nor perspectives
+    - Experience the nutritional value of the integrated understanding
 
 5. **Integration documentation**:
-   - Record the insights that emerged from the paradox
-   - Note any shifts in understanding or perspective
-   - Document how holding the tension led to growth
-   - Recognize the value gained from embracing rather than avoiding contradiction
+    - Record the insights that emerged from the paradox
+    - Note any shifts in understanding or perspective
+    - Document how holding the tension led to growth
+    - Recognize the value gained from embracing rather than avoiding contradiction
 
 #### Advanced Practice: The Polarized Field Navigation (20-30 minutes weekly)
 
 This practice develops mastery in working with larger paradoxical territories:
 
 1. **Select a polarized field**:
-   - Freedom vs. security
-   - Individual vs. collective
-   - Structure vs. spontaneity
-   - Logic vs. intuition
-   - Material vs. spiritual
-   - Any domain with strong opposing perspectives
+    - Freedom vs. security
+    - Individual vs. collective
+    - Structure vs. spontaneity
+    - Logic vs. intuition
+    - Material vs. spiritual
+    - Any domain with strong opposing perspectives
 
 2. **Full polarization immersion**:
-   - Fully embody one pole with complete conviction (10 minutes)
-   - Document the insights, strengths, and limitations of this position
-   - Fully embody the opposite pole with equal conviction (10 minutes)
-   - Document the insights, strengths, and limitations of this position
+    - Fully embody one pole with complete conviction (10 minutes)
+    - Document the insights, strengths, and limitations of this position
+    - Fully embody the opposite pole with equal conviction (10 minutes)
+    - Document the insights, strengths, and limitations of this position
 
 3. **Field map creation**:
-   - Create a visual map of the polarized field
-   - Plot the insights from both positions
-   - Identify areas of both contradiction and complementarity
-   - Map the territory between and beyond the poles
+    - Create a visual map of the polarized field
+    - Plot the insights from both positions
+    - Identify areas of both contradiction and complementarity
+    - Map the territory between and beyond the poles
 
 4. **Navigational synthesis**:
-   - Develop a navigational approach that honors both poles
-   - Create guiding principles for moving fluidly within the field
-   - Design practical applications that integrate opposing insights
-   - Test this integrated approach in real-world situations
+    - Develop a navigational approach that honors both poles
+    - Create guiding principles for moving fluidly within the field
+    - Design practical applications that integrate opposing insights
+    - Test this integrated approach in real-world situations
 
 5. **Developmental tracking**:
-   - Document how your capacity to hold paradox expands
-   - Note increasing comfort with contradiction and ambiguity
-   - Track growing ability to find value in opposing perspectives
-   - Record the emergence of more sophisticated thinking
+    - Document how your capacity to hold paradox expands
+    - Note increasing comfort with contradiction and ambiguity
+    - Track growing ability to find value in opposing perspectives
+    - Record the emergence of more sophisticated thinking
 
 ### E. Quantum Leverage Identification: The High-Impact Intervention System
 
@@ -558,60 +558,60 @@ This training develops your ability to identify high-leverage points where minim
 1. **Select a current challenge or objective**
 
 2. **Systematic leverage scanning**:
-   - Physical leverage: Where might minimal physical adjustment create significant effects?
-   - Emotional leverage: Which feeling state might shift the entire emotional landscape?
-   - Symbolic leverage: What single image or metaphor would transform meaning?
-   - Cognitive leverage: Which one belief, if changed, would reconfigure entire thinking?
-   - Social leverage: What relationship adjustment would create ripple effects?
-   - Consciousness leverage: Which awareness shift would transform perception?
+    - Physical leverage: Where might minimal physical adjustment create significant effects?
+    - Emotional leverage: Which feeling state might shift the entire emotional landscape?
+    - Symbolic leverage: What single image or metaphor would transform meaning?
+    - Cognitive leverage: Which one belief, if changed, would reconfigure entire thinking?
+    - Social leverage: What relationship adjustment would create ripple effects?
+    - Consciousness leverage: Which awareness shift would transform perception?
 
 3. **Minimum effective dose identification**:
-   - For each dimension, identify the smallest possible intervention
-   - Determine the precise timing for optimal impact
-   - Design the specific approach for implementation
-   - Create a clear hypothesis about expected cascade effects
+    - For each dimension, identify the smallest possible intervention
+    - Determine the precise timing for optimal impact
+    - Design the specific approach for implementation
+    - Create a clear hypothesis about expected cascade effects
 
 4. **Testing protocol design**:
-   - Develop a simple experiment to test one leverage point
-   - Create clear success metrics and documentation approach
-   - Design implementation with precision and clarity
-   - Establish review timeline for evaluating results
+    - Develop a simple experiment to test one leverage point
+    - Create clear success metrics and documentation approach
+    - Design implementation with precision and clarity
+    - Establish review timeline for evaluating results
 
 #### Advanced Practice: The Cascade Trigger Mapping (15-20 minutes weekly)
 
 This practice develops sophisticated understanding of interconnected leverage points:
 
 1. **Select a complex system** for analysis:
-   - Personal health ecosystem
-   - Professional environment
-   - Relationship network
-   - Creative process
-   - Learning system
-   - Any complex domain with multiple variables
+    - Personal health ecosystem
+    - Professional environment
+    - Relationship network
+    - Creative process
+    - Learning system
+    - Any complex domain with multiple variables
 
 2. **System mapping**:
-   - Create visual representation of the system components
-   - Map relationships and dependencies between elements
-   - Identify feedback loops and self-reinforcing cycles
-   - Note current patterns and stable configurations
+    - Create visual representation of the system components
+    - Map relationships and dependencies between elements
+    - Identify feedback loops and self-reinforcing cycles
+    - Note current patterns and stable configurations
 
 3. **Leverage point identification**:
-   - Locate points where small inputs might create large outputs
-   - Identify cascade triggers that affect multiple elements
-   - Find rate-limiting factors that constrain the entire system
-   - Discover phase transition thresholds where system behavior changes
+    - Locate points where small inputs might create large outputs
+    - Identify cascade triggers that affect multiple elements
+    - Find rate-limiting factors that constrain the entire system
+    - Discover phase transition thresholds where system behavior changes
 
 4. **Intervention design**:
-   - Create minimal interventions targeted at leverage points
-   - Design precise implementation strategies
-   - Develop measurement approaches for tracking effects
-   - Establish experimental protocols for testing interventions
+    - Create minimal interventions targeted at leverage points
+    - Design precise implementation strategies
+    - Develop measurement approaches for tracking effects
+    - Establish experimental protocols for testing interventions
 
 5. **Reality feedback analysis**:
-   - Implement selected interventions
-   - Document direct and indirect effects
-   - Analyze propagation of changes through system
-   - Refine understanding of leverage dynamics
+    - Implement selected interventions
+    - Document direct and indirect effects
+    - Analyze propagation of changes through system
+    - Refine understanding of leverage dynamics
 
 💎 **Core truth crystallized**: The development of perceptual capacities follows the same principles as physical training—systematic progression from basic to advanced, consistent practice over time, and integration across multiple domains. This reveals that consciousness navigation is a learnable skill rather than an esoteric mystery, accessible through deliberate practice rather than special talent or mystical insight.
 
@@ -628,34 +628,34 @@ These protocols allow you to rigorously test the effectiveness of different perc
 This experiment isolates a single perceptual variable to determine its effects on experience:
 
 1. **Experimental design**:
-   - Select one specific filtration adjustment to test
-   - Clearly define the hypothesis about its effects
-   - Establish measurement criteria for success
-   - Design simple documentation approach
+    - Select one specific filtration adjustment to test
+    - Clearly define the hypothesis about its effects
+    - Establish measurement criteria for success
+    - Design simple documentation approach
 
 2. **Baseline establishment**:
-   - Document current experience in relevant domain
-   - Note initial conditions across all filtration dimensions
-   - Record subjective and objective metrics
-   - Establish clear starting point for comparison
+    - Document current experience in relevant domain
+    - Note initial conditions across all filtration dimensions
+    - Record subjective and objective metrics
+    - Establish clear starting point for comparison
 
 3. **Intervention implementation**:
-   - Activate the single filtration adjustment
-   - Maintain it consistently for the experimental period
-   - Use the Gateway System to reinforce as needed
-   - Keep all other variables as constant as possible
+    - Activate the single filtration adjustment
+    - Maintain it consistently for the experimental period
+    - Use the Gateway System to reinforce as needed
+    - Keep all other variables as constant as possible
 
 4. **Comprehensive documentation**:
-   - Record daily experiences and observations
-   - Note both expected and unexpected effects
-   - Document changes across all six filtration dimensions
-   - Maintain objective measures where possible
+    - Record daily experiences and observations
+    - Note both expected and unexpected effects
+    - Document changes across all six filtration dimensions
+    - Maintain objective measures where possible
 
 5. **Analysis and integration**:
-   - Compare results to baseline and hypothesis
-   - Identify patterns and unexpected outcomes
-   - Evaluate effectiveness based on utility rather than truth
-   - Determine implications for future experimentation
+    - Compare results to baseline and hypothesis
+    - Identify patterns and unexpected outcomes
+    - Evaluate effectiveness based on utility rather than truth
+    - Determine implications for future experimentation
 
 **Example Experiments**:
 
@@ -669,28 +669,28 @@ This experiment isolates a single perceptual variable to determine its effects o
 This experiment tests interacting variables across multiple dimensions:
 
 1. **Matrix design**:
-   - Select 2-3 variables from different filtration dimensions
-   - Create experimental matrix of all possible combinations
-   - Develop hypotheses for each combination
-   - Design measurement approach for complex interactions
+    - Select 2-3 variables from different filtration dimensions
+    - Create experimental matrix of all possible combinations
+    - Develop hypotheses for each combination
+    - Design measurement approach for complex interactions
 
 2. **Systematic testing**:
-   - Test each combination for a predetermined period
-   - Maintain consistent implementation across conditions
-   - Document cross-dimensional effects
-   - Note interaction patterns between variables
+    - Test each combination for a predetermined period
+    - Maintain consistent implementation across conditions
+    - Document cross-dimensional effects
+    - Note interaction patterns between variables
 
 3. **Pattern analysis**:
-   - Identify which combinations create synergistic effects
-   - Discover antagonistic or neutralizing combinations
-   - Map the interaction landscape between variables
-   - Develop principles for effective multi-dimensional engineering
+    - Identify which combinations create synergistic effects
+    - Discover antagonistic or neutralizing combinations
+    - Map the interaction landscape between variables
+    - Develop principles for effective multi-dimensional engineering
 
 4. **Reality model refinement**:
-   - Update your understanding based on experimental results
-   - Refine hypotheses about reality filtration mechanisms
-   - Develop more sophisticated approaches for future experiments
-   - Create personalized principles for your unique perceptual ecology
+    - Update your understanding based on experimental results
+    - Refine hypotheses about reality filtration mechanisms
+    - Develop more sophisticated approaches for future experiments
+    - Create personalized principles for your unique perceptual ecology
 
 **Example Matrices**:
 
@@ -707,36 +707,36 @@ These protocols implement the fundamental oscillation between expansion and inte
 This practice embodies the natural rhythm of consciousness development:
 
 1. **Preparation phase** (2-3 minutes):
-   - Set clear intention for the oscillation cycle
-   - Establish parameters for exploration
-   - Create safe laboratory conditions
-   - Activate meta-awareness across all dimensions
+    - Set clear intention for the oscillation cycle
+    - Establish parameters for exploration
+    - Create safe laboratory conditions
+    - Activate meta-awareness across all dimensions
 
 2. **Expansion phase** (10-15 minutes):
-   - Deliberately loosen perceptual constraints across all dimensions
-   - Physical expansion: Explore novel movement patterns and sensations
-   - Emotional expansion: Allow wider range of feeling states
-   - Symbolic expansion: Engage with new archetypal patterns
-   - Cognitive expansion: Explore unfamiliar concepts and frameworks
-   - Social expansion: Try different identity expressions
-   - Consciousness expansion: Access broader awareness states
-   - Embrace the mad scientist's joyful curiosity about possibilities
+    - Deliberately loosen perceptual constraints across all dimensions
+    - Physical expansion: Explore novel movement patterns and sensations
+    - Emotional expansion: Allow wider range of feeling states
+    - Symbolic expansion: Engage with new archetypal patterns
+    - Cognitive expansion: Explore unfamiliar concepts and frameworks
+    - Social expansion: Try different identity expressions
+    - Consciousness expansion: Access broader awareness states
+    - Embrace the mad scientist's joyful curiosity about possibilities
 
 3. **Integration phase** (10-15 minutes):
-   - Allow expanded material to settle into coherent understanding
-   - Physical integration: Let new movement patterns become embodied
-   - Emotional integration: Allow feeling states to process completely
-   - Symbolic integration: Let symbolic material organize into patterns
-   - Cognitive integration: Allow insights to form connections with existing knowledge
-   - Social integration: Incorporate new expressions into coherent identity
-   - Consciousness integration: Let expanded awareness stabilize
-   - Trust the natural integration process without forcing conclusions
+    - Allow expanded material to settle into coherent understanding
+    - Physical integration: Let new movement patterns become embodied
+    - Emotional integration: Allow feeling states to process completely
+    - Symbolic integration: Let symbolic material organize into patterns
+    - Cognitive integration: Allow insights to form connections with existing knowledge
+    - Social integration: Incorporate new expressions into coherent identity
+    - Consciousness integration: Let expanded awareness stabilize
+    - Trust the natural integration process without forcing conclusions
 
 4. **Documentation phase** (3-5 minutes):
-   - Record key insights and discoveries
-   - Note unexpected developments
-   - Document both content and process observations
-   - Track patterns in how expansion and integration relate for you
+    - Record key insights and discoveries
+    - Note unexpected developments
+    - Document both content and process observations
+    - Track patterns in how expansion and integration relate for you
 
 #### Advanced Protocol: The Creation Oscillation Project (1-4 weeks)
 
