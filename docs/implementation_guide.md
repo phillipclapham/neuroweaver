@@ -342,10 +342,10 @@ This practice builds upon the basic meta-perception exercise by adding active fi
         - Return to neutral observation of the effects
 
 3. **Integrated filter orchestration**:
-   - Simultaneously adjust multiple dimensions
-   - Notice the synergistic effects of coordinated filtration
-   - Observe how reality shifts in response to multi-dimensional adjustments
-   - Return to neutral meta-perception of the entire process
+    - Simultaneously adjust multiple dimensions
+    - Notice the synergistic effects of coordinated filtration
+    - Observe how reality shifts in response to multi-dimensional adjustments
+    - Return to neutral meta-perception of the entire process
 
 ### B. Pattern Recognition Enhancement: The Reality Cartographer's Training
 
