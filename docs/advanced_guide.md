@@ -3,6 +3,8 @@
 by [Phillip Clapham](https://www.linkedin.com/in/phillipclapham/)
 
 >*Wherein the architecture of being becomes a playful laboratory for magnificent mischief, and reality reveals itself not as a stoic theater of determinism but as a winking co-conspirator in the grand caper of consciousness*
+>
+>‼️**Disclaimer**: If your head explodes while reading this, congratulations, you’re doing it right!
 
 ![Neuroweaver Logo](images/parst_logo.jpeg)
 
@@ -3086,6 +3088,8 @@ Perhaps the most profound truth at the edge of our map is the magnificent certai
 The master practitioner eventually recognizes that the dragons at the map's edge aren't warnings but guides—magnificent creatures who reveal new territories precisely when we acknowledge our current limitations. The most sophisticated relationship with Neuroweaver isn't to treat it as final truth but as evolving expedition—a continuing adventure where today's cutting edge becomes tomorrow's well-traveled path, and questions prove more valuable than answers in the magnificent laboratory of existence.
 
 So take this map not as destination but as starting point—your invitation to the greatest adventure possible. The frontiers await your footsteps; the laboratory hungers for your experiments; the cosmic game beckons for your play. What will you discover that we cannot yet imagine?
+
+>*Reality winks back when you least expect it*
 
 ## License
 
