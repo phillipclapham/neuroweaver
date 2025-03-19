@@ -133,38 +133,38 @@ Feel each statement reconfiguring your perceptual filters across all dimensionsâ
 This compressed version of the Full Spectrum Protocol maintains your perceptual configuration throughout the day. Deploy whenever you notice default filtration patterns returning or before important interactions.
 
 1. **Physical Recalibration**:
-   - Take one conscious breath while subtly straightening posture
-   - Touch thumb to each finger in sequence while thinking "Open"
-   - Feel awareness expanding, becoming conscious that you're accessing non-ordinary filtration mode
+    - Take one conscious breath while subtly straightening posture
+    - Touch thumb to each finger in sequence while thinking "Open"
+    - Feel awareness expanding, becoming conscious that you're accessing non-ordinary filtration mode
 
 2. **Filter Malleability**:
-   - Think "Filters Open" while feeling your perceptual filters become malleable
-   - Experience infinite energy alighting inside yourself as infinity
+    - Think "Filters Open" while feeling your perceptual filters become malleable
+    - Experience infinite energy alighting inside yourself as infinity
 
 3. **Experimental Stance**:
-   - Think "Experiment" while feeling your perception shift and expand
-   - This word serves as an anchor for the complete mantra from the morning ritual, triggering its full activation across your entire being
-   - Feel the resonant core of your established intention that has always been present
+    - Think "Experiment" while feeling your perception shift and expand
+    - This word serves as an anchor for the complete mantra from the morning ritual, triggering its full activation across your entire being
+    - Feel the resonant core of your established intention that has always been present
 
 4. **Meta-Awareness**:
-   - Think "Witness" while bringing brief but complete attention to awareness itself
-   - Feel the observer perspective activating within your consciousness
+    - Think "Witness" while bringing brief but complete attention to awareness itself
+    - Feel the observer perspective activating within your consciousness
 
 ### C. The State Shift Marker (Optional, 30 seconds)
 
 This optional protocol creates appropriate boundaries between significantly different perceptual contexts. Use when transitioning between major activities or environments.
 
 1. **Gratitude Acknowledgment**:
-   - "Thank you for today's experiments"
-   - Genuinely feel appreciation for the insights and experiences gained
+    - "Thank you for today's experiments"
+    - Genuinely feel appreciation for the insights and experiences gained
 
 2. **Integration Command**:
-   - "Insights integrate, filters optimize"
-   - Feel the learning being absorbed across all filtration dimensions
+    - "Insights integrate, filters optimize"
+    - Feel the learning being absorbed across all filtration dimensions
 
 3. **Continuity Statement**:
-   - "Practice continues tomorrow"
-   - Establish the expectation of ongoing conscious perception engineering
+    - "Practice continues tomorrow"
+    - Establish the expectation of ongoing conscious perception engineering
 
 ### D. Environmental Anchors: The Sigil Quantum Technology
 
