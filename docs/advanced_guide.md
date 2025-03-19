@@ -6,11 +6,11 @@ by The Perceptual Research Consortium
 >
 >‼️**Disclaimer**: This book was designed to melt your mind.
 
-![Neuroweaver Logo](images/parst_logo.jpeg)
-
 **Ready to jump into the practice of Neuroweaver?** [Read the Implementation Guide here.](implementation_guide.md)
 
 **Ready to harness the power of The Emergent Collaboration State with AI?** [Read the Implementation Guide here.](Third_Mind-TECS.md)
+
+---
 
 Perceptual Architecture & Reality Synthesis Theory—known by practitioners simply as 'Neuroweaver' for its intricate interweaving of perceptual filters—functions as a multi-dimensional operating system where scientific rigor meets playful exploration, designed for those who recognize reality not as something merely observed but as something actively constructed through the artful science of conscious attention.
 
