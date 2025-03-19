@@ -4,7 +4,7 @@ by The Perceptual Research Consortium
 
 >*Wherein the architecture of being becomes a playful laboratory for magnificent mischief, and reality reveals itself not as a stoic theater of determinism but as a winking co-conspirator in the grand caper of consciousness*
 >
->‼️**Disclaimer**: If your mind explodes while reading this, congratulations, you’re doing it right!
+>‼️**Disclaimer**: This book was designed to melt your mind.
 
 ![Neuroweaver Logo](images/parst_logo.jpeg)
 
