@@ -7,9 +7,8 @@ nav:
   - The Full Framework: advanced_guide.md
   - The Practice of Neuroweaver: implementation_guide.md
   - AI Integration Guide: Third_Mind-TECS.md
-  - Get Involved:
-      - Community: getting_involved.md
-      - License: license_page.md
+  - Get Involved: getting_involved.md
+  - License: license_page.md
 
 markdown_extensions:
   - toc:
