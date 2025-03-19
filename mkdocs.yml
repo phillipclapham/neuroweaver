@@ -26,4 +26,9 @@ markdown_extensions:
 plugins:
   - search
 
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/phillipclapham/neuroweaver
 copyright: "This work is licensed under a <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0 License</a>."
