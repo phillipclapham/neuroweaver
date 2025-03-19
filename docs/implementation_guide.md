@@ -190,25 +190,25 @@ Create complete activation circuits by pairing visual anchors with additional se
 #### Implementation Architecture: The Ritualized Bridge
 
 1. **Association Protocol (Days 1-7)**:
-   - Create anchor through your preferred method (AI generation, drawing, found objects)
-   - Load anchor with intention through deep meditation on desired perceptual state
-   - Cultivate feeling of intention "having always existed" within perception
-   - Fully engage with multisensory sequence when encountering anchor
-   - Perform complete sequence with conscious attention to transitions
+    - Create anchor through your preferred method (AI generation, drawing, found objects)
+    - Load anchor with intention through deep meditation on desired perceptual state
+    - Cultivate feeling of intention "having always existed" within perception
+    - Fully engage with multisensory sequence when encountering anchor
+    - Perform complete sequence with conscious attention to transitions
 
 2. **Compression Protocol (Days 8-21)**:
-   - Place anchors strategically throughout environment (minimum 3 locations)
-   - Gradually accelerate activation sequence with each encounter
-   - Allow transitions to become more fluid while maintaining full component activation
-   - Begin experimenting with different contexts and states
-   - Note variations in activation potency based on context
+    - Place anchors strategically throughout environment (minimum 3 locations)
+    - Gradually accelerate activation sequence with each encounter
+    - Allow transitions to become more fluid while maintaining full component activation
+    - Begin experimenting with different contexts and states
+    - Note variations in activation potency based on context
 
 3. **Integration Protocol (Days 22+)**:
-   - Allow entire sequence to function as unified gesture
-   - Experience activation as single perception movement rather than sequential steps
-   - Begin developing state-specific variations for different contexts
-   - Experiment with minimal activations to test strengthened neural pathways
-   - Consider developing evolutionary sequences that change as practice deepens
+    - Allow entire sequence to function as unified gesture
+    - Experience activation as single perception movement rather than sequential steps
+    - Begin developing state-specific variations for different contexts
+    - Experiment with minimal activations to test strengthened neural pathways
+    - Consider developing evolutionary sequences that change as practice deepens
 
 ### E. Advanced Gateway Techniques
 
@@ -253,54 +253,54 @@ Meta-perception—the capacity to observe your own perception—creates the foun
 #### Basic Practice: The Awareness Behind Awareness (5-10 minutes daily)
 
 1. **Establish neutral observation point**:
-    - Sit comfortably with spine straight but relaxed
-    - Take three conscious breaths to center attention
-    - Feel yourself settling into the position of the observer
+     - Sit comfortably with spine straight but relaxed
+     - Take three conscious breaths to center attention
+     - Feel yourself settling into the position of the observer
 
 2. **Sequential dimension scanning**:
-    - For each dimension, spend 1-2 minutes in focused meta-awareness:
+     - For each dimension, spend 1-2 minutes in focused meta-awareness:
 
-        **Physical meta-perception**:
-        - Notice how your body feels without changing anything
-        - Observe how physical sensations arise and pass
-        - Watch how your body's state influences what you perceive
-        - Witness the relationship between physical position and attention
+         **Physical meta-perception**:
+         - Notice how your body feels without changing anything
+         - Observe how physical sensations arise and pass
+         - Watch how your body's state influences what you perceive
+         - Witness the relationship between physical position and attention
 
-        **Emotional meta-perception**:
-        - Observe current feeling tones without attempting to change them
-        - Notice how emotions color your perception of reality
-        - Witness how specific emotions amplify or dampen aspects of experience
-        - See how your emotional state creates perceptual filters
+         **Emotional meta-perception**:
+         - Observe current feeling tones without attempting to change them
+         - Notice how emotions color your perception of reality
+         - Witness how specific emotions amplify or dampen aspects of experience
+         - See how your emotional state creates perceptual filters
 
-        **Symbolic meta-perception**:
-        - Observe what images, symbols, or associations arise spontaneously
-        - Notice how these symbolic elements organize your experience
-        - Witness how archetypes and patterns shape your reality interpretation
-        - See how your subconscious processing creates meaning frameworks
+         **Symbolic meta-perception**:
+         - Observe what images, symbols, or associations arise spontaneously
+         - Notice how these symbolic elements organize your experience
+         - Witness how archetypes and patterns shape your reality interpretation
+         - See how your subconscious processing creates meaning frameworks
 
-        **Cognitive meta-perception**:
-        - Observe thoughts arising without engaging with their content
-        - Notice how beliefs and mental models structure your perception
-        - Witness how concepts determine what you can and cannot perceive
-        - See how your thinking creates explanatory frameworks
+         **Cognitive meta-perception**:
+         - Observe thoughts arising without engaging with their content
+         - Notice how beliefs and mental models structure your perception
+         - Witness how concepts determine what you can and cannot perceive
+         - See how your thinking creates explanatory frameworks
 
-        **Social meta-perception**:
-        - Observe your sense of self and relation to others
-        - Notice how identity positions influence perspective
-        - Witness how relationship patterns shape perception
-        - See how social context creates perceptual boundaries
+         **Social meta-perception**:
+         - Observe your sense of self and relation to others
+         - Notice how identity positions influence perspective
+         - Witness how relationship patterns shape perception
+         - See how social context creates perceptual boundaries
 
-        **Consciousness meta-perception**:
-        - Observe the quality of awareness itself
-        - Notice different states of consciousness as they fluctuate
-        - Witness how awareness states determine perceptual possibilities
-        - See how the nature of attention shapes experience
+         **Consciousness meta-perception**:
+         - Observe the quality of awareness itself
+         - Notice different states of consciousness as they fluctuate
+         - Witness how awareness states determine perceptual possibilities
+         - See how the nature of attention shapes experience
 
 3. **Unified meta-perception**:
-    - Expand awareness to hold all dimensions simultaneously
-    - Feel the interrelationships between dimensions
-    - Experience your complete perceptual ecology as a unified system
-    - Rest in the awareness that observes the entire process
+     - Expand awareness to hold all dimensions simultaneously
+     - Feel the interrelationships between dimensions
+     - Experience your complete perceptual ecology as a unified system
+     - Rest in the awareness that observes the entire process
 
 #### Advanced Practice: The Reality Filtration Observer (10-15 minutes)
 
