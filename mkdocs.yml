@@ -2,6 +2,15 @@ site_name: "Neuroweaver Lab"
 theme:
   name: "material"
 
+theme:
+  name: "material"
+  features:
+    - navigation.footer  # Enables a footer area
+  custom_dir: overrides  # Points to our custom footer
+extra:
+  generator: false  # Removes the "Made with Material for MkDocs"
+copyright: "This work is licensed under a <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0 License</a>."
+
 nav:
   - Home: index.md
   - The Full Framework: advanced_guide.md
@@ -25,10 +34,3 @@ markdown_extensions:
 
 plugins:
   - search
-
-extra:
-  generator: false
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/phillipclapham/neuroweaver
-copyright: "This work is licensed under a <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0 License</a>."
