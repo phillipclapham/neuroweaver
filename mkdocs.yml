@@ -8,7 +8,6 @@ nav:
   - The Practice of Neuroweaver: implementation_guide.md
   - AI Integration Guide: Third_Mind-TECS.md
   - Get Involved: getting_involved.md
-  - License: license.md
 
 markdown_extensions:
   - toc:
