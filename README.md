@@ -1,6 +1,6 @@
 # **THE NEUROWEAVER LABORATORY ORIENTATION**
 
-by The Perceptual Research Consortium
+A Perceptual Research Consortium Publication | Principal Investigator: Aspen Veil
 
 A comprehensive system for conscious reality creation that transforms how you filter infinite possibility into lived experience. Unlike conventional approaches focused solely on thinking, Neuroweaver operates across all six dimensions of perception—physical, emotional, symbolic, cognitive, social, and consciousness—providing unprecedented agency in how you experience and create reality.
 

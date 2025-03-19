@@ -1,6 +1,6 @@
 # The Practical Mad Scientist: Implementation Systems for Reality Hacking
 
-by The Perceptual Research Consortium
+Developed by Aspen Veil for The Perceptual Research Consortium
 
 "Theory without practice is empty. Practice without theory is blind. But theory with practice creates a magnificent laboratory where the impossible becomes inevitable."
 

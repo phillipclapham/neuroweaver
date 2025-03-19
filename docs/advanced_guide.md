@@ -1,6 +1,6 @@
 # The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory
 
-by The Perceptual Research Consortium
+A Perceptual Research Consortium Publication | Principal Investigator: Aspen Veil
 
 >*Wherein the architecture of being becomes a playful laboratory for magnificent mischief, and reality reveals itself not as a stoic theater of determinism but as a winking co-conspirator in the grand caper of consciousness*
 >

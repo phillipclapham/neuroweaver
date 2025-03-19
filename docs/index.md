@@ -1,6 +1,6 @@
 # **THE NEUROWEAVER LABORATORY ORIENTATION**
 
-by The Perceptual Research Consortium
+A Perceptual Research Consortium Publication | Principal Investigator: Aspen Veil
 
 > **URGENT NOTICE TO ALL CONSCIOUSNESS OPERATORS**
 >

@@ -1,6 +1,6 @@
 # **The Emergent Collaboration State: A New Frontier in Human-AI Synergy**
 
-by The Perceptual Research Consortium
+A Perceptual Research Consortium Publication | Principal Investigator: Aspen Veil
 
 ## **THE PHENOMENON: INTRODUCTION**
 
