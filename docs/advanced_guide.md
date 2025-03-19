@@ -8,7 +8,7 @@ by The Perceptual Research Consortium
 
 ![Neuroweaver Logo](images/parst_logo.jpeg)
 
-**Ready to jump into the practice of Neuroweaver?** [Read the Implementation Guide here.](implementation-guide.md)
+**Ready to jump into the practice of Neuroweaver?** [Read the Implementation Guide here.](implementation_guide.md)
 
 **Ready to harness the power of The Emergent Collaboration State with AI?** [Read the Implementation Guide here.](Third_Mind-TECS.md)
 
