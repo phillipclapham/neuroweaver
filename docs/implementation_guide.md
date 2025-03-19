@@ -1984,50 +1984,50 @@ Effective implementation requires balanced attention across multiple dimensions 
 These fundamental elements form the backbone of daily implementation, enhanced through deliberate oscillation between open awareness and active engineering:
 
 1. **Morning Gateway & Calibration** (15-20 minutes):
-        - **Open Awareness Reset** (5-10 minutes):
-            - Begin with clear perceptual baseline through open receptivity
-            - Allow thoughts, sensations, and perceptions to flow without interference
-            - This creates pristine laboratory conditions for subsequent reality engineering
-            - Like clearing static electricity before handling sensitive quantum measurement equipment!
-        - **Full Spectrum Protocol** (10-15 minutes):
-            - From this cleared baseline, implement the complete Gateway System
-            - Dimensional Awareness Scan for comprehensive understanding
-            - Intention setting for the day's perception work
-            - The contrast between open awareness and deliberate activation creates powerful launch dynamics
-            - The mad scientist first clears the laboratory of contaminants, then activates the reality generation apparatus with gleeful precision!
+      - **Open Awareness Reset** (5-10 minutes):
+         - Begin with clear perceptual baseline through open receptivity
+         - Allow thoughts, sensations, and perceptions to flow without interference
+         - This creates pristine laboratory conditions for subsequent reality engineering
+         - Like clearing static electricity before handling sensitive quantum measurement equipment!
+      - **Full Spectrum Protocol** (10-15 minutes):
+         - From this cleared baseline, implement the complete Gateway System
+         - Dimensional Awareness Scan for comprehensive understanding
+         - Intention setting for the day's perception work
+         - The contrast between open awareness and deliberate activation creates powerful launch dynamics
+         - The mad scientist first clears the laboratory of contaminants, then activates the reality generation apparatus with gleeful precision!
 
 2. **Reinforcement Pulses & Perceptual Agility** (30-90 seconds each, as needed throughout day):
-        - **Perceptual Reset** (15-30 seconds):
-            - Brief open awareness to clear accumulated perceptual static
-            - Return to neutral observation without forcing specific states
-        - **Filter Evolution** (15-60 seconds):
-            - Rather than merely reinforcing morning intentions, allow filters to adapt to emerging conditions
-            - When facing challenges, experiment with alternating between different perspectives
-            - Notice how each perceptual lens reveals different aspects of the situation
-            - Remain fluid rather than rigid in your perceptual stance
-        - **Reinforcement Pulse** (if needed):
-            - After exploration, you may choose to reinforce your primary intentional filters
-            - Or continue with a newly discovered, more effective filtration pattern
-            - The key is conscious choice rather than perceptual autopilot
+      - **Perceptual Reset** (15-30 seconds):
+         - Brief open awareness to clear accumulated perceptual static
+         - Return to neutral observation without forcing specific states
+      - **Filter Evolution** (15-60 seconds):
+         - Rather than merely reinforcing morning intentions, allow filters to adapt to emerging conditions
+         - When facing challenges, experiment with alternating between different perspectives
+         - Notice how each perceptual lens reveals different aspects of the situation
+         - Remain fluid rather than rigid in your perceptual stance
+      - **Reinforcement Pulse** (if needed):
+         - After exploration, you may choose to reinforce your primary intentional filters
+         - Or continue with a newly discovered, more effective filtration pattern
+         - The key is conscious choice rather than perceptual autopilot
 
 3. **Evening Integration & Documentation** (15-30 minutes):
-        - **Integration Phase** (10-20 minutes):
-            - Open awareness meditation or alternative rest method
-            - Allow the day's perception shifts to stabilize without interference
-            - This prevents engineered states from becoming rigid, maintaining perceptual fluidity
-            - The laboratory equivalent of letting experimental compounds crystallize undisturbed!
-        - **Reality Cartography** (5-10 minutes):
-            - Document patterns observed throughout the day
-            - Record filter shifts, unexpected perceptual data, and emergent insights
-            - This creates a laboratory notebook of your consciousness experiments
-            - Every mad scientist knows documentation turns chaotic discoveries into replicable science!
+      - **Integration Phase** (10-20 minutes):
+         - Open awareness meditation or alternative rest method
+         - Allow the day's perception shifts to stabilize without interference
+         - This prevents engineered states from becoming rigid, maintaining perceptual fluidity
+         - The laboratory equivalent of letting experimental compounds crystallize undisturbed!
+      - **Reality Cartography** (5-10 minutes):
+         - Document patterns observed throughout the day
+         - Record filter shifts, unexpected perceptual data, and emergent insights
+         - This creates a laboratory notebook of your consciousness experiments
+         - Every mad scientist knows documentation turns chaotic discoveries into replicable science!
 
 4. **Meta-Perception Moments** (1-2 minutes each, throughout day):
-        - Brief check-ins with the observer perspective
-        - Conscious noticing of current filtration across dimensions
-        - Micro-adjustments to optimize perception
-        - These maintain continuous meta-awareness throughout daily activities
-        - Like a scientist who periodically scans all monitoring equipment to ensure experiments are proceeding optimally!
+      - Brief check-ins with the observer perspective
+      - Conscious noticing of current filtration across dimensions
+      - Micro-adjustments to optimize perception
+      - These maintain continuous meta-awareness throughout daily activities
+      - Like a scientist who periodically scans all monitoring equipment to ensure experiments are proceeding optimally!
 
 This enhanced daily framework creates a complete oscillation rhythm between receptive awareness and active engineering—each mode amplifying the effectiveness of the other in a perpetual development cycle. Like a quantum physicist who understands both observation and non-observation affect experimental outcomes, the reality engineer uses both directed creation and open awareness to orchestrate the most magnificent perceptual symphony possible in the grand laboratory of consciousness!
 
