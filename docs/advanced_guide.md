@@ -1,6 +1,6 @@
 # The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory
 
-by [Phillip Clapham](https://www.linkedin.com/in/phillipclapham/)
+by The Perceptual Research Consortium
 
 >*Wherein the architecture of being becomes a playful laboratory for magnificent mischief, and reality reveals itself not as a stoic theater of determinism but as a winking co-conspirator in the grand caper of consciousness*
 >
@@ -3090,16 +3090,3 @@ The master practitioner eventually recognizes that the dragons at the map's edge
 So take this map not as destination but as starting point—your invitation to the greatest adventure possible. The frontiers await your footsteps; the laboratory hungers for your experiments; the cosmic game beckons for your play. What will you discover that we cannot yet imagine?
 
 >*Reality winks back when you least expect it*
-
-## License
-
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
-
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
-
-[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
-[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg

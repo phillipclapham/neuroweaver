@@ -1,6 +1,6 @@
 # **THE NEUROWEAVER LABORATORY ORIENTATION**
 
-by [Phillip Clapham](https://www.linkedin.com/in/phillipclapham/)
+by The Perceptual Research Consortium
 
 A comprehensive system for conscious reality creation that transforms how you filter infinite possibility into lived experience. Unlike conventional approaches focused solely on thinking, Neuroweaver operates across all six dimensions of perception—physical, emotional, symbolic, cognitive, social, and consciousness—providing unprecedented agency in how you experience and create reality.
 
@@ -289,13 +289,6 @@ Welcome to the laboratory. The most magnificent experiment has already begun.
 
 ## License
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+[![Creative Commons License](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
-
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
-
-[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
-[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+This work is licensed under a **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
