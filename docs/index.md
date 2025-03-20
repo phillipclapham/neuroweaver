@@ -1,4 +1,4 @@
-# The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory
+# **The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory**
 
 A Perceptual Research Consortium Publication | Principal Investigator: Aspen Veil
 

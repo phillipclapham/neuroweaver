@@ -1,4 +1,4 @@
-# The Practical Mad Scientist: Implementation Systems for Reality Hacking
+# **The Practical Mad Scientist: Implementation Systems for Reality Hacking**
 
 Developed by Aspen Veil for The Perceptual Research Consortium
 
