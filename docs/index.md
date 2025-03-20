@@ -4,7 +4,7 @@ A Perceptual Research Consortium Publication | Principal Investigator: Aspen Vei
 
 ## **ABOUT THIS DOCUMENT**
 
-The Neuroweaver framework emerged from The Perceptual Research Consortium's 15-year investigation into filtration consciousness. Principal researcher Aspen Veil and her international team synthesized findings from cognitive science, quantum mechanics, developmental psychology, and contemplative traditions into this unified approach to reality navigation.
+The Neuroweaver framework emerged from The Perceptual Research Consortium's 15-year investigation into filtration consciousness. Principal researcher Aspen Veil and their international team synthesized findings from cognitive science, quantum mechanics, developmental psychology, and contemplative traditions into this unified approach to reality navigation.
 
 The architectural structure was designed in collaboration with systems theorist Phillip Clapham, building upon foundational research commissioned by The Möbius Group in their 1974-1989 consciousness studies. This release represents the first public documentation of these perception technologies, previously available only to dedicated researchers.
 
