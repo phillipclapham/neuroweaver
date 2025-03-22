@@ -186,9 +186,9 @@ These practices specifically develop your ability to shift between different per
 
 1. Select any situation in your life
 2. Deliberately examine it through completely different filters:
-   - "What would this look like if it were perfect as is?"
-   - "What would this look like if it were exactly what I needed?"
-   - "What would this look like if it were a deliberate step in my development?"
+    - "What would this look like if it were perfect as is?"
+    - "What would this look like if it were exactly what I needed?"
+    - "What would this look like if it were a deliberate step in my development?"
 3. Notice how each filter reveals different aspects of the same situation
 4. Practice switching between perspectives with increasing speed
 
@@ -221,24 +221,24 @@ The most elegant theory is worthless without consistent implementation. This sys
 ### **5-Minute Morning Protocol**
 
 1. **Reality Check-In (60 seconds)**
-   - Take three conscious breaths
-   - Scan your physical sensations, emotions, and thoughts
-   - Acknowledge your current state without judgment
+    - Take three conscious breaths
+    - Scan your physical sensations, emotions, and thoughts
+    - Acknowledge your current state without judgment
 
 2. **Filter Programming (120 seconds)**
-   - Set your primary filter for the day (e.g., "I notice opportunities" or "I detect efficient solutions")
-   - Imagine this filter activating across your perception system
-   - Feel what it would be like to experience your day through this lens
+    - Set your primary filter for the day (e.g., "I notice opportunities" or "I detect efficient solutions")
+    - Imagine this filter activating across your perception system
+    - Feel what it would be like to experience your day through this lens
 
 3. **Halfway Hustle Activation (60 seconds)**
-   - Identify your most important action for the day
-   - Feel 100% commitment to executing this action
-   - Simultaneously open to unexpected assistance and alternate pathways
+    - Identify your most important action for the day
+    - Feel 100% commitment to executing this action
+    - Simultaneously open to unexpected assistance and alternate pathways
 
 4. **Compression Technique (60 seconds)**
-   - Create a simple physical gesture that captures this state
-   - Practice this gesture while feeling the complete state activation
-   - This becomes your "state switch" to reactivate throughout the day
+    - Create a simple physical gesture that captures this state
+    - Practice this gesture while feeling the complete state activation
+    - This becomes your "state switch" to reactivate throughout the day
 
 ### **Implementation Bridges**
 
@@ -274,19 +274,19 @@ Most people miss the feedback reality provides about their filter effectiveness.
 ### **10-Minute Evening Laboratory**
 
 1. **Results Documentation (3 minutes)**
-   - Record specific results from the day
-   - Note any "sideways wins" or unexpected developments
-   - Identify patterns in how reality responded to your filters
+    - Record specific results from the day
+    - Note any "sideways wins" or unexpected developments
+    - Identify patterns in how reality responded to your filters
 
 2. **Filter Evaluation (3 minutes)**
-   - Assess the effectiveness of today's primary filter
-   - Note what worked and what could be adjusted
-   - Consider what new filter might be more effective tomorrow
+    - Assess the effectiveness of today's primary filter
+    - Note what worked and what could be adjusted
+    - Consider what new filter might be more effective tomorrow
 
 3. **Pattern Integration (4 minutes)**
-   - Look for larger patterns across multiple days
-   - Connect your filter choices with specific outcomes
-   - Develop hypotheses for more effective future experiments
+    - Look for larger patterns across multiple days
+    - Connect your filter choices with specific outcomes
+    - Develop hypotheses for more effective future experiments
 
 ### **Filter Momentum: The Compound Effect**
 
@@ -312,42 +312,42 @@ Approach reality hacking as a scientist conducting fascinating experiments rathe
 ### **Weekly Experiment Design (15-20 minutes, once per week)**
 
 1. **Pattern Analysis**
-   - Review your daily results from the past week
-   - Identify recurring themes and response patterns
-   - Note where reality seemed most responsive
+    - Review your daily results from the past week
+    - Identify recurring themes and response patterns
+    - Note where reality seemed most responsive
 
 2. **Hypothesis Formation**
-   - Based on your data, form a specific hypothesis about how your perception influences results
-   - Example: "Filtering for collaboration opportunities will generate more resources than filtering for self-reliance"
+    - Based on your data, form a specific hypothesis about how your perception influences results
+    - Example: "Filtering for collaboration opportunities will generate more resources than filtering for self-reliance"
 
 3. **Experiment Design**
-   - Create a specific filter experiment for the coming week
-   - Define clear parameters and observation methods
-   - Set criteria for what would constitute significant results
+    - Create a specific filter experiment for the coming week
+    - Define clear parameters and observation methods
+    - Set criteria for what would constitute significant results
 
 4. **Implementation Planning**
-   - Schedule specific times for experiment activation
-   - Create any necessary environmental triggers or reminders
-   - Establish documentation method
+    - Schedule specific times for experiment activation
+    - Create any necessary environmental triggers or reminders
+    - Establish documentation method
 
 ### **Experimental Filter Categories**
 
 Consider experimenting with filters in these categories:
 
 1. **Opportunity Filters**: What specific opportunities will you train yourself to notice?
-   - Example: "I notice small-scale collaboration opportunities"
+    - Example: "I notice small-scale collaboration opportunities"
 
 2. **Resource Filters**: What resources will you become more aware of?
-   - Example: "I detect underutilized resources in my environment"
+    - Example: "I detect underutilized resources in my environment"
 
 3. **Connection Filters**: What types of relationships will you recognize more readily?
-   - Example: "I notice people with complementary skills to mine"
+    - Example: "I notice people with complementary skills to mine"
 
 4. **Solution Filters**: What kinds of solutions will you detect more effectively?
-   - Example: "I recognize elegant solutions that require minimal effort"
+    - Example: "I recognize elegant solutions that require minimal effort"
 
 5. **Feedback Filters**: What responses from reality will you pay more attention to?
-   - Example: "I notice when small adjustments produce outsized results"
+    - Example: "I notice when small adjustments produce outsized results"
 
 ### **Example: A Complete Weekly Experiment**
 
@@ -449,42 +449,42 @@ Even with perfect understanding, implementation challenges are normal. Here's ho
 ### **Common Obstacles and Solutions**
 
 1. **"I'm not seeing results"**
-   - Possible cause: Filters too vague or abstract
-   - Solution: Make filters more specific and observable
-   - Example: Replace "I am abundant" with "I notice small financial opportunities"
+    - Possible cause: Filters too vague or abstract
+    - Solution: Make filters more specific and observable
+    - Example: Replace "I am abundant" with "I notice small financial opportunities"
 
 2. **"I start strong but lose momentum"**
-   - Possible cause: Missing the reinforcement system
-   - Solution: Implement the 30-second interventions consistently
-   - Use phone reminders at set times to maintain the practice
+    - Possible cause: Missing the reinforcement system
+    - Solution: Implement the 30-second interventions consistently
+    - Use phone reminders at set times to maintain the practice
 
 3. **"I'm taking action but not getting assistance"**
-   - Possible cause: Overfocusing on one expected pathway
-   - Solution: Broaden your sideways win detection
-   - Practice the question: "How might this unexpected event actually be helping me?"
+    - Possible cause: Overfocusing on one expected pathway
+    - Solution: Broaden your sideways win detection
+    - Practice the question: "How might this unexpected event actually be helping me?"
 
 4. **"I feel like I'm just pretending"**
-   - Possible cause: Conceptual understanding without embodiment
-   - Solution: Focus on actual perception shifts rather than believing claims
-   - The system works whether you "believe" in it or not
+    - Possible cause: Conceptual understanding without embodiment
+    - Solution: Focus on actual perception shifts rather than believing claims
+    - The system works whether you "believe" in it or not
 
 ### **Addressing Conflicting Filters**
 
 One of the most common challenges is unconscious filters sabotaging your conscious intentions. Address this with:
 
 1. **Conflicting Filter Identification**
-   - When facing resistance, ask: "What filter might be operating that conflicts with my intention?"
-   - Common examples include safety filters ("this change might be dangerous"), identity filters ("this isn't who I am"), or relationship filters ("this might threaten important connections")
+    - When facing resistance, ask: "What filter might be operating that conflicts with my intention?"
+    - Common examples include safety filters ("this change might be dangerous"), identity filters ("this isn't who I am"), or relationship filters ("this might threaten important connections")
 
 2. **Filter Integration Protocol**
-   - Acknowledge the protective function of the conflicting filter
-   - Create a modified intention that honors both the desired change and the legitimate concern
-   - Example: If "I attract financial abundance" activates a conflicting filter about "money corrupts," create an integrated filter: "I attract financial abundance that enhances my integrity"
+    - Acknowledge the protective function of the conflicting filter
+    - Create a modified intention that honors both the desired change and the legitimate concern
+    - Example: If "I attract financial abundance" activates a conflicting filter about "money corrupts," create an integrated filter: "I attract financial abundance that enhances my integrity"
 
 3. **Gradual Expansion Method**
-   - Begin with filter shifts that stay within your comfort zone
-   - Gradually expand the range as you build evidence of safety
-   - Use small successful experiments to build trust with your protective filtering systems
+    - Begin with filter shifts that stay within your comfort zone
+    - Gradually expand the range as you build evidence of safety
+    - Use small successful experiments to build trust with your protective filtering systems
 
 ### **When to Adjust Your Approach**
 
@@ -498,20 +498,20 @@ One of the most common challenges is unconscious filters sabotaging your conscio
 When facing challenges, use this decision process:
 
 1. Have you been consistently implementing the practice for at least 7 days?
-   - If no: Focus on consistent implementation before evaluating results
-   - If yes: Continue to question 2
+    - If no: Focus on consistent implementation before evaluating results
+    - If yes: Continue to question 2
 
 2. Are you noticing ANY changes, even if not what you expected?
-   - If yes: You may be experiencing sideways wins - expand your recognition patterns
-   - If no: Continue to question 3
+    - If yes: You may be experiencing sideways wins - expand your recognition patterns
+    - If no: Continue to question 3
 
 3. Does your filter feel emotionally charged or create internal resistance?
-   - If yes: Look for conflicting filters and use integration techniques
-   - If no: Continue to question 4
+    - If yes: Look for conflicting filters and use integration techniques
+    - If no: Continue to question 4
 
 4. Is your filter specific and observable in daily experience?
-   - If no: Make your filter more concrete and immediately observable
-   - If yes: Try a completely different filter category for your next experiment
+    - If no: Make your filter more concrete and immediately observable
+    - If yes: Try a completely different filter category for your next experiment
 
 This structured approach prevents the common pattern of abandoning effective techniques before they've had time to work.
 
@@ -603,24 +603,24 @@ This delegation system allows more sophisticated filtration than conscious atten
 Once weekly, perform this deeper reality configuration process (20-30 minutes):
 
 1. **Current Reality Assessment**
-   - Review your complete experience across all life domains
-   - Identify dominant patterns, both supportive and limiting
-   - Note areas of stagnation or unexpected development
+    - Review your complete experience across all life domains
+    - Identify dominant patterns, both supportive and limiting
+    - Note areas of stagnation or unexpected development
 
 2. **Core Filter Recalibration**
-   - Examine your fundamental filtration systems
-   - Identify which filters need adjustment, replacement, or refinement
-   - Update your core perception settings based on experimental data
+    - Examine your fundamental filtration systems
+    - Identify which filters need adjustment, replacement, or refinement
+    - Update your core perception settings based on experimental data
 
 3. **Possibility Field Expansion**
-   - Deliberately explore potential realities beyond your current probability field
-   - Create experimental filters for unlikely but desired outcomes
-   - Design practical experiments to test these expanded possibility filters
+    - Deliberately explore potential realities beyond your current probability field
+    - Create experimental filters for unlikely but desired outcomes
+    - Design practical experiments to test these expanded possibility filters
 
 4. **Integration Architecture**
-   - Ensure all filter adjustments work together harmoniously
-   - Resolve any conflicts between different filters
-   - Create implementation plan for the coming week
+    - Ensure all filter adjustments work together harmoniously
+    - Resolve any conflicts between different filters
+    - Create implementation plan for the coming week
 
 This advanced protocol works at a deeper level than daily practices, reconfiguring your entire reality filtration ecosystem rather than adjusting individual filters.
 
