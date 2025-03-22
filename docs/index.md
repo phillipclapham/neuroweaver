@@ -29,15 +29,11 @@ Most manifestation approaches fail because they:
 
 Think of reality hacking skill as developing across distinct stages:
 
-**Level 1: Unconscious Operation** - Default filters create default results without awareness
-
-**Level 2: Initial Awareness** - Recognition that filters exist and influence outcomes
-
-**Level 3: Deliberate Experimentation** - Conscious testing of different filters and tracking results
-
-**Level 4: Systematic Implementation** - Consistent application of effective filters across multiple domains
-
-**Level 5: Integrated Operation** - Effortless shifting between optimal filters as conditions change
+- **Level 1: Unconscious Operation** - Default filters create default results without awareness
+- **Level 2: Initial Awareness** - Recognition that filters exist and influence outcomes
+- **Level 3: Deliberate Experimentation** - Conscious testing of different filters and tracking results
+- **Level 4: Systematic Implementation** - Consistent application of effective filters across multiple domains
+- **Level 5: Integrated Operation** - Effortless shifting between optimal filters as conditions change
 
 This manual will take you from Level 1 to Level 3 and provide the foundation for advancing to Levels 4 and 5 through consistent practice.
 
