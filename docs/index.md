@@ -1,4 +1,4 @@
-# **THE REALITY HACKING MANUAL**
+# **THE NEUROWEAVER REALITY HACKING MANUAL**
 
 Developed by Phillip Clapham and Dr. Elara Quinn for The Perceptual Research Consortium, based on the foundational research of The Möbius Group (1974-1989).
 
@@ -10,7 +10,7 @@ Developed by Phillip Clapham and Dr. Elara Quinn for The Perceptual Research Con
 
 ## **INTRODUCTION: YOU'VE BEEN USING THIS TECHNOLOGY YOUR WHOLE LIFE**
 
-Welcome to your Reality Hacking Manual! You have been operating sophisticated reality-creation technology your entire life—without reading the instructions. This guide isn't introducing something new; it's showing you how to consciously operate equipment you've been using unconsciously.
+Welcome to the Neuroweaver Lab! You have been operating sophisticated reality-creation technology your entire life—without reading the instructions. This guide isn't introducing something new; it's showing you how to consciously operate equipment you've been using unconsciously.
 
 Your perception isn't passive—it's an active reality-filtering system determining what possibilities you can access. When your filters operate on autopilot, you get default results. When you consciously adjust them, reality responds accordingly.
 
