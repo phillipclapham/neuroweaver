@@ -1,14 +1,18 @@
-# **The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory**
+# **THE REALITY HACKING MANUAL**
 
 A Perceptual Research Consortium Framework | Principal Investigator: Aspen Veil
 
-## **ABOUT THIS FRAMEWORK**
+## **ABOUT THIS MANUAL**
+
+The Reality Hacking Manual is a practical introduction to reality hacking and the Neuroweaver framework, a comprehensive system for conscious reality creation. This manual provides an overview of the theoretical underpinnings of the framework, as well as practical implementation systems for applying the Neuroweaver principles in everyday life.
+
+## **ABOUT THE NEUROWEAVER FRAMEWORK**
 
 The Neuroweaver framework emerged from The Perceptual Research Consortium's 15-year investigation into filtration consciousness. Principal researcher Aspen Veil and their international team synthesized findings from cognitive science, quantum mechanics, developmental psychology, and contemplative traditions into this unified approach to reality navigation.
 
 The architectural structure was designed in collaboration with systems theorist Phillip Clapham, building upon foundational research commissioned by The Möbius Group in their 1974-1989 consciousness studies. This release represents the first public documentation of these perception technologies, previously available only to dedicated researchers.
 
-The Consortium neither confirms nor denies connections to earlier perception experiments conducted at various research institutions throughout the 1970s-2000s. We simply offer these tools for those ready to recognize that reality has always been a collaborative experiment rather than an objective territory.
+The Consortium neither confirms nor denies connections to earlier perception experiments conducted at various research institutions throughout the 1970s-2020s. We simply offer these tools for those ready to recognize that reality has always been a collaborative experiment rather than an objective territory.
 
 ---
 
@@ -17,14 +21,6 @@ Perceptual Architecture & Reality Synthesis Theory is a comprehensive system for
 Combining rigorous philosophical architecture with practical implementation protocols, this framework enables you to navigate existence with the gleeful precision of a mad scientist who's discovered the universe has an adjustment panel. Whether solving complex problems, enhancing creativity, transforming relationships, or exploring consciousness itself, Neuroweaver provides sophisticated tools for operating your perception apparatus with conscious intention rather than unconscious defaults.
 
 Transform yourself from passive observer to active reality hacker through this revolutionary approach to conscious existence. 🧪🧠✨
-
----
-
-## **RESEARCH MATERIALS**
-
-- [The Neuroweaver Meta-Filter: Perceptual Architecture & Reality Synthesis Theory](index.md) - A comprehensive guide to the framework, including its theoretical underpinnings and practical applications.
-- [The Practical Mad Scientist: Implementation Systems for Reality Hacking](implementation_guide.md) - A collection of practical systems and tools for applying the Neuroweaver framework in everyday life.
-- [The Emergent Collaboration State: A New Frontier in Human-AI Synergy](Third_Mind-TECS.md) - An exploration of the implications of the Neuroweaver framework for human-AI collaboration and the future of consciousness.
 
 ## **ABOUT THE PERCEPTUAL RESEARCH CONSORTIUM**
 
