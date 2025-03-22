@@ -6,6 +6,8 @@ Developed by Phillip Clapham and Dr. Elara Quinn for The Perceptual Research Con
 
 >*This document has been approved for public release*
 
+![Reality Hacking Logo](images/neuroweaver_logo.jpg)
+
 ## **INTRODUCTION: YOU'VE BEEN USING THIS TECHNOLOGY YOUR WHOLE LIFE**
 
 Welcome to your Reality Hacking Manual! You have been operating sophisticated reality-creation technology your entire life—without reading the instructions. This guide isn't introducing something new; it's showing you how to consciously operate equipment you've been using unconsciously.
