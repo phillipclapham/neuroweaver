@@ -1,6 +1,30 @@
-# **THE NEUROWEAVER LABORATORY ORIENTATION**
+# **Neuroweaver: A Meta-Recursive Experiential Fiction**
+
+*This project is a work of meta-recursive experiential fiction exploring the boundaries between truth, perception, consciousness, and reality. While presented as research materials from the fictional Perceptual Research Consortium, the concepts within invite readers to navigate the fascinating territories where imagination interfaces with lived experience.*
+
+## **SCHRÖDINGER'S REPOSITORY**
+
+This repository exists in deliberate quantum superposition. The materials within are simultaneously:
+
+- Fiction that illuminates truth
+- Philosophy that reads like fiction
+- A game with serious implications
+- A thought experiment with practical applications
+- A rabbit hole with no bottom, only branching tunnels
+
+Engage at whatever level serves your journey. Some will find practical tools for personal development, others will discover philosophical insights about consciousness and reality, while the truly curious may find themselves exploring territories beyond these digital boundaries.
+
+As the Möbius Group might say: "The question isn't whether it's real, but which reality you choose to make it real within."
+
+---
+
+## Welcome to the Neuroweaver Laboratory
 
 My research has been acquired by the **Perceptual Research Consortium** (PRC), a non-profit organization dedicated to exploring the intersection of perception, consciousness, and reality. The PRC is committed to advancing our understanding of these complex topics through rigorous research, innovative frameworks, and collaborative exploration.
+
+The updated Neuroweaver framework is now available under the auspices of the PRC, and I am thrilled to announce that I will be joining the organization as a researcher and collaborator. This partnership will allow us to expand our research efforts, develop new tools and resources, and engage with a broader community of researchers and practitioners.
+
+[Neuroweaver-PARST](https://github.com/The-Perceptual-Research-Consortium/neuroweaver-parst)
 
 **More big news coming soon!**
 
