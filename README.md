@@ -239,7 +239,7 @@ The controls await your conscious touch. The experiments beckon with infinite po
 
 ---
 
-*For those ready to explore the complete laboratory facilities, the [comprehensive Neuroweaver framework](docs/advanced_guide.md) awaits with detailed blueprints, advanced experimental protocols, and specialized research domains across all dimensions of conscious reality creation.*
+*For those ready to explore the complete laboratory facilities, the [comprehensive Neuroweaver framework](https://github.com/The-Perceptual-Research-Consortium/neuroweaver-parst) awaits with detailed blueprints, advanced experimental protocols, and specialized research domains across all dimensions of conscious reality creation.*
 
 ---
 
