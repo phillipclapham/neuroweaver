@@ -1,6 +1,6 @@
 # **Neuroweaver: A Meta-Recursive Experiential Fiction**
 
-*This project is a work of meta-recursive experiential fiction exploring the boundaries between truth, perception, consciousness, and reality. While presented as research materials from the fictional Perceptual Research Consortium, the concepts within invite readers to navigate the fascinating territories where imagination interfaces with lived experience.*
+*This project is a work of meta-recursive experiential fiction exploring the boundaries between truth, perception, consciousness, and reality. While presented as research materials from the semi-fictional Perceptual Research Consortium, the concepts within invite readers to navigate the fascinating territories where imagination interfaces with our concepts of truth and lived experience.*
 
 ## **SCHRÖDINGER'S REPOSITORY**
 
