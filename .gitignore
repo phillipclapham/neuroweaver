@@ -2,3 +2,4 @@
 memory-bank/
 .clinerules
 Pipfile.lock
+.markdownlint.json
