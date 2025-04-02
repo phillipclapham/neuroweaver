@@ -3,7 +3,11 @@ theme:
   name: "material"
 
 nav:
-  - Reality Hacking: index.md
+  - Beginners: index.md
+  - Theory: theory.md
+  - Practice: practices.md
+  - Codex: codex.md
+  - Brain Training: cognitive.md
   - About: about.md
   - License: license_page.md
 
